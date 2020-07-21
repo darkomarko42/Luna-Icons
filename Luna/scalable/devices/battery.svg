@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="battery.svg"
+   id="svg16"
+   version="1"
+   height="32"
+   width="32">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20">
+    <filter
+       height="1.188"
+       y="-0.094"
+       width="1.2538"
+       x="-0.1269"
+       id="filter873"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur875"
+         stdDeviation="1.0575"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     inkscape:current-layer="svg16"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="18.044324"
+     inkscape:cx="15.082927"
+     inkscape:zoom="24.375"
+     showgrid="false"
+     id="namedview18"
+     inkscape:window-height="1002"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     d="m 9,2.5 v 3 H 7.25 C 6.5575,5.5 6,6.036372 6,6.701172 v 21.59961 C 6,28.965582 6.5575,29.5 7.25,29.5 h 17.5 C 25.4425,29.5 26,28.965582 26,28.300782 V 6.701172 C 26,6.036372 25.4425,5.5 24.75,5.5 H 23 v -3 z"
+     style="fill:#000000;stroke-width:0.934199;fill-opacity:1;filter:url(#filter873);opacity:0.5"
+     id="path4-4" />
+  <path
+     id="path4"
+     d="m 7.25,5 h 17.5 C 25.4425,5 26,5.5352 26,6.2 V 27.8 C 26,28.4648 25.4425,29 24.75,29 H 7.25 C 6.5575,29 6,28.4648 6,27.8 V 6.2 C 6,5.5352 6.5575,5 7.25,5 Z"
+     style="fill:#4f4f4f;stroke-width:0.934199" />
+  <rect
+     id="rect6"
+     y="2"
+     x="9"
+     height="3"
+     width="14"
+     style="fill:#8e8e8e" />
+  <rect
+     ry="0"
+     rx="0"
+     y="7"
+     x="8"
+     height="20"
+     width="16"
+     id="rect847"
+     style="opacity:1;fill:#c0f957;fill-opacity:1;stroke:none;stroke-width:4.075" />
+</svg>

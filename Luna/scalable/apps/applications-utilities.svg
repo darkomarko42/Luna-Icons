@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="applications-utilities.svg"
+   id="svg16"
+   version="1"
+   height="32"
+   width="32">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20">
+    <filter
+       height="1.216"
+       y="-0.108"
+       width="1.216"
+       x="-0.108"
+       id="filter888"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur890"
+         stdDeviation="1.26"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter860"
+       x="-0.096750001"
+       width="1.1935"
+       y="-0.12221052"
+       height="1.244421">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.96750002"
+         id="feGaussianBlur862" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     inkscape:current-layer="svg16"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="14.32021"
+     inkscape:cx="13.900262"
+     inkscape:zoom="23.8125"
+     showgrid="false"
+     id="namedview18"
+     inkscape:window-height="999"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
+  <rect
+     id="rect2"
+     ry="1.4"
+     rx="1.4"
+     y="2"
+     x="2"
+     height="28"
+     width="28"
+     style="opacity:0.5;filter:url(#filter888)" />
+  <rect
+     id="rect4"
+     ry="1.4"
+     rx="1.4"
+     y="2"
+     x="2"
+     height="28"
+     width="28"
+     style="fill:#3f3f3f" />
+  <path
+     id="path6"
+     d="M 6 2 L 6 6 L 2 6 L 2 8 L 6 8 L 6 12 L 2 12 L 2 14 L 6 14 L 6 18 L 2 18 L 2 20 L 6 20 L 6 24 L 2 24 L 2 26 L 6 26 L 6 30 L 8 30 L 8 26 L 12 26 L 12 30 L 14 30 L 14 26 L 18 26 L 18 30 L 20 30 L 20 26 L 24 26 L 24 30 L 26 30 L 26 26 L 30 26 L 30 24 L 26 24 L 26 20 L 30 20 L 30 18 L 26 18 L 26 14 L 30 14 L 30 12 L 26 12 L 26 8 L 30 8 L 30 6 L 26 6 L 26 2 L 24 2 L 24 6 L 20 6 L 20 2 L 18 2 L 18 6 L 14 6 L 14 2 L 12 2 L 12 6 L 8 6 L 8 2 L 6 2 z M 8 8 L 12 8 L 12 12 L 8 12 L 8 8 z M 14 8 L 18 8 L 18 12 L 14 12 L 14 8 z M 20 8 L 24 8 L 24 12 L 20 12 L 20 8 z M 8 14 L 12 14 L 12 18 L 8 18 L 8 14 z M 14 14 L 18 14 L 18 18 L 14 18 L 14 14 z M 20 14 L 24 14 L 24 18 L 20 18 L 20 14 z M 8 20 L 12 20 L 12 24 L 8 24 L 8 20 z M 14 20 L 18 20 L 18 24 L 14 24 L 14 20 z M 20 20 L 24 20 L 24 24 L 20 24 L 20 20 z"
+     style="opacity:0.2;fill:#0efc66;fill-opacity:1" />
+  <g
+     id="g848" />
+  <path
+     style="fill:none;stroke:#0efc66;stroke-width:2;stroke-linejoin:round;stroke-opacity:1;filter:url(#filter860);opacity:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 3.9999998,16.500055 H 7.647348 l 1.775557,-6 1.183706,11 3.013066,-15.0000006 2.044581,19.0000006 2.797848,-18.0000006 2.15219,15.0000006 2.098387,-11 1.398923,6 H 28"
+     id="path10-54-7" />
+  <path
+     id="path10-54"
+     d="m 3.9999998,16.500055 h 3.647348 l 1.7755575,-6 1.1837057,11 3.013066,-15.0000004 2.044581,19.0000004 2.797848,-18.0000004 2.15219,15.0000004 2.098387,-11 1.398923,6 H 28"
+     style="fill:none;stroke:#0efc66;stroke-width:0.8;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+</svg>
