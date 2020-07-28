@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   version="1"
-   id="svg20"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="phone.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   id="svg20"
+   version="1"
+   height="32"
+   width="32">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -27,91 +27,83 @@
   <defs
      id="defs24">
     <filter
-       inkscape:collect="always"
+       height="1.1774286"
+       y="-0.088714286"
+       width="1.276"
+       x="-0.138"
+       id="filter924"
        style="color-interpolation-filters:sRGB"
-       id="filter867"
-       x="-0.09375"
-       width="1.1875"
-       y="-0.0625"
-       height="1.125">
+       inkscape:collect="always">
       <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.78125"
-         id="feGaussianBlur869" />
+         id="feGaussianBlur926"
+         stdDeviation="1.035"
+         inkscape:collect="always" />
     </filter>
   </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1003"
-     id="namedview22"
-     showgrid="false"
-     inkscape:zoom="9.0045629"
-     inkscape:cx="-12.88283"
-     inkscape:cy="23.656773"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
      inkscape:current-layer="svg20"
-     inkscape:document-rotation="0" />
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="26.195833"
+     inkscape:cx="14.789505"
+     inkscape:zoom="9.0045629"
+     showgrid="false"
+     id="namedview22"
+     inkscape:window-height="1002"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
   <rect
-     id="rect4-8"
-     ry="1.5"
-     rx="1.5"
-     y="1"
-     x="6"
-     height="30"
-     width="20"
-     style="fill:#030303;fill-opacity:1;opacity:0.5;filter:url(#filter867)" />
-  <rect
-     style="fill:#e5e5e5;fill-opacity:1"
-     width="20"
-     height="30"
-     x="6"
-     y="1"
-     rx="1.5"
-     ry="1.5"
-     id="rect4" />
-  <rect
-     style="fill:#333333"
+     style="opacity:0.5;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:0.916515;filter:url(#filter924)"
      width="18"
-     height="22"
+     height="28"
      x="7"
-     y="4"
-     id="rect6" />
-  <rect
-     style="fill:#333333"
-     width="4"
-     height="1"
-     x="14"
      y="2"
-     rx=".5"
-     ry=".492"
-     id="rect8" />
+     rx="1.35"
+     ry="1.4"
+     id="rect4-5" />
   <rect
-     style="fill:#4d4d4d"
-     width="4"
-     height="3"
-     x="14"
-     y="27"
-     rx="1"
-     ry="1"
-     id="rect10" />
-  <path
-     style="fill:#ffffff;opacity:0.2"
-     d="M 7.5 1 C 6.669 1 6 1.669 6 2.5 L 6 3.5 C 6 2.669 6.669 2 7.5 2 L 24.5 2 C 25.331 2 26 2.669 26 3.5 L 26 2.5 C 26 1.669 25.331 1 24.5 1 L 7.5 1 z"
-     id="path12" />
-  <circle
-     style="fill:#333333"
-     cx="19.5"
-     cy="2.5"
-     r=".5"
-     id="circle18" />
+     id="rect4"
+     ry="1.4"
+     rx="1.35"
+     y="2"
+     x="7"
+     height="28"
+     width="18"
+     style="fill:#e5e5e5;fill-opacity:1;stroke-width:0.916515" />
+  <rect
+     style="fill:#000000;fill-opacity:1;stroke-width:0.800001"
+     width="16"
+     height="24"
+     x="8"
+     y="5"
+     rx="0.9464125"
+     ry="1.03245"
+     id="rect4-3" />
+  <rect
+     id="rect4-3-6"
+     ry="0.23192918"
+     rx="0.23192918"
+     y="3"
+     x="13"
+     height="1"
+     width="6"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.100001" />
+  <rect
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.0408252"
+     width="1"
+     height="1"
+     x="11"
+     y="3"
+     rx="0.5"
+     ry="0.5"
+     id="rect4-3-6-7" />
 </svg>
