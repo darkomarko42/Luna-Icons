@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="phone.svg"
+   sodipodi:docname="blueman-cellular.svg"
    id="svg20"
    version="1"
    height="32"
@@ -47,7 +47,7 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="26.195833"
-     inkscape:cx="14.789505"
+     inkscape:cx="8.7925452"
      inkscape:zoom="9.0045629"
      showgrid="false"
      id="namedview22"
@@ -80,13 +80,13 @@
      width="18"
      style="fill:#e5e5e5;fill-opacity:1;stroke-width:0.916515" />
   <rect
-     style="fill:#000000;fill-opacity:1;stroke-width:0.800001"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.730298"
      width="16"
-     height="24"
+     height="20"
      x="8"
-     y="5"
+     y="6"
      rx="0.9464125"
-     ry="1.03245"
+     ry="0.86037493"
      id="rect4-3" />
   <rect
      id="rect4-3-6"
@@ -106,4 +106,13 @@
      rx="0.5"
      ry="0.5"
      id="rect4-3-6-7" />
+  <rect
+     id="rect4-3-6-7-3"
+     ry="1"
+     rx="1"
+     y="27"
+     x="15"
+     height="2"
+     width="2"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.0816503" />
 </svg>
