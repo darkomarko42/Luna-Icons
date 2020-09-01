@@ -12,8 +12,8 @@
    height="32"
    version="1"
    id="svg20"
-   sodipodi:docname="addressbook.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   sodipodi:docname="preferences-desktop-user.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -27,18 +27,6 @@
   </metadata>
   <defs
      id="defs24">
-    <linearGradient
-       id="linearGradient849"
-       inkscape:collect="always">
-      <stop
-         id="stop845"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1" />
-      <stop
-         id="stop847"
-         offset="1"
-         style="stop-color:#e5e5e5;stop-opacity:1" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient837">
@@ -74,28 +62,6 @@
          stdDeviation="1.26"
          id="feGaussianBlur843" />
     </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter845"
-       x="-0.12728571"
-       width="1.2545714"
-       y="-0.093789474"
-       height="1.1875789">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.7425"
-         id="feGaussianBlur847" />
-    </filter>
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="25"
-       x2="16"
-       y1="6"
-       x1="16"
-       id="linearGradient851"
-       xlink:href="#linearGradient849"
-       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -107,14 +73,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="999"
+     inkscape:window-height="1023"
      id="namedview22"
      showgrid="false"
-     inkscape:zoom="20.85965"
-     inkscape:cx="5.4118755"
-     inkscape:cy="11.447143"
+     inkscape:zoom="14.75"
+     inkscape:cx="10.707785"
+     inkscape:cy="14.883192"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg20"
      inkscape:document-rotation="0" />
@@ -133,25 +99,14 @@
      id="circle4"
      transform="rotate(-90)" />
   <g
-     style="opacity:0.5;filter:url(#filter845)"
-     transform="translate(0,1)"
-     id="g10">
-    <path
-       d="m 16,6 c -2.2096,0 -4,1.7912 -4,4 0,2.2088 1.7904,4 4,4 2.2096,0 4,-1.7912 4,-4 0,-2.2088 -1.7904,-4 -4,-4 z"
-       id="path6" />
-    <path
-       d="m 16,16.000001 c -6.9993,0.0042 -7,4.430769 -7,4.430769 v 1.8 c 0,0 1.292299,2.76923 7,2.76923 5.707701,0 7,-2.76923 7,-2.76923 v -1.8 c 0,0 0,-4.433538 -6.9986,-4.430769 z"
-       id="path8" />
-  </g>
-  <g
-     style="fill-opacity:1;fill:url(#linearGradient851)"
+     style="fill-opacity:1;fill:#ffffff"
      id="g16">
     <path
-       style="fill:url(#linearGradient851);fill-opacity:1"
+       style="fill:#ffffff;fill-opacity:1"
        d="m 16,6 c -2.2096,0 -4,1.7912 -4,4 0,2.2088 1.7904,4 4,4 2.2096,0 4,-1.7912 4,-4 0,-2.2088 -1.7904,-4 -4,-4 z"
        id="path12" />
     <path
-       style="fill:url(#linearGradient851);fill-opacity:1"
+       style="fill:#ffffff;fill-opacity:1"
        d="m 16,16.000001 c -6.9993,0.0042 -7,4.430769 -7,4.430769 v 1.8 c 0,0 1.292299,2.76923 7,2.76923 5.707701,0 7,-2.76923 7,-2.76923 v -1.8 c 0,0 0,-4.433538 -6.9986,-4.430769 z"
        id="path14" />
   </g>
