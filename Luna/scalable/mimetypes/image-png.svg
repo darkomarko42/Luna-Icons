@@ -23,11 +23,11 @@
       <stop
          id="stop871"
          offset="0"
-         style="stop-color:#ff5c1e;stop-opacity:1" />
+         style="stop-color:#ffa54a;stop-opacity:1" />
       <stop
          id="stop873"
          offset="1"
-         style="stop-color:#ff3f8a;stop-opacity:1" />
+         style="stop-color:#db4747;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        gradientUnits="userSpaceOnUse"
@@ -39,33 +39,33 @@
        xlink:href="#linearGradient875"
        inkscape:collect="always" />
     <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter4397"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter4375"
+       x="-0.108"
+       width="1.216"
+       y="-0.108"
+       height="1.216">
       <feGaussianBlur
-         id="feGaussianBlur4399"
+         inkscape:collect="always"
          stdDeviation="0.333375"
-         inkscape:collect="always" />
+         id="feGaussianBlur4377" />
     </filter>
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-x="0"
-     inkscape:window-height="1003"
+     inkscape:window-height="1020"
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="16.506897"
-     inkscape:cx="5.7673426"
-     inkscape:zoom="18.009126"
+     inkscape:cy="14.295539"
+     inkscape:cx="15.038737"
+     inkscape:zoom="22.627417"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -89,13 +89,13 @@
      inkscape:groupmode="layer"
      inkscape:label="Capa 1">
     <rect
-       transform="matrix(1,0,0,-1,2.5867485,-2.2127611)"
-       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4773;filter:url(#filter4397)"
-       id="rect833-7"
-       width="7.4083333"
+       y="-6.9765592"
+       x="2.1445858"
        height="7.4083333"
-       x="-2.0575817"
-       y="-10.150261" />
+       width="7.4083333"
+       id="rect833-95"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4773;filter:url(#filter4375)"
+       transform="matrix(1,0,0,-1,-1.615419,0.96094067)" />
     <rect
        y="0.5291667"
        x="0.5291667"
@@ -111,19 +111,27 @@
        x="1.0583334"
        y="1.0583334" />
     <circle
-       r="0.79374999"
-       cy="3.509526"
-       cx="2.1227343"
+       r="0.5291667"
+       cy="3.2430351"
+       cx="1.8867706"
        id="path869"
-       style="opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79551" />
+       style="opacity:0.7;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.53034" />
     <path
-       sodipodi:nodetypes="cccccc"
-       id="path867"
-       d="M 1.0583333,6.3499999 2.808193,4.6210919 4.5214967,6.3442515 7.4083333,4.2333332 7.4060489,6.3499999 Z"
-       style="opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.249814px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       id="rect833-9-6"
+       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.7946"
+       d="m 5.8208333,3.1749999 -2.6458332,3.175 H 7.4083333 V 5.0800887 Z" />
     <path
-       style="opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 2.808193,4.6210918 v 1.728824 l -1.7498597,8.41e-5 z"
-       id="path838" />
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.3"
+       d="M 3.175,6.3499999 4.255333,5.054692 3.175,3.7041666 1.058333,6.3499999 Z"
+       id="path999" />
+    <path
+       style="fill:#fdfdfd;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.3"
+       d="M 1.0583334,6.3499999 3.1750002,3.7041666 3.175,6.3499999 Z"
+       id="path932" />
+    <path
+       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 3.175,6.3499999 5.8208333,3.175 l -1e-7,3.1749999 z"
+       id="path934"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>
