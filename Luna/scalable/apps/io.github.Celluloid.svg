@@ -13,7 +13,7 @@
    version="1.0"
    id="svg20"
    sodipodi:docname="io.github.Celluloid.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -63,17 +63,17 @@
        y2="28"
        gradientUnits="userSpaceOnUse" />
     <filter
-       height="1.243"
-       y="-0.1215"
-       width="1.1944"
-       x="-0.0972"
-       id="filter5055"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter61610"
+       x="-0.0675"
+       width="1.135"
+       y="-0.084375"
+       height="1.16875">
       <feGaussianBlur
-         id="feGaussianBlur5057"
-         stdDeviation="1.215"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.84375"
+         id="feGaussianBlur61612" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -87,11 +87,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      id="namedview22"
      showgrid="false"
      inkscape:zoom="23.8125"
-     inkscape:cx="14.950131"
+     inkscape:cx="13.900262"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -105,7 +105,7 @@
      x="1"
      height="24"
      width="30"
-     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter5055)" />
+     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter61610)" />
   <rect
      style="fill:url(#linearGradient977);fill-opacity:1"
      width="30"

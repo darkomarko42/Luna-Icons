@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="preferences-desktop-locale.svg"
    id="svg22"
    version="1"
@@ -27,43 +27,30 @@
   <defs
      id="defs26">
     <filter
-       height="1.2049055"
-       y="-0.10245273"
-       width="1.2283647"
-       x="-0.11418237"
-       id="filter853"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60177"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
-         id="feGaussianBlur855"
-         stdDeviation="0.469575"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.59375"
+         id="feGaussianBlur60179" />
     </filter>
     <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter857"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60181"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
-         id="feGaussianBlur859"
-         stdDeviation="0.855"
-         inkscape:collect="always" />
-    </filter>
-    <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter861"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur863"
-         stdDeviation="0.855"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.59375"
+         id="feGaussianBlur60183" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -72,12 +59,12 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.950131"
      inkscape:zoom="23.8125"
      showgrid="false"
      id="namedview24"
-     inkscape:window-height="1005"
-     inkscape:window-width="1918"
+     inkscape:window-height="1000"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -85,11 +72,12 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <path
      id="path2"
      d="M 21,10 V 29 H 3.5 C 2.669,29 2,28.331 2,27.5 v -16 C 2,10.669 2.669,10 3.5,10 Z"
-     style="opacity:0.5;filter:url(#filter857)" />
+     style="opacity:0.5;filter:url(#filter60177)" />
   <path
      id="path4"
      d="M 21,10 V 29 H 3.5 C 2.669,29 2,28.331 2,27.5 V 11.5 C 2,10.669 2.669,10 3.5,10 Z"
@@ -105,15 +93,11 @@
   <path
      id="path12"
      d="M 11,1 V 20 H 28.5 C 29.331,20 30,19.331 30,18.5 V 2.5 C 30,1.669 29.331,1 28.5,1 Z"
-     style="opacity:0.5;filter:url(#filter861)" />
+     style="opacity:0.5;filter:url(#filter60181)" />
   <path
      id="path14"
      d="M 11,1 V 20 H 28.5 C 29.331,20 30,19.331 30,18.5 V 2.5 C 30,1.669 29.331,1 28.5,1 Z"
      style="fill:#2095f2" />
-  <path
-     id="path16"
-     d="M 19.277,12.445 19.547,11.433 C 19.851,10.336 20.137,9.0539 20.407,7.8897 H 20.475 C 20.762,9.0369 21.065,10.336 21.369,11.433 L 21.622,12.445 H 19.277 M 22.804,17 H 25.436 L 21.994,6 H 19.008 L 15.566,17 H 18.097 L 18.772,14.385 H 22.129 L 22.804,17"
-     style="opacity:0.5;filter:url(#filter853)" />
   <path
      id="path18"
      d="M 19.277,11.445 19.547,10.433 C 19.851,9.3361 20.137,8.0539 20.407,6.8897 H 20.475 C 20.762,8.0369 21.065,9.336 21.369,10.433 L 21.622,11.445 H 19.277 M 22.804,16 H 25.436 L 21.994,5 H 19.008 L 15.566,16 H 18.097 L 18.772,13.385 H 22.129 L 22.804,16"

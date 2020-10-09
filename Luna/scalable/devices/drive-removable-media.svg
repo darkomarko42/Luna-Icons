@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="drive-removable-media.svg"
    id="svg22"
    viewBox="0 0 24 24"
@@ -52,17 +52,17 @@
        xlink:href="#linearGradient957"
        inkscape:collect="always" />
     <filter
-       height="1.1926965"
-       y="-0.096348247"
-       width="1.2457153"
-       x="-0.12285763"
-       id="filter876"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter16377"
+       x="-0.0853178"
+       width="1.1706356"
+       y="-0.066908505"
+       height="1.133817">
       <feGaussianBlur
-         id="feGaussianBlur878"
-         stdDeviation="0.843047"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.58544931"
+         id="feGaussianBlur16379" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -74,11 +74,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="24.221824"
-     inkscape:cx="-1.0644572"
+     inkscape:cx="-3.875199"
      inkscape:zoom="8.8944491"
      showgrid="false"
      id="namedview24"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -89,7 +89,7 @@
      bordercolor="#666666"
      pagecolor="#ffffff" />
   <rect
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43792;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter876)"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43792;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter16377)"
      id="rect837-7"
      width="16.46876"
      height="20.999996"

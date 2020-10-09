@@ -13,7 +13,7 @@
    version="1"
    id="svg24"
    sodipodi:docname="user-trash.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata30">
     <rdf:RDF>
@@ -40,19 +40,6 @@
          offset="1"
          style="stop-color:#e5e5e5;stop-opacity:1" />
     </linearGradient>
-    <filter
-       height="1.2159992"
-       y="-0.10799962"
-       width="1.2160008"
-       x="-0.10800038"
-       id="filter1130"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur1132"
-         stdDeviation="1.2600046"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="30.036497"
@@ -62,6 +49,19 @@
        id="linearGradient1140"
        xlink:href="#linearGradient1138"
        inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter12876"
+       x="-0.075000265"
+       width="1.1500005"
+       y="-0.074999735"
+       height="1.1499995">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.87500322"
+         id="feGaussianBlur12878" />
+    </filter>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -73,11 +73,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      id="namedview26"
      showgrid="false"
      inkscape:zoom="16"
-     inkscape:cx="12.210025"
+     inkscape:cx="10.647525"
      inkscape:cy="20.576698"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -86,7 +86,7 @@
      inkscape:document-rotation="0" />
   <path
      id="path1094-6"
-     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter1130);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.5;filter:url(#filter12876)"
      d="m 15.601566,2.0001011 a 14,2 0 0 0 -13.6015612,2 14,2 0 0 0 0,0.00391 14,2 0 0 0 0.01367,0.080078 l 3.986328,23.9160119 a 10,2 0 0 0 9.9999992,2 10,2 0 0 0 10,-2 l 3.98633,-23.9160155 a 14,2 0 0 0 0.01367,-0.083984 14,2 0 0 0 -14,-2 14,2 0 0 0 -0.398438,0 z" />
   <path
      d="m 15.601565,2.0001013 a 14,2 0 0 0 -13.6015617,2 14,2 0 0 0 0,0.00391 14,2 0 0 0 0.013672,0.080078 l 3.986328,23.9160117 a 10,2 0 0 0 9.9999997,2 10,2 0 0 0 10,-2 L 29.986331,4.0840857 a 14,2 0 0 0 0.01367,-0.083984 14,2 0 0 0 -14,-2 14,2 0 0 0 -0.398438,0 z"

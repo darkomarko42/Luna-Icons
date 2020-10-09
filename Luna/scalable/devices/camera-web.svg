@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="camera-web.svg"
    id="svg22"
    version="1"
@@ -51,17 +51,17 @@
        xlink:href="#linearGradient832"
        inkscape:collect="always" />
     <filter
-       height="1.2209091"
-       y="-0.11045454"
-       width="1.2113044"
-       x="-0.10565218"
-       id="filter837"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter16401"
+       x="-0.073369569"
+       width="1.1467391"
+       y="-0.076704541"
+       height="1.1534091">
       <feGaussianBlur
-         id="feGaussianBlur839"
-         stdDeviation="1.2326088"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.85597831"
+         id="feGaussianBlur16403" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -71,11 +71,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16.083351"
-     inkscape:cx="6.9195109"
+     inkscape:cx="6.0206464"
      inkscape:zoom="27.812867"
      showgrid="false"
      id="namedview24"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -88,7 +88,7 @@
   <ellipse
      ry="13.391306"
      rx="14"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:1.24475;filter:url(#filter837)"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:1.24475;filter:url(#filter16401)"
      id="circle12-3"
      transform="scale(1,-1)"
      cy="-15.391306"

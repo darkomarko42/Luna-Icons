@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="distributor-logo-fedora.svg"
    id="svg62"
    version="1.1"
@@ -27,17 +27,17 @@
   <defs
      id="defs66">
     <filter
-       height="1.2159995"
-       y="-0.10799973"
-       width="1.2160005"
-       x="-0.10800027"
-       id="filter7914"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter59662"
+       x="-0.075000188"
+       width="1.1500004"
+       y="-0.074999813"
+       height="1.1499996">
       <feGaussianBlur
-         id="feGaussianBlur7916"
-         stdDeviation="1.2600031"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.87500219"
+         id="feGaussianBlur59664" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -46,11 +46,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.950131"
      inkscape:zoom="23.8125"
      showgrid="false"
      id="namedview64"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -59,11 +59,12 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <path
      id="path52"
      d="M 16.00007,2.00077 C 8.2713314,2.00077 2.0056,8.2658013 2,15.99314 v 11.834259 c 0,1.203516 0.9691548,2.172671 2.1726709,2.172671 H 16.00763 C 23.737069,30.00007 30,23.730209 30,16 30,8.2677613 23.731889,1.99993 15.99993,1.99993 Z"
-     style="opacity:0.5;filter:url(#filter7914)" />
+     style="opacity:0.5;filter:url(#filter59662)" />
   <path
      id="path54"
      d="m16.00007 2.00077c-7.7287386 0-13.99447 6.2650313-14.00007 13.99237v11.834259c0 1.203516 0.9691548 2.172671 2.1726709 2.172671h11.834959c7.729439 0 13.99237-6.269861 13.99237-14.00007 0-7.7322387-6.268111-14.00007-14.00007-14.00007z"

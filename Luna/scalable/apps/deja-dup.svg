@@ -13,7 +13,7 @@
    version="1"
    id="svg24"
    sodipodi:docname="deja-dup.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata30">
     <rdf:RDF>
@@ -39,19 +39,6 @@
          offset="1"
          id="stop880" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter874"
-       x="-0.108"
-       width="1.216"
-       y="-0.108"
-       height="1.216">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.26"
-         id="feGaussianBlur876" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient882"
@@ -127,6 +114,19 @@
          stdDeviation="0.18"
          inkscape:collect="always" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter60704"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur60706" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -139,11 +139,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      id="namedview26"
      showgrid="false"
      inkscape:zoom="16"
-     inkscape:cx="16.500593"
+     inkscape:cx="14.938093"
      inkscape:cy="11.597104"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -153,20 +153,11 @@
      id="rect4-5"
      ry="1.4"
      rx="1.4"
-     y="2"
+     y="2.0000005"
      x="2"
      height="28"
      width="28"
-     style="fill:#040404;fill-opacity:1;filter:url(#filter874);opacity:0.5" />
-  <rect
-     style="opacity:0.2"
-     width="28"
-     height="28"
-     x="2"
-     y="3"
-     rx="1.4"
-     ry="1.4"
-     id="rect2" />
+     style="opacity:0.5;fill:#040404;fill-opacity:1;filter:url(#filter60704)" />
   <rect
      style="fill:url(#linearGradient884);fill-opacity:1"
      width="28"

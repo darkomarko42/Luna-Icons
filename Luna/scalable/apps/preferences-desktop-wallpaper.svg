@@ -13,7 +13,7 @@
    width="32"
    version="1.0"
    sodipodi:docname="preferences-desktop-wallpaper.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -24,11 +24,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1000"
      id="namedview45"
      showgrid="false"
      inkscape:zoom="16"
-     inkscape:cx="11.284171"
+     inkscape:cx="9.721671"
      inkscape:cy="7.9831099"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -293,22 +293,22 @@
        xlink:href="#linearGradient931"
        inkscape:collect="always" />
     <filter
-       height="1.234"
-       y="-0.117"
-       width="1.2005714"
-       x="-0.10028571"
-       id="filter1075"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter61710"
+       x="-0.069642857"
+       width="1.1392857"
+       y="-0.081250001"
+       height="1.1625">
       <feGaussianBlur
-         id="feGaussianBlur1077"
-         stdDeviation="1.17"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.81249999"
+         id="feGaussianBlur61712" />
     </filter>
   </defs>
   <path
      d="M 2,4.0000004 V 24 h 10.117188 c 0,0 0.09504,2.065713 -0.351563,2.546875 -0.4466,0.481166 -1.335937,0.787109 -1.335937,0.787109 C 9.859444,27.384534 9.854727,28 10.429688,28 h 11.140625 c 0.574963,0 0.570365,-0.616113 0,-0.666016 0,0 -0.887392,-0.305945 -1.333984,-0.787109 C 19.789736,26.065715 19.882813,24 19.882813,24 H 30 V 4.0000004 Z"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.98559;filter:url(#filter1075)"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.98559;filter:url(#filter61710)"
      id="rect1015-9" />
   <rect
      y="4"
@@ -329,20 +329,27 @@
      id="rect1789"
      d="m 12.11778,24 c 0,0 0.09353,2.064325 -0.353073,2.545487 -0.4466,0.481166 -1.335253,0.787862 -1.335253,0.787862 C 9.8592092,27.383899 9.8544922,28 10.429454,28 h 11.141047 c 0.574963,0 0.570365,-0.616748 0,-0.666651 0,0 -0.888614,-0.306698 -1.335207,-0.787862 C 19.788701,26.064327 19.882221,24 19.882221,24 h -7.760455 z"
      inkscape:connector-curvature="0" />
-  <path
-     sodipodi:nodetypes="cccccc"
-     id="path1473"
-     d="m 4,22 8.33617,-6.656268 6.530747,6.488891 9.131915,-6.754154 L 28,22 H 4"
-     style="fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-  <path
-     sodipodi:nodetypes="cccc"
-     id="path1475"
-     d="M 12.33617,15.343732 12.336724,22.00337 4,22 Z"
-     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.5" />
   <circle
      r="3"
      cy="10.650405"
      cx="18.158875"
      id="path1477"
-     style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.31859" />
+     style="opacity:1;fill:#ffda21;fill-opacity:1;stroke:none;stroke-width:1.31859" />
+  <path
+     d="M 22,10 12.000001,22 H 28 v -4.799664 z"
+     style="opacity:1;fill:#006600;fill-opacity:1;stroke:none;stroke-width:6.78274"
+     id="rect833-9-6" />
+  <path
+     id="path999"
+     d="M 12.000001,22 16.083149,17.104348 12.000001,12 3.9999995,22 Z"
+     style="opacity:1;fill:#006600;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     id="path932"
+     d="m 4.000001,22 8,-10 v 10 z"
+     style="opacity:0.3;fill:#fdfdfd;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     sodipodi:nodetypes="cccc"
+     id="path934"
+     d="M 12.000001,22 22,10 v 12 z"
+     style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 </svg>

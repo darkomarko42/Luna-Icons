@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="input-mouse.svg"
    id="svg16"
    version="1"
@@ -50,16 +50,16 @@
        xlink:href="#linearGradient831"
        inkscape:collect="always" />
     <filter
-       height="1.1697143"
-       y="-0.084857143"
-       width="1.297"
-       x="-0.1485"
+       height="1.1178571"
+       y="-0.058928571"
+       width="1.20625"
+       x="-0.103125"
        id="filter1515"
        style="color-interpolation-filters:sRGB"
        inkscape:collect="always">
       <feGaussianBlur
          id="feGaussianBlur1517"
-         stdDeviation="0.99"
+         stdDeviation="0.6875"
          inkscape:collect="always" />
     </filter>
   </defs>
@@ -70,11 +70,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="14.032421"
-     inkscape:cx="-0.19737002"
+     inkscape:cx="-1.4685564"
      inkscape:zoom="19.666667"
      showgrid="false"
      id="namedview18"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"

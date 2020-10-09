@@ -12,22 +12,22 @@
    viewBox="0 0 8.4666665 8.4666669"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="evolution.svg">
   <defs
      id="defs2">
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter1022"
-       x="-0.108"
-       width="1.216"
-       y="-0.108"
-       height="1.216">
+       id="filter59598"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.33337499"
-         id="feGaussianBlur1024" />
+         stdDeviation="0.23151041"
+         id="feGaussianBlur59600" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -37,16 +37,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.000001"
-     inkscape:cx="15.692236"
-     inkscape:cy="13.300513"
+     inkscape:zoom="16.000001"
+     inkscape:cx="7.2325833"
+     inkscape:cy="6.5378411"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,7 +70,7 @@
      id="layer1">
     <path
        d="M 4.2333332,0.52916678 0.5291668,2.6458334 V 7.9374999 H 7.9374999 V 2.6458334 Z"
-       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.0937;filter:url(#filter1022)"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.0937;filter:url(#filter59598)"
        id="rect833-3" />
     <path
        id="rect833"

@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="system-run.svg"
    id="svg66"
    version="1"
@@ -28,17 +28,17 @@
   <defs
      id="defs70">
     <filter
-       height="1.2394783"
-       y="-0.11973913"
-       width="1.1967143"
-       x="-0.098357143"
-       id="filter1508"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter40515"
+       x="-0.068303571"
+       width="1.1366071"
+       y="-0.083152174"
+       height="1.1663043">
       <feGaussianBlur
-         id="feGaussianBlur1510"
-         stdDeviation="1.1475"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.796875"
+         id="feGaussianBlur40517" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -47,11 +47,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="13.879265"
+     inkscape:cx="12.829396"
      inkscape:zoom="23.8125"
      showgrid="false"
      id="namedview68"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -63,7 +63,7 @@
      pagecolor="#ffffff"
      inkscape:document-rotation="0" />
   <rect
-     style="filter:url(#filter1508);opacity:0.5"
+     style="opacity:0.5;filter:url(#filter40515)"
      fill="#4f4f4f"
      width="23"
      height="28"

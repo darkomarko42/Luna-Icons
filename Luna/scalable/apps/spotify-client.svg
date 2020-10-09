@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="spotify-client.svg"
    id="svg12"
    version="1"
@@ -27,17 +27,17 @@
   <defs
      id="defs16">
     <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter1472"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter41517"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
-         id="feGaussianBlur1474"
-         stdDeviation="1.26"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur41519" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -46,11 +46,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="11.722625"
-     inkscape:cx="8.768706"
+     inkscape:cx="6.6689685"
      inkscape:zoom="11.90625"
      showgrid="false"
      id="namedview14"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -59,12 +59,13 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <path
      id="path871-8"
      d="M 15.999916,2 C 8.2681399,2 2.0000002,8.268123 2.0000002,16.000084 2.0000002,23.732379 8.2681399,30 15.999916,30 23.732528,30 30,23.732379 30,16.000084 30,8.268625 23.732528,2.000669 15.999749,2.000669 Z m 6.420272,20.192139 c -0.250766,0.411265 -0.789076,0.541667 -1.200332,0.289223 C 17.932819,20.473517 13.79485,20.018785 8.9216359,21.132211 8.4520348,21.239207 7.9839388,20.944968 7.8769458,20.475188 c -0.107495,-0.469779 0.1855661,-0.937886 0.656337,-1.044882 5.3329512,-1.218918 9.9074202,-0.693801 13.5976882,1.561473 0.411256,0.252443 0.541654,0.789095 0.289217,1.20036 z m 1.713566,-3.812566 c -0.315965,0.514082 -0.988017,0.676248 -1.501251,0.360275 C 18.869345,16.426229 13.132995,15.756334 8.6819039,17.107492 8.1046408,17.281861 7.4949458,16.956527 7.3197438,16.380254 7.1458798,15.802977 7.4713739,15.194438 8.0476339,15.018898 13.131992,13.47615 19.452793,14.22345 23.774323,16.879123 c 0.513234,0.315972 0.675395,0.98804 0.359431,1.500617 z M 24.28087,14.410024 C 19.768758,11.729942 12.324359,11.483518 8.0163708,12.791042 7.3245918,13.000854 6.5930248,12.610319 6.3833848,11.918523 6.1737451,11.226393 6.5639358,10.49531 7.2562168,10.284996 12.201484,8.783709 20.422421,9.073769 25.617284,12.15776 c 0.623571,0.369303 0.827527,1.172943 0.458065,1.794355 -0.36779,0.622248 -1.173583,0.827379 -1.793811,0.457909 z"
      fill="#1ed760"
-     style="stroke-width:0.167179;fill:#000000;fill-opacity:1;filter:url(#filter1472);opacity:0.5" />
+     style="stroke-width:0.167179;fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter41517)" />
   <rect
      style="fill:#000000;fill-opacity:1;stroke-width:0.857143"
      id="rect2"

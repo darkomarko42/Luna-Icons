@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="bitcoin.svg"
    id="svg12"
    version="1.1"
@@ -27,30 +27,17 @@
   <defs
      id="defs16">
     <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter858"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60856"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
-         id="feGaussianBlur860"
-         stdDeviation="1.26"
-         inkscape:collect="always" />
-    </filter>
-    <filter
-       height="1.1798999"
-       y="-0.089949965"
-       width="1.2702255"
-       x="-0.13511273"
-       id="filter862"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur864"
-         stdDeviation="0.67462474"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur60858" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -59,11 +46,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="15.038462"
      inkscape:zoom="26"
      showgrid="false"
      id="namedview14"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -72,23 +59,20 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <circle
      id="circle2"
      r="14"
      cy="16"
      cx="16"
-     style="opacity:0.5;filter:url(#filter858)" />
+     style="opacity:0.5;filter:url(#filter60856)" />
   <circle
      id="circle4"
      r="14"
      cy="16"
      cx="16"
      style="fill:#f7931a" />
-  <path
-     id="path6"
-     d="m 13,8 0,3 -3.0000007,0 0,2.000001 c 0,0 1.1456507,-0.01999 1.1273687,0 0.613377,-0.0093 0.808708,0.436058 0.872215,0.733073 l 0,6.600259 c -0.02351,0.1877 -0.0035,0.653333 -0.432202,0.666667 0.0198,0.01733 -1.5673817,0 -1.5673817,0 l 0,2 2.1688177,0 C 12.535544,22.98667 12.645729,23 13,23 l 0,3 2,0 0,-3 0.97917,0 0.04166,3 L 18,26 17.97917,23 C 20.52239,22.815365 22,21.597881 21.983179,19.5 22,17.570087 20.456651,16.506411 19.5,16.5 20.456506,16.503769 21,15.463447 21,14 21,12 19.619804,11 17.999999,11 l 0,-3 L 16,8 l 0,3 c -0.398082,0 -0.595857,-0.01467 -1,0 l 0,-3 z m 2,5.000001 C 17,13 18,13 18,14.5 18,16 17,16 15,16 Z M 15,18 c 2.666111,8.3e-5 4.000276,-0.166641 4,1.5 2.76e-4,1.666775 -1.333889,1.5 -4,1.5 z"
-     style="opacity:0.5;filter:url(#filter862)" />
   <path
      id="path8"
      d="m 13,7 0,2.9999995 -3.0000007,0 0,2.0000015 c 0,0 1.1456507,-0.01999 1.1273687,0 0.613377,-0.0093 0.808708,0.436058 0.872215,0.733073 l 0,6.600259 c -0.02351,0.1877 -0.0035,0.653333 -0.432202,0.666667 0.0198,0.01733 -1.5673817,0 -1.5673817,0 l 0,2 2.1688177,0 C 12.535544,21.98667 12.645729,22 13,22 l 0,3 2,0 0,-3 0.97917,0 0.04166,3 L 18,25 17.97917,22 C 20.52239,21.815365 22,20.597881 21.983179,18.5 22,16.570087 20.456651,15.506411 19.5,15.5 20.456506,15.503769 21,14.463447 21,13 21,11 19.619804,10 17.999999,10 l 0,-3 L 16,7 l 0,3 c -0.398082,0 -0.595857,-0.01467 -1,0 l 0,-3 z m 2,5.000001 C 17,12 18,12 18,13.5 18,15 17,15 15,15 Z M 15,17 c 2.666111,8.3e-5 4.000276,-0.166641 4,1.5 2.76e-4,1.666775 -1.333889,1.5 -4,1.5 z"

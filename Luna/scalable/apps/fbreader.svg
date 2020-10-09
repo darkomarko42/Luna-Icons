@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="fbreader.svg"
    id="svg22"
    version="1"
@@ -27,19 +27,6 @@
   <defs
      id="defs26">
     <filter
-       height="1.252"
-       y="-0.126"
-       width="1.189"
-       x="-0.0945"
-       id="filter853"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur855"
-         stdDeviation="1.1025"
-         inkscape:collect="always" />
-    </filter>
-    <filter
        height="1.1472727"
        y="-0.073636364"
        width="1.405"
@@ -52,6 +39,19 @@
          stdDeviation="0.3375"
          inkscape:collect="always" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter59582"
+       x="-0.065625"
+       width="1.13125"
+       y="-0.0875"
+       height="1.175">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.765625"
+         id="feGaussianBlur59584" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:current-layer="svg22"
@@ -59,11 +59,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.950131"
      inkscape:zoom="23.8125"
      showgrid="false"
      id="namedview24"
-     inkscape:window-height="1001"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -72,7 +72,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <rect
      id="rect2"
      ry="2.0999999"
@@ -81,7 +82,7 @@
      x="2"
      height="21"
      width="28"
-     style="opacity:0.5;filter:url(#filter853)" />
+     style="opacity:0.5;filter:url(#filter59582)" />
   <rect
      id="rect4"
      ry="2.1"

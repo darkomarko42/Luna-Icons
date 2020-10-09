@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="distributor-logo-opensuse.svg"
    id="svg12"
    version="1"
@@ -27,17 +27,17 @@
   <defs
      id="defs16">
     <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter858"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter59634"
+       x="-0.074999998"
+       width="1.15"
+       y="-0.075000002"
+       height="1.15">
       <feGaussianBlur
-         id="feGaussianBlur860"
-         stdDeviation="1.2599937"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.8749956"
+         id="feGaussianBlur59636" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -46,11 +46,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.950131"
      inkscape:zoom="23.8125"
      showgrid="false"
      id="namedview14"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -59,9 +59,10 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <path
-     style="fill:#000000;fill-opacity:1;filter:url(#filter858);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter59634)"
      d="M 16,2.0000706 C 8.268538,2.0000706 2.00007,8.2678393 2.00007,16 2.00007,23.732161 8.268538,29.999929 16,29.999929 23.730761,29.999929 29.99993,23.732161 29.99993,16 29.99993,8.2678393 23.730761,2.0000706 16,2.0000706 Z"
      id="path2-1" />
   <path

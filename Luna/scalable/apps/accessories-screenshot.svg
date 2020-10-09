@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="accessories-screenshot.svg"
    id="svg24"
    version="1"
@@ -28,19 +28,6 @@
   </metadata>
   <defs
      id="defs28">
-    <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter835"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur837"
-         stdDeviation="1.26"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient947">
@@ -63,19 +50,6 @@
        y2="30"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-32,-32)" />
-    <filter
-       height="1.2179636"
-       y="-0.10898182"
-       width="1.2140714"
-       x="-0.10703572"
-       id="filter964"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur966"
-         stdDeviation="0.3924643"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        gradientTransform="matrix(0.39285716,0,0,0.4,-29.750002,6)"
        gradientUnits="userSpaceOnUse"
@@ -98,6 +72,32 @@
          offset="1"
          style="stop-color:#00c6e9;stop-opacity:1" />
     </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter17630"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur17632" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter17634"
+       x="-0.074330358"
+       width="1.1486607"
+       y="-0.075681817"
+       height="1.1513636">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.27254465"
+         id="feGaussianBlur17636" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -106,11 +106,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="15.262167"
-     inkscape:cx="5.2071157"
+     inkscape:cx="3.7689324"
      inkscape:zoom="17.383042"
      showgrid="false"
      id="namedview26"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -129,7 +129,7 @@
      x="2"
      height="28"
      width="28"
-     style="opacity:0.5;stroke-width:0.5;filter:url(#filter835)" />
+     style="opacity:0.5;stroke-width:0.5;filter:url(#filter17630)" />
   <rect
      id="rect4"
      ry="1.4"
@@ -173,7 +173,7 @@
      cy="-16.300428"
      transform="matrix(1,0,0,-1,-1.5e-7,4.3999142)"
      id="circle12-7"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.396412;filter:url(#filter964)"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.396412;filter:url(#filter17634)"
      rx="4.4000001"
      ry="4.3214288" />
   <ellipse

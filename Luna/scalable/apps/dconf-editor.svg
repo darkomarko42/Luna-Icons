@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="dconf-editor.svg"
    id="svg16"
    version="1"
@@ -64,17 +64,17 @@
          inkscape:collect="always" />
     </filter>
     <filter
-       height="1.2162045"
-       y="-0.10810225"
-       width="1.2157959"
-       x="-0.10789794"
-       id="filter933"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60712"
+       x="-0.074929125"
+       width="1.1498582"
+       y="-0.075071009"
+       height="1.150142">
       <feGaussianBlur
-         id="feGaussianBlur935"
-         stdDeviation="1.201401"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.83430626"
+         id="feGaussianBlur60714" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -83,12 +83,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="25.392565"
-     inkscape:cx="4.1342236"
-     inkscape:zoom="14.75"
+     inkscape:cy="8.4129261"
+     inkscape:cx="9.8662901"
+     inkscape:zoom="20.85965"
      showgrid="false"
      id="namedview18"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -100,7 +100,7 @@
      pagecolor="#ffffff" />
   <path
      d="M 13.931729,2.6372846 A 10.65333,10.65333 0 0 0 3.2774331,13.291582 10.65333,10.65333 0 0 0 13.931729,23.943926 10.65333,10.65333 0 0 0 19.947355,22.082598 l 6.574218,6.574219 c 1.882662,1.960817 4.786989,-0.941557 2.826172,-2.824219 L 22.761808,19.248614 A 10.65333,10.65333 0 0 0 24.584073,13.291582 10.65333,10.65333 0 0 0 13.931729,2.6372846 Z"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.475646;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter933)"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.475646;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter60712)"
      id="path829-2" />
   <circle
      r="9.5434284"

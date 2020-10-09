@@ -8,8 +8,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="Opera.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="opera.svg"
    id="svg650"
    version="1.1"
    height="32"
@@ -22,21 +22,21 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
      inkscape:current-layer="svg650"
      inkscape:window-maximized="1"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="40"
-     inkscape:cx="40.5"
+     inkscape:cx="37.875328"
      inkscape:zoom="9.525"
      showgrid="false"
      id="namedview652"
-     inkscape:window-height="1021"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -45,7 +45,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <defs
      id="defs624">
     <path
@@ -1355,21 +1356,21 @@
          height="100%" />
     </mask>
     <filter
-       height="1.2160014"
-       y="-0.10800068"
-       width="1.2159986"
-       x="-0.10799932"
-       id="filter2189"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60433"
+       x="-0.07499953"
+       width="1.1499991"
+       y="-0.07500047"
+       height="1.1500009">
       <feGaussianBlur
-         id="feGaussianBlur2191"
-         stdDeviation="3.5910225"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="2.4937656"
+         id="feGaussianBlur60435" />
     </filter>
   </defs>
   <g
-     style="fill:#000000;fill-opacity:1;filter:url(#filter2189);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter60433)"
      fill="none"
      fill-rule="evenodd"
      id="g648-6"

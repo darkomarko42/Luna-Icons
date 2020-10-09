@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="media-flash.svg"
    id="svg30"
    version="1"
@@ -49,17 +49,17 @@
        xlink:href="#linearGradient847"
        inkscape:collect="always" />
     <filter
-       height="1.1928571"
-       y="-0.096428571"
-       width="1.2454545"
-       x="-0.12272727"
-       id="filter1508"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter16293"
+       x="-0.085227273"
+       width="1.1704545"
+       y="-0.066964286"
+       height="1.1339286">
       <feGaussianBlur
-         id="feGaussianBlur1510"
-         stdDeviation="1.125"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.78125"
+         id="feGaussianBlur16295" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -69,11 +69,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="14.711864"
-     inkscape:cx="-0.61016951"
+     inkscape:cx="-4"
      inkscape:zoom="7.375"
      showgrid="false"
      id="namedview32"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -86,7 +86,7 @@
   <path
      id="path2"
      d="M 10,2 5,7 V 28.75 C 5,29.443 5.557,30 6.25,30 h 19.5 C 26.442,30 27,29.443 27,28.75 V 3.25 C 27,2.5575 26.442,2 25.75,2 Z"
-     style="opacity:0.5;filter:url(#filter1508);fill:#000000;fill-opacity:1" />
+     style="opacity:0.5;fill:#000000;fill-opacity:1;filter:url(#filter16293)" />
   <path
      id="path4"
      d="M 10,2 5,7 V 28.75 C 5,29.443 5.557,30 6.25,30 H 25.75 C 26.442,30 27,29.443 27,28.75 V 3.25 C 27,2.5575 26.442,2 25.75,2 Z"

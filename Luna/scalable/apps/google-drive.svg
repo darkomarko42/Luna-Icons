@@ -12,11 +12,11 @@
    viewBox="0 0 23.999999 23.999999"
    version="1.1"
    id="svg360"
-   sodipodi:docname="unity-scope-gdrive.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   sodipodi:docname="google-drive.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <path
      d="M 15.666503,3.0000021 8.3291014,3.0175798 15.199218,14.73047 8.8256831,14.727541 11.995605,9.2915059 8.3291014,3.0175798 1.4999999,14.745119 l 3.6752931,6.244628 0.011719,-0.02051 13.661132,0.03076 3.651855,-6.266601 z"
-     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74656px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter857);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74656px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.5;filter:url(#filter61662)"
      id="path1192-3" />
   <metadata
      id="metadata366">
@@ -26,24 +26,24 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs364">
     <filter
-       height="1.234"
-       y="-0.11700002"
-       width="1.2005714"
-       x="-0.1002857"
-       id="filter857"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter61662"
+       x="-0.069642849"
+       width="1.1392857"
+       y="-0.081250011"
+       height="1.1625">
       <feGaussianBlur
-         id="feGaussianBlur859"
-         stdDeviation="0.87749987"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.60937491"
+         id="feGaussianBlur61664" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -58,11 +58,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      id="namedview362"
      showgrid="false"
      inkscape:zoom="13.755437"
-     inkscape:cx="18.688328"
+     inkscape:cx="16.870865"
      inkscape:cy="26.713261"
      inkscape:window-x="0"
      inkscape:window-y="0"

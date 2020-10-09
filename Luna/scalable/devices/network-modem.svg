@@ -13,7 +13,7 @@
    version="1"
    id="svg20"
    sodipodi:docname="network-modem.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -27,6 +27,18 @@
   </metadata>
   <defs
      id="defs24">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient15323">
+      <stop
+         style="stop-color:#8e8e8e;stop-opacity:1;"
+         offset="0"
+         id="stop15319" />
+      <stop
+         style="stop-color:#bababa;stop-opacity:1"
+         offset="1"
+         id="stop15321" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient855">
@@ -50,18 +62,27 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,0.71428571,0,8.5714286)" />
     <filter
-       height="1.4104"
-       y="-0.2052"
-       width="1.1465714"
-       x="-0.073285714"
-       id="filter1496"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter15315"
+       x="-0.050892857"
+       width="1.1017857"
+       y="-0.1425"
+       height="1.285">
       <feGaussianBlur
-         id="feGaussianBlur1498"
-         stdDeviation="0.855"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.59375"
+         id="feGaussianBlur15317" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15323"
+       id="linearGradient15325"
+       x1="14"
+       y1="-9"
+       x2="14"
+       y2="-6"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -74,11 +95,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      id="namedview22"
      showgrid="false"
      inkscape:zoom="20.8125"
-     inkscape:cx="14.362974"
+     inkscape:cx="13.161773"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -92,9 +113,9 @@
      x="2"
      height="10"
      width="28"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.845154;filter:url(#filter1496)" />
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.845154;filter:url(#filter15315)" />
   <rect
-     style="fill:#8e8e8e;stroke-width:1.18818"
+     style="fill:url(#linearGradient15325);stroke-width:1.18818;fill-opacity:1"
      width="24"
      height="3"
      x="2"

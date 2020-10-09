@@ -14,7 +14,7 @@
    viewBox="0 0 24 24"
    id="svg66"
    sodipodi:docname="preferences-desktop-theme.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata70">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,11 +38,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      id="namedview68"
      showgrid="false"
      inkscape:zoom="11.446291"
-     inkscape:cx="32.280463"
+     inkscape:cx="30.096349"
      inkscape:cy="23.792148"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -50,6 +50,18 @@
      inkscape:current-layer="g64" />
   <defs
      id="defs38">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient60141">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop60137" />
+      <stop
+         style="stop-color:#f2f2f2;stop-opacity:1"
+         offset="1"
+         id="stop60139" />
+    </linearGradient>
     <linearGradient
        id="linearGradient1072"
        inkscape:collect="always">
@@ -1246,37 +1258,46 @@
          in="colormatrix" />
     </filter>
     <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter1071"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60133"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
-         id="feGaussianBlur1073"
-         stdDeviation="2.5199999"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.515625"
+         id="feGaussianBlur60135" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient60141"
+       id="linearGradient60143"
+       x1="12"
+       y1="363.75"
+       x2="12"
+       y2="380.25"
+       gradientUnits="userSpaceOnUse" />
     <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter1090"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60145"
+       x="-0.075000001"
+       width="1.15"
+       y="-0.074999999"
+       height="1.15">
       <feGaussianBlur
-         id="feGaussianBlur1092"
-         stdDeviation="0.7425"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="1.75"
+         id="feGaussianBlur60147" />
     </filter>
   </defs>
   <g
      transform="translate(0,-360)"
      id="g64">
     <g
-       style="opacity:0.5;fill:#000000;fill-opacity:1;filter:url(#filter1071)"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;filter:url(#filter60145)"
        transform="matrix(0.37500001,0,0,0.37500001,4.3568335e-7,360)"
        id="g871-8">
       <circle
@@ -1365,17 +1386,17 @@
        id="path1066"
        style="opacity:0;fill:url(#linearGradient1074);fill-opacity:1;stroke:none;stroke-width:1.0750072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
     <circle
-       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.159566;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1090)"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.159566;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter60133)"
        id="path1477-8"
        cx="12"
-       cy="372.75"
+       cy="372"
        r="8.25" />
     <circle
        r="8.25"
        cy="372"
        cx="12"
        id="path1477"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15956588;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:url(#linearGradient60143);fill-opacity:1;stroke:none;stroke-width:0.15956588;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <circle
        r="0"
        cy="371.91251"

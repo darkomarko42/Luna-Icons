@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="color-picker.svg"
    id="svg24"
    version="1"
@@ -73,32 +73,32 @@
        y2="25"
        gradientUnits="userSpaceOnUse" />
     <filter
-       height="1.2161062"
-       y="-0.10805308"
-       width="1.2158939"
-       x="-0.10794697"
-       id="filter874"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60776"
+       x="-0.074963174"
+       width="1.1499263"
+       y="-0.075036862"
+       height="1.1500737">
       <feGaussianBlur
-         id="feGaussianBlur876"
-         stdDeviation="1.2606193"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.87543007"
+         id="feGaussianBlur60778" />
     </filter>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
      inkscape:current-layer="svg24"
      inkscape:window-maximized="1"
-     inkscape:window-y="27"
-     inkscape:window-x="53"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
      inkscape:cy="9.2208539"
-     inkscape:cx="15.52692"
+     inkscape:cx="14.138735"
      inkscape:zoom="18.009126"
      showgrid="false"
      id="namedview26"
-     inkscape:window-height="1019"
-     inkscape:window-width="1867"
+     inkscape:window-height="1000"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -108,7 +108,7 @@
      bordercolor="#666666"
      pagecolor="#ffffff" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke-width:0.874996;filter:url(#filter874);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.874996;opacity:0.5;filter:url(#filter60776)"
      d="m 16.013834,1.9999999 c -12.4734708,0 -18.7179472,15.0798611 -9.8989404,23.8988671 4.0039304,4.003932 10.0252554,5.202002 15.2565644,3.035209 5.231312,-2.166799 8.642304,-7.271712 8.642304,-12.934149 V 5.4999813 c 0,-1.9389904 -1.560993,-3.4999814 -3.499983,-3.4999814 z"
      id="path20-5-5"
      inkscape:connector-curvature="0"

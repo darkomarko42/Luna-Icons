@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="audacity.svg"
    id="svg14"
    version="1"
@@ -64,32 +64,6 @@
          stdDeviation="1.2703048"
          inkscape:collect="always" />
     </filter>
-    <filter
-       height="1.3671764"
-       y="-0.18358821"
-       width="1.3553279"
-       x="-0.17766396"
-       id="filter892"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur894"
-         stdDeviation="1.147413"
-         inkscape:collect="always" />
-    </filter>
-    <filter
-       height="1.2395004"
-       y="-0.11975018"
-       width="1.1966994"
-       x="-0.098349687"
-       id="filter896"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur898"
-         stdDeviation="1.147413"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="27.498068"
@@ -108,6 +82,32 @@
        id="linearGradient914"
        xlink:href="#linearGradient912"
        inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter60892"
+       x="-0.068298394"
+       width="1.1365968"
+       y="-0.083159849"
+       height="1.1663197">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.79681459"
+         id="feGaussianBlur60894" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter60896"
+       x="-0.073789904"
+       width="1.1475798"
+       y="-0.076250447"
+       height="1.1525009">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.47655976"
+         id="feGaussianBlur60898" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:current-layer="svg14"
@@ -115,11 +115,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="18.448597"
-     inkscape:cx="11.383494"
+     inkscape:cx="10.357853"
      inkscape:zoom="24.375"
      showgrid="false"
      id="namedview16"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -128,13 +128,14 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;filter:url(#filter892);opacity:0.5"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;opacity:0.5;filter:url(#filter60896)"
      d="m 8.1999002,21.99793 1.799999,-9.999882 1.0000008,14.999826 0.999999,-13.999839 1,12.999849 1.000001,-10.999872 0.999999,6.999918 2.000001,-8.999895 v 11.999861 l 1.999999,-12.999848 2,14.999826 1,-10.999875 1.7,4.999944"
      id="path4-9" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke-width:0.903258;filter:url(#filter896);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.903258;opacity:0.5;filter:url(#filter60892)"
      d="m 15.999899,4.5020332 c -2.901299,0 -5.547199,0.9057896 -7.4989988,2.426772 -1.9518,1.5209825 -3.2197,3.6971578 -3.2197,6.1181298 v 0.87499 c -1.9379,0.981837 -3.2812,3.557358 -3.2812,6.576124 0,3.863954 2.1983,6.999918 5.0312,6.999918 V 13.047134 c 0,-1.812978 0.9384,-3.4815592 2.5498,-4.7372447 C 11.1922,7.0540037 13.4682,6.252113 16.0002,6.252113 c 2.5321,0 4.8076,0.8019108 6.419,2.0575763 1.611399,1.2556657 2.5498,2.9242667 2.5498,4.7372457 v 14.450832 c 2.833,0 5.031,-3.135963 5.031,-6.999919 0,-3.018966 -1.343001,-5.593936 -3.281001,-6.575923 v -0.87499 c 0,-2.420972 -1.2679,-4.5971472 -3.2197,-6.1181298 -1.951999,-1.5210825 -4.598,-2.426872 -7.499,-2.426872 z M 7.6874002,13.716726 v 13.780841 c 0.4375,0 0.875,-0.218747 1.0938,-0.656243 V 14.153472 c -0.21875,-0.218746 -0.65625,-0.437495 -1.0938,-0.437495 z m 16.6249998,0 c -0.437501,0 -0.875,0.218748 -1.0938,0.437497 v 12.687851 c 0.219999,0.436995 0.656999,0.655993 1.094,0.655993 V 13.717226 Z"
      id="path8-2" />
   <path

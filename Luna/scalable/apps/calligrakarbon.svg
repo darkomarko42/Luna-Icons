@@ -13,7 +13,7 @@
    version="1"
    id="svg6314"
    sodipodi:docname="calligrakarbon.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata6320">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -50,17 +50,17 @@
          id="stop4962" />
     </linearGradient>
     <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter901"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60816"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
-         id="feGaussianBlur903"
-         stdDeviation="1.26"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur60818" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -73,14 +73,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1021"
+     inkscape:window-height="1000"
      id="namedview6316"
      showgrid="false"
      inkscape:zoom="26.15625"
-     inkscape:cx="16"
+     inkscape:cx="15.044205"
      inkscape:cy="16"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6314"
      inkscape:document-rotation="0" />
@@ -89,7 +89,7 @@
      cy="16"
      cx="16"
      id="path899"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.843094;filter:url(#filter901)" />
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.843094;filter:url(#filter60816)" />
   <path
      id="path3043-4-4"
      d="m 16.263473,2.0057407 c -2.08073,-0.06 -4.17369,0.35104 -6.07715,1.1936 -1.90345,0.84255 -3.61492,2.11548 -4.96943,3.6961 -1.84366,5.8474103 6.51275,4.3924803 6.51275,8.7597003 0,2.18993 0.0703,6.24119 1.57207,7.18116 3.3805,2.11585 7.74641,1.54375 13.75057,1.57627 0.90328,-1.20016 1.61182,-2.54655 2.08955,-3.97065 0.47773,-1.4241 0.72448,-2.9254 0.7277,-4.42749 -1.1e-4,-1.80043 -0.35137,-3.60018 -1.02828,-5.26852 -0.6769,-1.6683403 -1.67894,-3.2040403 -2.93334,-4.4955603 -1.25441,-1.29152 -2.76025,-2.33792 -4.40814,-3.06317 -1.64789,-0.72525 -3.43664,-1.12884 -5.2363,-1.18144 z"

@@ -13,7 +13,7 @@
    version="1"
    id="svg14"
    sodipodi:docname="redshift.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -39,19 +39,6 @@
          offset="1"
          id="stop879" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter873"
-       x="-0.13658775"
-       width="1.2731755"
-       y="-0.0893079"
-       height="1.1786158">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.96750225"
-         id="feGaussianBlur875" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient881"
@@ -61,6 +48,19 @@
        x2="15.457427"
        y2="21.720339"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter41537"
+       x="-0.094852604"
+       width="1.1897052"
+       y="-0.062019375"
+       height="1.1240388">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.67187656"
+         id="feGaussianBlur41539" />
+    </filter>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -72,18 +72,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1000"
      id="namedview16"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="16.849181"
+     inkscape:cx="15.154266"
      inkscape:cy="10.240792"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14" />
+     inkscape:current-layer="svg14"
+     inkscape:document-rotation="0" />
   <path
-     style="fill:#000000;fill-opacity:1;filter:url(#filter873);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter41537)"
      d="m 15.5001,3 c -4.694001,0 -8.4999997,3.8119254 -8.4999997,8.515625 -0.017401,2.551 2.233678,4.780032 3.2675777,7.207032 0.461,1.082 1.308593,3.277343 1.308593,3.277343 l 1.308594,5.699219 C 13.036665,28.403439 13.467046,29 14.191506,29 h 2.615234 c 0.723999,0 1.147594,-0.598781 1.308594,-1.300781 L 19.421974,22 c 0,0 0.847674,-2.195743 1.308594,-3.277343 1.034,-2.427 3.224531,-4.684032 3.269532,-7.207032 C 24.0001,6.8119254 20.194099,3 15.5001,3 Z"
      id="path2-3"
      inkscape:connector-curvature="0" />

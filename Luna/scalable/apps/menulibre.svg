@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="menulibre.svg"
    id="svg26"
    version="1.1"
@@ -21,24 +21,24 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs30">
     <filter
-       height="1.2005714"
-       y="-0.10028571"
-       width="1.234"
-       x="-0.117"
-       id="filter876"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60552"
+       x="-0.08125"
+       width="1.1625"
+       y="-0.069642857"
+       height="1.1392857">
       <feGaussianBlur
-         id="feGaussianBlur878"
-         stdDeviation="1.17"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.8125"
+         id="feGaussianBlur60554" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -47,11 +47,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.950131"
      inkscape:zoom="23.8125"
      showgrid="false"
      id="namedview28"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -60,9 +60,10 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <path
-     style="fill:#000000;fill-opacity:1;stroke-width:0.971167;filter:url(#filter876);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.971167;opacity:0.5;filter:url(#filter60552)"
      d="M 5.230769,2.0000002 H 26.769231 C 27.451077,2.0000002 28,2.5594497 28,3.2568791 V 25.426041 c 0,0.697497 -0.548923,1.135533 -1.230769,1.135533 H 12.666667 L 10,30 7.333333,26.561574 H 5.230769 C 4.548923,26.561574 4,26.123538 4,25.426041 V 3.2568791 C 4,2.5594497 4.548923,2.0000002 5.230769,2.0000002 Z"
      id="path4-2" />
   <path

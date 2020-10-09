@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="preferences-system-time.svg"
    id="svg28"
    viewBox="0 0 24 24"
@@ -34,11 +34,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="21.712792"
-     inkscape:cx="13.427238"
+     inkscape:cx="12.071306"
      inkscape:zoom="18.4375"
      showgrid="false"
      id="namedview30"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -96,7 +96,7 @@
          width="384" />
     </clipPath>
     <linearGradient
-       gradientTransform="matrix(0.06175483,0,0,0.06175483,0.04117845,0.21594517)"
+       gradientTransform="matrix(0.06175483,0,0,0.06175483,0.04117845,0.21594512)"
        gradientUnits="userSpaceOnUse"
        y2="347.02341"
        x2="347.0871"
@@ -151,23 +151,23 @@
          inkscape:collect="always" />
     </filter>
     <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter856"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60073"
+       x="-0.075000001"
+       width="1.15"
+       y="-0.074999999"
+       height="1.15">
       <feGaussianBlur
-         id="feGaussianBlur858"
-         stdDeviation="0.945"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.65625"
+         id="feGaussianBlur60075" />
     </filter>
   </defs>
   <path
      inkscape:connector-curvature="0"
      id="path12-1"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0691654;filter:url(#filter856)"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0691654;filter:url(#filter60073)"
      d="m 22.5,12 c 0,5.799105 -4.701101,10.5 -10.499998,10.5 C 6.2008956,22.5 1.5000001,17.798897 1.5000001,12 1.5000001,6.2011027 6.2011046,1.4999997 12.000002,1.4999997 17.798899,1.4999997 22.5,6.2011027 22.5,12" />
   <path
      inkscape:connector-curvature="0"
@@ -177,7 +177,7 @@
   <path
      inkscape:connector-curvature="0"
      id="path12"
-     style="fill:url(#linearGradient845);fill-opacity:1;fill-rule:evenodd;stroke-width:0.06175482"
+     style="fill:url(#linearGradient845);fill-opacity:1;fill-rule:evenodd;stroke-width:0.0617548"
      d="m 21.375,12 c 0,5.177771 -4.197414,9.375 -9.375,9.375 -5.1777712,0 -9.3750001,-4.197414 -9.3750001,-9.375 0,-5.1775863 4.1974145,-9.3749999 9.3750001,-9.3749999 5.177586,0 9.375,4.1974136 9.375,9.3749999" />
   <path
      transform="matrix(0.5,0,0,0.5,4.9999999e-8,6.0000001)"

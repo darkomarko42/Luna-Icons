@@ -13,7 +13,7 @@
    version="1.1"
    id="svg16"
    sodipodi:docname="glade.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -51,19 +51,6 @@
          offset="1"
          style="stop-color:#ffcc00;stop-opacity:1" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter985"
-       x="-0.108"
-       width="1.216"
-       y="-0.108"
-       height="1.216">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.26"
-         id="feGaussianBlur987" />
-    </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="1050.4"
@@ -82,6 +69,19 @@
        id="linearGradient855"
        xlink:href="#linearGradient853"
        inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter59494"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur59496" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -94,11 +94,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      id="namedview18"
      showgrid="false"
      inkscape:zoom="20.960665"
-     inkscape:cx="8.7222469"
+     inkscape:cx="7.5295366"
      inkscape:cy="15.263399"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -108,7 +108,7 @@
      transform="translate(0 -1020.4)"
      id="g14">
     <path
-       style="fill:#000000;fill-opacity:1;stroke-width:1.12815;filter:url(#filter985);opacity:0.5"
+       style="fill:#000000;fill-opacity:1;stroke-width:1.12815;opacity:0.5;filter:url(#filter59494)"
        fill="#e4e4e4"
        d="m 30,1048.9 v -25 c 0,-0.831 -0.851455,-1.5 -1.909091,-1.5 H 3.909091 C 2.851455,1022.4 2,1023.069 2,1023.9 v 25 c 0,0.831 0.851455,1.5 1.909091,1.5 H 28.090909 C 29.148545,1050.4 30,1049.731 30,1048.9 Z"
        id="path2-6" />

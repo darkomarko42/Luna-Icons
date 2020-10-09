@@ -13,7 +13,7 @@
    viewBox="0 0 8.4666665 8.4666669"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="gnome-contacts.svg">
   <defs
      id="defs2">
@@ -29,19 +29,6 @@
          offset="1"
          style="stop-color:#c77d3e;stop-opacity:1" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter881"
-       x="-0.117"
-       width="1.234"
-       y="-0.10028571"
-       height="1.2005714">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.3095625"
-         id="feGaussianBlur883" />
-    </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="7.9375"
@@ -51,6 +38,19 @@
        id="linearGradient847"
        xlink:href="#linearGradient845"
        inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter59482"
+       x="-0.08125"
+       width="1.1625"
+       y="-0.069642857"
+       height="1.1392857">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.21497396"
+         id="feGaussianBlur59484" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -60,7 +60,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="18.009126"
-     inkscape:cx="6.0019797"
+     inkscape:cx="4.6137946"
      inkscape:cy="16.237985"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -68,9 +68,9 @@
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1020"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -89,7 +89,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29353;filter:url(#filter881)"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29353;filter:url(#filter59482)"
        id="rect833-9-2"
        width="6.3499999"
        height="7.4083333"

@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="preferences-desktop-sound.svg"
    id="svg20"
    version="1"
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,19 +40,6 @@
          offset="1"
          style="stop-color:#d9d9d9;stop-opacity:1" />
     </linearGradient>
-    <filter
-       height="1.1910769"
-       y="-0.095538462"
-       width="1.2484"
-       x="-0.1242"
-       id="filter866"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur868"
-         stdDeviation="1.035"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="29.226635"
@@ -62,6 +49,19 @@
        id="linearGradient894"
        xlink:href="#linearGradient892"
        inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter60149"
+       x="-0.08625"
+       width="1.1725"
+       y="-0.066346154"
+       height="1.1326923">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.71875"
+         id="feGaussianBlur60151" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:current-layer="svg20"
@@ -69,12 +69,12 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.950131"
      inkscape:zoom="23.8125"
      showgrid="false"
      id="namedview22"
-     inkscape:window-height="1005"
-     inkscape:window-width="1918"
+     inkscape:window-height="1000"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -82,7 +82,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <rect
      fill="#4f4f4f"
      width="20"
@@ -93,7 +94,7 @@
      ry="1.3"
      transform="scale(-1,1)"
      id="rect2-9"
-     style="fill:#000000;fill-opacity:1;filter:url(#filter866);opacity:0.5" />
+     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter60149)" />
   <rect
      style="fill:url(#linearGradient894);fill-opacity:1"
      id="rect2"
@@ -112,13 +113,6 @@
      cy="16"
      cx="-18"
      style="opacity:0.4" />
-  <circle
-     id="circle6"
-     transform="matrix(0,-1,-1,0,0,0)"
-     r="7"
-     cy="-16"
-     cx="-19"
-     opacity=".2" />
   <circle
      id="circle8"
      transform="matrix(0,-1,-1,0,0,0)"

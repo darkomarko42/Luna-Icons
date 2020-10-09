@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="blueman-cellular.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="phone.svg"
    id="svg20"
    version="1"
    height="32"
@@ -27,16 +27,16 @@
   <defs
      id="defs24">
     <filter
-       height="1.1774286"
-       y="-0.088714286"
-       width="1.276"
-       x="-0.138"
+       height="1.1232143"
+       y="-0.061607143"
+       width="1.1916667"
+       x="-0.095833333"
        id="filter924"
        style="color-interpolation-filters:sRGB"
        inkscape:collect="always">
       <feGaussianBlur
          id="feGaussianBlur926"
-         stdDeviation="1.035"
+         stdDeviation="0.71875"
          inkscape:collect="always" />
     </filter>
   </defs>
@@ -47,11 +47,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="26.195833"
-     inkscape:cx="8.7925452"
+     inkscape:cx="6.016175"
      inkscape:zoom="9.0045629"
      showgrid="false"
      id="namedview22"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -78,7 +78,7 @@
      x="7"
      height="28"
      width="18"
-     style="fill:#e5e5e5;fill-opacity:1;stroke-width:0.916515" />
+     style="fill:#f2f2f2;fill-opacity:1;stroke-width:0.916515" />
   <rect
      style="fill:#000000;fill-opacity:1;stroke-width:0.730298"
      width="16"

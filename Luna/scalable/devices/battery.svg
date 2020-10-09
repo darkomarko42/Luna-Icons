@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="battery.svg"
    id="svg16"
    version="1"
@@ -27,17 +27,17 @@
   <defs
      id="defs20">
     <filter
-       height="1.188"
-       y="-0.094"
-       width="1.2538"
-       x="-0.1269"
-       id="filter873"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter16679"
+       x="-0.088125"
+       width="1.17625"
+       y="-0.065277778"
+       height="1.1305556">
       <feGaussianBlur
-         id="feGaussianBlur875"
-         stdDeviation="1.0575"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.734375"
+         id="feGaussianBlur16681" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -46,11 +46,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="18.044324"
-     inkscape:cx="15.082927"
+     inkscape:cx="14.057286"
      inkscape:zoom="24.375"
      showgrid="false"
      id="namedview18"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -59,18 +59,19 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <path
-     d="m 9,2.5 v 3 H 7.25 C 6.5575,5.5 6,6.036372 6,6.701172 v 21.59961 C 6,28.965582 6.5575,29.5 7.25,29.5 h 17.5 C 25.4425,29.5 26,28.965582 26,28.300782 V 6.701172 C 26,6.036372 25.4425,5.5 24.75,5.5 H 23 v -3 z"
-     style="fill:#000000;stroke-width:0.934199;fill-opacity:1;filter:url(#filter873);opacity:0.5"
+     d="M 9,3 V 6 H 7.25 C 6.5575,6 6,6.536372 6,7.201172 v 21.59961 C 6,29.465582 6.5575,30 7.25,30 h 17.5 C 25.4425,30 26,29.465582 26,28.800782 V 7.201172 C 26,6.536372 25.4425,6 24.75,6 H 23 V 3 Z"
+     style="opacity:0.5;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:0.934199;filter:url(#filter16679)"
      id="path4-4" />
   <path
      id="path4"
-     d="m 7.25,5 h 17.5 C 25.4425,5 26,5.5352 26,6.2 V 27.8 C 26,28.4648 25.4425,29 24.75,29 H 7.25 C 6.5575,29 6,28.4648 6,27.8 V 6.2 C 6,5.5352 6.5575,5 7.25,5 Z"
+     d="m 7.25,6 h 17.5 C 25.4425,6 26,6.5352 26,7.2 V 28.8 C 26,29.4648 25.4425,30 24.75,30 H 7.25 C 6.5575,30 6,29.4648 6,28.8 V 7.2 C 6,6.5352 6.5575,6 7.25,6 Z"
      style="fill:#4f4f4f;stroke-width:0.934199" />
   <rect
      id="rect6"
-     y="2"
+     y="3"
      x="9"
      height="3"
      width="14"
@@ -78,7 +79,7 @@
   <rect
      ry="0"
      rx="0"
-     y="7"
+     y="8"
      x="8"
      height="20"
      width="16"

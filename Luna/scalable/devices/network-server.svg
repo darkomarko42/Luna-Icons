@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="network-server.svg"
    id="svg20"
    version="1"
@@ -71,43 +71,43 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,0.71428571,6.9915772e-8,-11.428571)" />
     <filter
-       height="1.6264"
-       y="-0.3132"
-       width="1.2237143"
-       x="-0.11185714"
-       id="filter1484"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter15303"
+       x="-0.077678571"
+       width="1.1553571"
+       y="-0.2175"
+       height="1.435">
       <feGaussianBlur
-         id="feGaussianBlur1486"
-         stdDeviation="1.305"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.90625"
+         id="feGaussianBlur15305" />
     </filter>
     <filter
-       height="1.6264"
-       y="-0.3132"
-       width="1.2237143"
-       x="-0.11185714"
-       id="filter1488"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter15307"
+       x="-0.077678571"
+       width="1.1553571"
+       y="-0.2175"
+       height="1.435">
       <feGaussianBlur
-         id="feGaussianBlur1490"
-         stdDeviation="1.305"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.90625"
+         id="feGaussianBlur15309" />
     </filter>
     <filter
-       height="1.6264"
-       y="-0.3132"
-       width="1.2237143"
-       x="-0.11185714"
-       id="filter1492"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter15311"
+       x="-0.077678571"
+       width="1.1553571"
+       y="-0.2175"
+       height="1.435">
       <feGaussianBlur
-         id="feGaussianBlur1494"
-         stdDeviation="1.305"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.90625"
+         id="feGaussianBlur15313" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -115,12 +115,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="0.9995368"
-     inkscape:cx="-4.9912665"
+     inkscape:cy="1.0936563"
+     inkscape:cx="-11.39161"
      inkscape:zoom="10.40625"
      showgrid="false"
      id="namedview22"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -132,7 +132,7 @@
      pagecolor="#ffffff"
      inkscape:document-rotation="0" />
   <rect
-     style="fill:#000000;fill-opacity:1;stroke-width:0.845154;filter:url(#filter1484);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.845154;opacity:0.5;filter:url(#filter15303)"
      width="28"
      height="10"
      x="2"
@@ -148,7 +148,7 @@
      x="2"
      height="10"
      width="28"
-     style="fill:#000000;fill-opacity:1;stroke-width:0.845154;filter:url(#filter1488);opacity:0.5" />
+     style="fill:#000000;fill-opacity:1;stroke-width:0.845154;opacity:0.5;filter:url(#filter15307)" />
   <rect
      id="rect6-6-8"
      ry="1.4999999"
@@ -157,7 +157,7 @@
      x="2"
      height="10"
      width="28"
-     style="fill:#000000;fill-opacity:1;stroke-width:0.845154;filter:url(#filter1492);opacity:0.5" />
+     style="fill:#000000;fill-opacity:1;stroke-width:0.845154;opacity:0.5;filter:url(#filter15311)" />
   <rect
      id="rect6"
      ry="1.4999999"

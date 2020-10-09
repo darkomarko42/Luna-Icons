@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="birdie.svg"
    id="svg26"
    version="1.1"
@@ -39,19 +39,6 @@
          offset="1"
          style="stop-color:#1a85dc;stop-opacity:1" />
     </linearGradient>
-    <filter
-       height="1.2179636"
-       y="-0.10898182"
-       width="1.2140714"
-       x="-0.10703571"
-       id="filter857"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur859"
-         stdDeviation="1.24875"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="1049.3622"
@@ -61,6 +48,19 @@
        id="linearGradient867"
        xlink:href="#linearGradient865"
        inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter60860"
+       x="-0.074330358"
+       width="1.1486607"
+       y="-0.075681818"
+       height="1.1513636">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.86718749"
+         id="feGaussianBlur60862" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:current-layer="g24"
@@ -68,11 +68,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.974359"
      inkscape:zoom="24.375"
      showgrid="false"
      id="namedview28"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -81,14 +81,15 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <g
      id="g24"
      transform="translate(0,-1020.3622)">
     <path
        id="path2"
        d="m 16,1022.6122 -1.333333,1.6 -1.666667,-0.6 -0.791667,1.5209 c -3.0709324,0.6319 -5.2408127,2.1161 -7.0390593,4.4622 -3.1452866,4.1035 -3.1692733,11.1836 -3.1692733,15.1836 0,3.9999 7.333333,5.3333 13.9999996,5.3333 6.666667,0 14,-1.3334 14,-5.3333 0,-4 -0.024,-11.0801 -3.169273,-15.1836 -1.798247,-2.3462 -3.968127,-3.8303 -7.03906,-4.4623 L 19,1023.6122 l -1.666667,0.6 z"
-       style="opacity:0.5;filter:url(#filter857)" />
+       style="opacity:0.5;filter:url(#filter60860)" />
     <path
        id="path4"
        d="m 16,1021.8622 -1.333333,1.6 -1.666667,-0.6 -0.791667,1.5209 c -3.0709328,0.6319 -5.2408131,2.1161 -7.0390597,4.4622 C 2.0239867,1032.9488 2,1040.0289 2,1044.0289 c 0,3.9999 7.333333,5.3333 14,5.3333 6.666667,0 14,-1.3334 14,-5.3333 0,-4 -0.024,-11.0801 -3.169273,-15.1836 -1.798247,-2.3462 -3.968127,-3.8303 -7.03906,-4.4623 L 19,1022.8622 l -1.666667,0.6 z"

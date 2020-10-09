@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="preferences-desktop-accessibility.svg"
    id="svg12"
    version="1"
@@ -50,30 +50,17 @@
        xlink:href="#linearGradient847"
        inkscape:collect="always" />
     <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter875"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60377"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
-         id="feGaussianBlur877"
-         stdDeviation="1.26"
-         inkscape:collect="always" />
-    </filter>
-    <filter
-       height="1.192"
-       y="-0.096"
-       width="1.2468571"
-       x="-0.12342857"
-       id="filter879"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur881"
-         stdDeviation="0.72"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur60379" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -82,11 +69,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.950131"
      inkscape:zoom="23.8125"
      showgrid="false"
      id="namedview14"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -95,7 +82,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <rect
      fill="#3e50b4"
      width="28"
@@ -105,7 +93,7 @@
      rx="14"
      ry="14"
      id="rect2-1"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;filter:url(#filter875)"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;filter:url(#filter60377)"
      transform="rotate(90)" />
   <rect
      transform="rotate(90)"
@@ -118,11 +106,6 @@
      height="28"
      width="28"
      fill="#3e50b4" />
-  <path
-     style="filter:url(#filter879);opacity:0.5"
-     id="path4"
-     d="m16 8c-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2-0.89543-2-2-2zm-7 5v1h5v12h1v-6h2v6h1v-12h5v-1h-9z"
-     opacity=".2" />
   <path
      id="path6"
      d="m16 7c-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2-0.89543-2-2-2zm-7 5v1h5v12h1v-6h2v6h1v-12h5v-1h-9z"

@@ -14,7 +14,7 @@
    preserveAspectRatio="xMidYMid"
    id="svg29"
    sodipodi:docname="gmail.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata33">
     <rdf:RDF>
@@ -38,11 +38,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      id="namedview31"
      showgrid="false"
      inkscape:zoom="25.164254"
-     inkscape:cx="11.831683"
+     inkscape:cx="10.83821"
      inkscape:cy="18.284437"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -72,15 +72,15 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter924"
-       x="-0.094684256"
-       width="1.1893685"
-       y="-0.12505468"
-       height="1.2501094">
+       id="filter59490"
+       x="-0.065752955"
+       width="1.1315059"
+       y="-0.086843529"
+       height="1.1736871">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="10.040125"
-         id="feGaussianBlur926" />
+         stdDeviation="6.9723091"
+         id="feGaussianBlur59492" />
     </filter>
   </defs>
   <g
@@ -90,7 +90,7 @@
        id="path9-9"
        fill="#e3e3e3"
        d="M 238.99009,193.25417 H 16.310382 c -8.6345202,0 -15.90569017,-7.04395 -15.90569017,-15.9057 V 16.473753 c 0,-8.634519 7.04394997,-15.90569303 15.90569017,-15.90569303 H 238.99009 c 8.63451,0 15.9057,7.04394903 15.9057,15.90569303 V 177.34847 c 0,8.86175 -7.04395,15.9057 -15.9057,15.9057 z"
-       style="fill:#000000;fill-opacity:1;stroke-width:0.999999;filter:url(#filter924);opacity:0.5" />
+       style="fill:#000000;fill-opacity:1;stroke-width:0.999999;opacity:0.5;filter:url(#filter59490)" />
     <path
        d="M 238.83392,193.59501 H 16.154219 c -8.6345186,0 -15.90569255,-7.04395 -15.90569255,-15.9057 V 16.81459 c 0,-8.6345193 7.04394975,-15.90569325 15.90569255,-15.90569325 H 238.83392 c 8.63452,0 15.9057,7.04394975 15.9057,15.90569325 v 160.87472 c 0,8.86175 -7.04395,15.9057 -15.9057,15.9057 z"
        fill="#e3e3e3"

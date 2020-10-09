@@ -13,7 +13,7 @@
    version="1.1"
    id="svg20"
    sodipodi:docname="deluge.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -50,16 +50,16 @@
        y2="1.5753824"
        gradientUnits="userSpaceOnUse" />
     <filter
-       height="1.1899307"
-       y="-0.094965375"
-       width="1.2503641"
-       x="-0.12518207"
+       height="1.1318964"
+       y="-0.065948177"
+       width="1.173864"
+       x="-0.08693199"
        id="filter862"
        style="color-interpolation-filters:sRGB"
        inkscape:collect="always">
       <feGaussianBlur
          id="feGaussianBlur864"
-         stdDeviation="1.1474974"
+         stdDeviation="0.7968732"
          inkscape:collect="always" />
     </filter>
   </defs>
@@ -74,14 +74,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1020"
+     inkscape:window-height="1000"
      id="namedview22"
      showgrid="false"
      inkscape:zoom="23.8125"
-     inkscape:cx="14.950131"
+     inkscape:cx="13.900262"
      inkscape:cy="16"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg20" />
   <path

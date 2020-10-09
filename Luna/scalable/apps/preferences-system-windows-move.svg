@@ -8,12 +8,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="cs-workspaces.svg"
-   id="svg20"
-   version="1"
+   width="32"
    height="32"
-   width="32">
+   version="1"
+   id="svg20"
+   sodipodi:docname="preferences-system-windows-move.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -28,125 +28,119 @@
   <defs
      id="defs24">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient917">
+       id="linearGradient917"
+       inkscape:collect="always">
       <stop
-         style="stop-color:#4d4d4d;stop-opacity:1;"
+         id="stop913"
          offset="0"
-         id="stop913" />
+         style="stop-color:#4d4d4d;stop-opacity:1;" />
       <stop
-         style="stop-color:#373737;stop-opacity:1"
+         id="stop915"
          offset="1"
-         id="stop915" />
+         style="stop-color:#373737;stop-opacity:1" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient917"
-       id="linearGradient919"
-       x1="3"
-       y1="16"
-       x2="29"
-       y2="16"
+       gradientTransform="translate(0,-32)"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,-32)" />
+       y2="16"
+       x2="29"
+       y1="16"
+       x1="3"
+       id="linearGradient919"
+       xlink:href="#linearGradient917"
+       inkscape:collect="always" />
     <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter984"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60061"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
-         id="feGaussianBlur986"
-         stdDeviation="1.17"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.8125"
+         id="feGaussianBlur60063" />
     </filter>
   </defs>
   <sodipodi:namedview
-     inkscape:current-layer="svg20"
-     inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:cy="-3.3210263"
-     inkscape:cx="21.605193"
-     inkscape:zoom="8.4189901"
-     showgrid="false"
-     id="namedview22"
-     inkscape:window-height="1002"
-     inkscape:window-width="1920"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     bordercolor="#666666"
+     inkscape:document-rotation="0"
      pagecolor="#ffffff"
-     inkscape:document-rotation="0" />
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="23.8125"
+     inkscape:cx="17.339842"
+     inkscape:cy="17.274631"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20" />
+  <rect
+     id="rect4-6"
+     ry="2.1694016"
+     rx="2.1694016"
+     y="-29"
+     x="3"
+     height="26"
+     width="26"
+     style="fill:#000000;fill-opacity:1;stroke-width:1.00297;opacity:0.5;filter:url(#filter60061)"
+     transform="rotate(90)" />
   <rect
      transform="rotate(90)"
-     style="fill:#000000;fill-opacity:1;stroke-width:1.00297;filter:url(#filter984);opacity:0.5"
-     width="26"
-     height="26"
-     x="3"
-     y="-29"
-     rx="2.1694016"
-     ry="2.1694016"
-     id="rect4-6" />
-  <rect
-     id="rect4"
-     ry="2.1694016"
-     rx="2.1694016"
-     y="-29"
-     x="3"
-     height="26"
-     width="26"
      style="fill:url(#linearGradient919);fill-opacity:1;stroke-width:1.00297"
-     transform="rotate(90)" />
+     width="26"
+     height="26"
+     x="3"
+     y="-29"
+     rx="2.1694016"
+     ry="2.1694016"
+     id="rect4" />
   <rect
-     id="rect4-7-3-3-6"
-     ry="0"
-     rx="0"
-     y="18"
-     x="6"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.308606;opacity:0.3"
+     width="8"
      height="8"
-     width="8"
-     style="fill:#ffffff;fill-opacity:1;stroke-width:0.308606;opacity:0.3" />
-  <rect
-     transform="scale(-1)"
-     style="fill:#ffffff;fill-opacity:1;stroke-width:0.377964;opacity:0.7"
-     width="8"
-     height="12"
-     x="-26"
-     y="-22"
-     rx="0"
-     ry="0"
-     id="rect4-7-3-3-6-7" />
-  <rect
-     id="rect4-7-3-3-6-7-5"
-     ry="0"
-     rx="0"
-     y="-16"
      x="6"
-     height="10"
+     y="18"
+     rx="0"
+     ry="0"
+     id="rect4-7-3-3-6" />
+  <rect
+     id="rect4-7-3-3-6-7"
+     ry="0"
+     rx="0"
+     y="-22"
+     x="-26"
+     height="12"
      width="8"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.377964;opacity:0.7"
+     transform="scale(-1)" />
+  <rect
+     transform="rotate(90)"
      style="fill:#ffffff;fill-opacity:1;stroke-width:0.345032;opacity:0.5"
-     transform="rotate(90)" />
+     width="8"
+     height="10"
+     x="6"
+     y="-16"
+     rx="0"
+     ry="0"
+     id="rect4-7-3-3-6-7-5" />
   <circle
-     style="opacity:1;fill:#cf1b1b;fill-opacity:1;stroke-width:0.829646"
-     id="path905-5"
-     cx="25.791071"
+     r="2"
      cy="10.026786"
-     r="2" />
-  <g
-     aria-label="x"
-     id="text924-6"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
-     transform="matrix(0.09142857,0,0,0.09142857,23.058623,10.451481)">
-    <path
-       d="M 40.081465,-15.582606 32.171309,-4.9380746 40.491621,6.2923942 H 36.25334 l -6.367188,-8.59375 -6.367187,8.59375 H 19.280684 L 27.776777,-5.1529183 20.00334,-15.582606 h 4.238281 l 5.800781,7.7929689 5.800782,-7.7929689 z"
-       id="path926-2"
-       style="fill:#ffffff;fill-opacity:1" />
-  </g>
+     cx="25.791071"
+     id="path905-5"
+     style="opacity:1;fill:#f05858;fill-opacity:1;stroke-width:0.829646" />
+  <path
+     d="m 24.907282,8.7894813 -0.353516,0.3535156 0.882813,0.8828121 -0.882813,0.884766 0.353516,0.353515 0.884765,-0.882812 0.882813,0.882812 0.353515,-0.353515 L 26.14361,10.025809 27.028375,9.1429969 26.67486,8.7894813 25.792047,9.6742469 Z"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.476476"
+     id="rect843" />
 </svg>

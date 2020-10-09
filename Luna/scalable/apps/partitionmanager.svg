@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="partitionmanager.svg"
    id="svg32"
    version="1"
@@ -21,24 +21,24 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs36">
     <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter900"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60413"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
-         id="feGaussianBlur902"
-         stdDeviation="1.26"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur60415" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -47,11 +47,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.950131"
      inkscape:zoom="23.8125"
      showgrid="false"
      id="namedview34"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -60,10 +60,11 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <path
      d="M 16,2 A 14,14 0 0 0 6.005859,6.2109376 C 3.441086,8.8242501 2.0045,12.33838 2,16 a 14,14 0 0 0 14,14 c 3.74968,-0.0024 7.232316,-1.500759 9.789063,-4.005859 L 19.769531,19.972656 A 5.4782609,5.4782609 0 0 1 16,21.478516 5.4782609,5.4782609 0 0 1 10.521485,16 5.4782609,5.4782609 0 0 1 12.03125,12.234375 5.4782609,5.4782609 0 0 1 16,10.521485 5.4782609,5.4782609 0 0 1 21.478516,16 5.4782609,5.4782609 0 0 1 19.769531,19.972656 l 6.027344,6.025391 A 14,14 0 0 0 30,16 14,14 0 0 0 16,2 Z"
-     style="fill:#000000;fill-opacity:1;stroke-width:1.21739;filter:url(#filter900);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;stroke-width:1.21739;opacity:0.5;filter:url(#filter60413)"
      id="path8-3" />
   <path
      id="path8"

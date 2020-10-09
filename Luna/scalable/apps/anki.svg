@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="anki.svg"
    id="svg10"
    version="1"
@@ -49,31 +49,31 @@
        xlink:href="#linearGradient845"
        inkscape:collect="always" />
     <filter
-       height="1.2160002"
-       y="-0.10800008"
-       width="1.2159998"
-       x="-0.10799992"
-       id="filter882"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter17570"
+       x="-0.074999943"
+       width="1.1499999"
+       y="-0.075000057"
+       height="1.1500001">
       <feGaussianBlur
-         id="feGaussianBlur884"
-         stdDeviation="1.2599741"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.87498203"
+         id="feGaussianBlur17572" />
     </filter>
   </defs>
   <sodipodi:namedview
      inkscape:current-layer="svg10"
      inkscape:window-maximized="1"
-     inkscape:window-y="27"
-     inkscape:window-x="53"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.950131"
      inkscape:zoom="23.8125"
      showgrid="false"
      id="namedview12"
-     inkscape:window-height="1019"
-     inkscape:window-width="1867"
+     inkscape:window-height="1000"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -81,12 +81,13 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <path
      fill="#0088d1"
      d="m 13.118194,2.0895348 a 2.9557,2.8785 0 0 0 -2.168,2.2255 l -1.2568,6.1428002 -5.9069,2.475 a 2.9557,2.8785 0 0 0 -0.2767,5.154 l 5.6088,3.0618 0.58994,6.2361 a 2.9557,2.8785 0 0 0 4.9483,1.8514 l 4.7253,-4.25 6.272,1.3803 a 2.9557,2.8785 0 0 0 3.3348,-4.0129 l -2.6908,-5.6879 3.2876,-5.3833 a 2.9557,2.8785 0 0 0 -2.886,-4.3281002 l -6.389,0.7336 -4.24,-4.7086 a 2.9557,2.8785 0 0 0 -2.953,-0.8892 z"
      id="path2-5"
-     style="fill:#000000;fill-opacity:1;filter:url(#filter882);opacity:0.5" />
+     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter17570)" />
   <path
      style="fill-opacity:1;fill:url(#linearGradient847)"
      id="path2"

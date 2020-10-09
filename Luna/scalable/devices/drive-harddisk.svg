@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="drive-harddisk.svg"
    id="svg46"
    version="1.1"
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -50,17 +50,17 @@
        xlink:href="#linearGradient881"
        inkscape:collect="always" />
     <filter
-       height="1.2174965"
-       y="-0.10874825"
-       width="1.214524"
-       x="-0.10726198"
-       id="filter913"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter16297"
+       x="-0.074487483"
+       width="1.148975"
+       y="-0.075519619"
+       height="1.1510392">
       <feGaussianBlur
-         id="feGaussianBlur915"
-         stdDeviation="2.3567431"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="1.6366271"
+         id="feGaussianBlur16299" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -69,11 +69,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="17.660265"
-     inkscape:cx="-31.740953"
+     inkscape:cx="-37.679908"
      inkscape:zoom="4.2094951"
      showgrid="false"
      id="namedview48"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -82,7 +82,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <linearGradient
      y2="107.36093"
      y1="107.36093"
@@ -172,7 +173,7 @@
   </linearGradient>
   <path
      d="m 9.8505865,5.994141 c -0.77804,0 -1.404297,0.617692 -1.404297,1.382812 l -2.808594,41.646484 c 0,0.07623 0.00952,0.149845 0.021484,0.222657 h -0.02539 l 0.46875,7.378906 c 0,0.76514 0.626226,1.380859 1.404297,1.380859 H 56.485351 c 0.77806,0 1.404297,-0.615719 1.404297,-1.380859 l 0.46875,-7.378906 h -0.01563 c 0.01197,-0.07282 0.02344,-0.146409 0.02344,-0.222657 L 55.088867,7.375 c 0,-0.76511 -0.626227,-1.380859 -1.404297,-1.380859 z"
-     style="fill:#000000;fill-opacity:1;filter:url(#filter913);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter16297)"
      id="path32-1" />
   <path
      style="fill:#1a1a1a;fill-opacity:1"

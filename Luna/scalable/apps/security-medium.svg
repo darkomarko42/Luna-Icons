@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="security-medium.svg"
    id="svg14"
    version="1"
@@ -51,17 +51,17 @@
        xlink:href="#linearGradient1002"
        inkscape:collect="always" />
     <filter
-       height="1.1998"
-       y="-0.099900004"
-       width="1.2350588"
-       x="-0.11752941"
-       id="filter1983"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter41525"
+       x="-0.081617643"
+       width="1.1632353"
+       y="-0.069375003"
+       height="1.13875">
       <feGaussianBlur
-         id="feGaussianBlur1985"
-         stdDeviation="1.1370731"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.7896341"
+         id="feGaussianBlur41527" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -71,11 +71,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="18.032976"
-     inkscape:cx="29.433258"
+     inkscape:cx="27.635529"
      inkscape:zoom="13.906433"
      showgrid="false"
      id="namedview16"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -89,7 +89,7 @@
      inkscape:connector-curvature="0"
      id="path2"
      d="m 16,2.3414634 c -0.04311,0 -0.08682,0.00796 -0.128049,0.022673 C 12.655185,4.7487009 9.036128,6.3273044 4.6463416,6.365663 4.4931495,6.4202767 4.390244,6.5669079 4.390244,6.7311354 c 0,4.0497686 1.0605347,8.7308896 2.9091085,12.8435606 1.4994275,3.336383 4.1948175,7.786897 8.5245805,10.041158 0.0551,0.02866 0.115832,0.04268 0.176067,0.04268 0.06023,0 0.120967,-0.01402 0.176067,-0.04268 4.329763,-2.254261 7.025153,-6.704775 8.524581,-10.041158 1.848573,-4.112671 2.909108,-8.793792 2.909108,-12.8435606 0,-0.1642275 -0.102905,-0.3108587 -0.256097,-0.3654724 C 22.963873,6.327307 19.344815,4.7487039 16.128049,2.3641416 16.086819,2.3494236 16.043109,2.3414666 16,2.3414666 Z"
-     style="opacity:0.5;stroke-width:0.682927;filter:url(#filter1983)" />
+     style="opacity:0.5;stroke-width:0.682927;filter:url(#filter41525)" />
   <path
      inkscape:connector-curvature="0"
      id="path4"

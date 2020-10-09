@@ -13,7 +13,7 @@
    width="32"
    version="1.0"
    sodipodi:docname="jockey.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -24,14 +24,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1000"
      id="namedview45"
      showgrid="false"
      inkscape:zoom="10.82698"
-     inkscape:cx="8.9503655"
+     inkscape:cx="6.641319"
      inkscape:cy="15.717144"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4569"
      inkscape:document-rotation="0" />
@@ -270,19 +270,6 @@
          y="0"
          id="rect10-8" />
     </clipPath>
-    <filter
-       height="1.234"
-       y="-0.117"
-       width="1.2005714"
-       x="-0.10028571"
-       id="filter1075"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur1077"
-         stdDeviation="1.17"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        gradientTransform="matrix(0.42857142,0,0,0.42857142,9.1428536,7.1428568)"
        gradientUnits="userSpaceOnUse"
@@ -340,10 +327,23 @@
          stdDeviation="0.63"
          inkscape:collect="always" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter61602"
+       x="-0.069642857"
+       width="1.1392857"
+       y="-0.081250001"
+       height="1.1625">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.81249999"
+         id="feGaussianBlur61604" />
+    </filter>
   </defs>
   <path
      d="M 2,4.0000004 V 24 h 10.117188 c 0,0 0.09504,2.065713 -0.351563,2.546875 -0.4466,0.481166 -1.335937,0.787109 -1.335937,0.787109 C 9.859444,27.384534 9.854727,28 10.429688,28 h 11.140625 c 0.574963,0 0.570365,-0.616113 0,-0.666016 0,0 -0.887392,-0.305945 -1.333984,-0.787109 C 19.789736,26.065715 19.882813,24 19.882813,24 H 30 V 4.0000004 Z"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.98559;filter:url(#filter1075)"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.98559;filter:url(#filter61602)"
      id="rect1015-9" />
   <rect
      y="4"

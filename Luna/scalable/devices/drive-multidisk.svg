@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="drive-multidisk.svg"
    id="svg46"
    version="1.1"
@@ -16,7 +16,7 @@
    height="64">
   <path
      id="path32-97"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;filter:url(#filter928)"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;filter:url(#filter16385)"
      d="m 9.6191408,3.6945583 c -0.77804,0 -1.404297,0.615738 -1.404297,1.380859 L 5.4062498,46.721901 c 0,0.0769 0.00931,0.151199 0.021484,0.22461 h -0.02539 l 0.46875,7.376953 c 0,0.07624 0.00952,0.149843 0.021484,0.222656 h -0.02539 l 0.46875,7.378906 c 0,0.76514 0.626226,1.38086 1.404296,1.38086 H 56.71875 c 0.77806,0 1.404297,-0.61572 1.404297,-1.38086 l 0.46875,-7.378906 h -0.01563 c 0.01197,-0.07281 0.02148,-0.146422 0.02148,-0.222656 l -0.519531,-6.605469 0.04883,-0.771484 h -0.01563 c 0.01217,-0.07342 0.02344,-0.147701 0.02344,-0.22461 L 54.857422,5.0754173 c 0,-0.765111 -0.626227,-1.380859 -1.404297,-1.380859 z" />
   <metadata
      id="metadata52">
@@ -57,15 +57,15 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter928"
-       x="-0.11451308"
-       width="1.2290262"
-       y="-0.10218793"
-       height="1.2043759">
+       id="filter16385"
+       x="-0.079522973"
+       width="1.1590459"
+       y="-0.070963839"
+       height="1.1419277">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="2.5381492"
-         id="feGaussianBlur930" />
+         stdDeviation="1.7626036"
+         id="feGaussianBlur16387" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -74,11 +74,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="41.226337"
-     inkscape:cx="31.529926"
+     inkscape:cx="28.560449"
      inkscape:zoom="8.4189903"
      showgrid="false"
      id="namedview48"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -185,7 +185,7 @@
      d="m 5.40201,45.445245 0.4765465,7.37846 c 0,0.76514 0.6376315,1.38113 1.4296905,1.38113 h 49.860032 c 0.792049,0 1.429711,-0.61599 1.429711,-1.38113 l 0.476547,-7.37846 z"
      fill="url(#a)"
      id="path32-9"
-     style="fill:#525252;fill-opacity:1;stroke-width:1.00895" />
+     style="fill:#808080;fill-opacity:1;stroke-width:1.00895" />
   <path
      d="M 9.6928678,2.193815 H 54.298822 c 0.791788,0 1.429221,0.61599 1.429221,1.3811004 l 3.334948,41.6474396 c 0,0.76512 -0.637393,1.38113 -1.42917,1.38113 H 6.8347104 c -0.7917774,0 -1.4291804,-0.61601 -1.4291804,-1.38113 L 8.2636975,3.5750354 c 0,-0.7651204 0.6374132,-1.3812204 1.4291703,-1.3812204 z"
      fill="url(#b)"

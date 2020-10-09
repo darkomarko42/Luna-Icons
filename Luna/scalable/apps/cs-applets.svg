@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="cs-applets.svg"
    id="svg30"
    version="1"
@@ -39,19 +39,6 @@
          offset="1"
          style="stop-color:#1aa5ff;stop-opacity:1" />
     </linearGradient>
-    <filter
-       height="1.2454545"
-       y="-0.12272727"
-       width="1.1928571"
-       x="-0.096428571"
-       id="filter1527"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur1529"
-         stdDeviation="1.125"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="-16"
@@ -61,6 +48,19 @@
        id="linearGradient1537"
        xlink:href="#linearGradient1535"
        inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter60728"
+       x="-0.066964286"
+       width="1.1339286"
+       y="-0.085227273"
+       height="1.1704545">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.78125"
+         id="feGaussianBlur60730" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:current-layer="svg30"
@@ -68,12 +68,12 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.950131"
      inkscape:zoom="23.8125"
      showgrid="false"
      id="namedview32"
-     inkscape:window-height="1005"
-     inkscape:window-width="1918"
+     inkscape:window-height="1000"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -81,9 +81,10 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <rect
-     style="fill:#000000;fill-opacity:1;filter:url(#filter1527);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter60728)"
      width="22"
      height="28"
      x="-27"

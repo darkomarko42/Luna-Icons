@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="baka-mplayer.svg"
    id="svg24"
    version="1.1"
@@ -39,19 +39,6 @@
          offset="1"
          style="stop-color:#2b2b2b;stop-opacity:1" />
     </linearGradient>
-    <filter
-       height="1.2477647"
-       y="-0.12388235"
-       width="1.1914545"
-       x="-0.095727273"
-       id="filter855"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur857"
-         stdDeviation="0.8775"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="30"
@@ -62,17 +49,17 @@
        xlink:href="#linearGradient863"
        inkscape:collect="always" />
     <filter
-       height="1.2159999"
-       y="-0.10799995"
-       width="1.2160001"
-       x="-0.10800005"
-       id="filter891"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60868"
+       x="-0.075000034"
+       width="1.1500001"
+       y="-0.074999966"
+       height="1.1499999">
       <feGaussianBlur
-         id="feGaussianBlur893"
-         stdDeviation="1.2600006"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.8750004"
+         id="feGaussianBlur60870" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -81,11 +68,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.974359"
      inkscape:zoom="24.375"
      showgrid="false"
      id="namedview26"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -94,36 +81,20 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <path
      fill="#4f4f4f"
      fill-rule="evenodd"
      d="M 3.12,2.2210126 C 2,3.3634127 2,8.8310127 2,12.293012 c 0,12.567001 7.28,17.707001 14,17.707001 6.72,0 14,-5.141 14,-17.707001 C 30,8.8653127 30,3.3634127 28.88,2.2210126 27.76,1.0786126 20.34,4.6244127 18.1,6.9092127 H 13.9 C 11.66,4.6244127 4.24,1.0786126 3.12,2.2210126 Z"
      id="path2-5"
-     style="fill:#000000;fill-opacity:1;filter:url(#filter891);opacity:0.5" />
+     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter60868)" />
   <path
      style="fill-opacity:1;fill:url(#linearGradient865)"
      id="path2"
      d="m3.12 2.221c-1.12 1.1424-1.12 6.61-1.12 10.072 0 12.567 7.28 17.707 14 17.707s14-5.141 14-17.707c0-3.4277 0-8.9296-1.12-10.072s-8.54 2.4034-10.78 4.6882h-4.2c-2.24-2.2848-9.66-5.8306-10.78-4.6882z"
      fill-rule="evenodd"
      fill="#4f4f4f" />
-  <g
-     style="filter:url(#filter855);opacity:0.5"
-     id="g10"
-     transform="translate(0,1)"
-     opacity=".2">
-    <path
-       id="path4"
-       d="m19 23.172c0 1.562-1.343 2.828-3 2.828s-3-1.266-3-2.828c0-1.5623 6-1.5623 6 0z" />
-    <path
-       id="path6"
-       d="m10 9a5 6 0 0 0 -5 6 5 6 0 0 0 5 6 5 6 0 0 0 5 -6 5 6 0 0 0 -5 -6zm0 2a3 4 0 0 1 3 4 3 4 0 0 1 -3 4 3 4 0 0 1 -3 -4 3 4 0 0 1 3 -4z"
-       fill-rule="evenodd" />
-    <path
-       id="path8"
-       d="m22 9a5 6 0 0 0 -5 6 5 6 0 0 0 5 6 5 6 0 0 0 5 -6 5 6 0 0 0 -5 -6zm0 2a3 4 0 0 1 3 4 3 4 0 0 1 -3 4 3 4 0 0 1 -3 -4 3 4 0 0 1 3 -4z"
-       fill-rule="evenodd" />
-  </g>
   <g
      id="g18"
      fill="#fff">

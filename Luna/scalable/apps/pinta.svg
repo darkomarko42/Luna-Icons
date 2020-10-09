@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="pinta.svg"
    id="svg26"
    version="1"
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,19 +40,6 @@
          offset="1"
          style="stop-color:#428ad4;stop-opacity:1" />
     </linearGradient>
-    <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter897"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur899"
-         stdDeviation="1.26"
-         inkscape:collect="always" />
-    </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -75,6 +62,19 @@
        id="linearGradient847"
        xlink:href="#linearGradient845"
        inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter60397"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur60399" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:current-layer="svg26"
@@ -82,11 +82,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="9.585025"
-     inkscape:cx="15.835659"
+     inkscape:cx="13.62595"
      inkscape:zoom="11.313709"
      showgrid="false"
      id="namedview28"
-     inkscape:window-height="1001"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -98,7 +98,7 @@
      pagecolor="#ffffff"
      inkscape:document-rotation="0" />
   <circle
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32197;stroke-opacity:1;filter:url(#filter897)"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32197;stroke-opacity:1;filter:url(#filter60397)"
      id="path872-3"
      cx="16"
      cy="16"

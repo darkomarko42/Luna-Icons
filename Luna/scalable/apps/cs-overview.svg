@@ -13,7 +13,7 @@
    version="1"
    id="svg12"
    sodipodi:docname="cs-overview.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -39,19 +39,6 @@
          offset="1"
          style="stop-color:#2bacff;stop-opacity:1" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter982"
-       x="-0.096428571"
-       width="1.1928571"
-       y="-0.12272727"
-       height="1.2454545">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.125"
-         id="feGaussianBlur984" />
-    </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="27"
@@ -61,6 +48,19 @@
        id="linearGradient843"
        xlink:href="#linearGradient841"
        inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter60716"
+       x="-0.066964286"
+       width="1.1339286"
+       y="-0.085227273"
+       height="1.1704545">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.78125"
+         id="feGaussianBlur60718" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -73,21 +73,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1020"
+     inkscape:window-height="1000"
      id="namedview14"
      showgrid="false"
      inkscape:zoom="16"
-     inkscape:cx="2.6994826"
+     inkscape:cx="1.1369826"
      inkscape:cy="8.611124"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12" />
   <path
      id="path2-7"
      d="M 3.4,5 C 3.4,5 2,5 2,6.375 v 19.25 C 2,26.387 2.6244,27 3.4,27 H 28.6 C 29.376,27 30,26.387 30,25.625 V 6.375 C 30,5.6132 29.376,5 28.6,5 Z"
      fill="#4ab3e4"
-     style="fill:#000000;fill-opacity:1;filter:url(#filter982);opacity:0.5" />
+     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter60716)" />
   <path
      fill="#4ab3e4"
      d="m3.4 5s-1.4 0-1.4 1.375v19.25c0 0.762 0.6244 1.375 1.4 1.375h25.2c0.776 0 1.4-0.613 1.4-1.375v-19.25c0-0.7618-0.624-1.375-1.4-1.375h-25.2z"

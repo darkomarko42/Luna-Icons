@@ -13,7 +13,7 @@
    viewBox="0 0 8.4666665 8.4666669"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="calendar.svg">
   <defs
      id="defs2">
@@ -61,19 +61,6 @@
        id="linearGradient976"
        xlink:href="#linearGradient912"
        inkscape:collect="always" />
-    <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter5032"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur5034"
-         stdDeviation="0.333375"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="5.2916665"
@@ -83,6 +70,19 @@
        id="linearGradient1129"
        xlink:href="#linearGradient852"
        inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter60824"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.23151041"
+         id="feGaussianBlur60826" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -92,17 +92,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="26.09375"
-     inkscape:cx="16"
+     inkscape:cx="15.041916"
      inkscape:cy="16"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
      units="px"
-     inkscape:window-width="1867"
-     inkscape:window-height="1019"
-     inkscape:window-x="53"
-     inkscape:window-y="27"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        id="grid854"
@@ -126,7 +126,7 @@
      id="layer1">
     <path
        d="m 1.0009728,0.52916672 c -0.26137766,0 -0.47180607,0.21042852 -0.47180607,0.47180578 v 1.1156942 5.3490275 c 0,0.2613771 0.21042841,0.4718058 0.47180607,0.4718058 H 7.4656942 C 7.7270713,7.9375 7.9375,7.7270713 7.9375,7.4656942 V 2.1166667 1.0009725 c 0,-0.26137726 -0.2104287,-0.47180578 -0.4718058,-0.47180578 z"
-       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:1.41121;filter:url(#filter5032)"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:1.41121;filter:url(#filter60824)"
        id="rect903-6-1" />
     <path
        d="M 7.9374999,2.1166666 H 0.52916678 v 5.3490275 c 0,0.2613771 0.2104283,0.4718058 0.47180572,0.4718058 h 6.4647217 c 0.2613773,0 0.4718057,-0.2104287 0.4718057,-0.4718058 z"

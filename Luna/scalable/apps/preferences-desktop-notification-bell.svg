@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="preferences-desktop-notification-bell.svg"
    id="svg12"
    version="1.1"
@@ -39,32 +39,6 @@
          offset="1"
          style="stop-color:#ffcc00;stop-opacity:1" />
     </linearGradient>
-    <filter
-       height="1.8374739"
-       y="-0.41873694"
-       width="1.837473"
-       x="-0.4187365"
-       id="filter861"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur863"
-         stdDeviation="1.2887073"
-         inkscape:collect="always" />
-    </filter>
-    <filter
-       height="1.2159995"
-       y="-0.10799975"
-       width="1.2160005"
-       x="-0.10800025"
-       id="filter865"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur867"
-         stdDeviation="1.2887073"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="1.5554813"
@@ -74,6 +48,32 @@
        id="linearGradient875"
        xlink:href="#linearGradient873"
        inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter60169"
+       x="-0.075000171"
+       width="1.1500003"
+       y="-0.074999829"
+       height="1.1499997">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.89493561"
+         id="feGaussianBlur60171" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter60173"
+       x="-0.07499996"
+       width="1.1499999"
+       y="-0.07500004"
+       height="1.1500001">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.23082056"
+         id="feGaussianBlur60175" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:current-layer="svg12"
@@ -81,11 +81,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="22.847002"
-     inkscape:cx="11.273148"
+     inkscape:cx="9.2218659"
      inkscape:zoom="12.1875"
      showgrid="false"
      id="namedview14"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -94,14 +94,15 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <path
-     style="fill:#000000;fill-opacity:1;filter:url(#filter865);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter60169)"
      fill="#efb055"
      d="M 10.428782,6.5389098 C 6.4520143,10.515678 -1.4819367,8.4280874 3.0277783,12.937803 L 19.062132,28.972155 C 23.57206,33.482082 21.48468,25.548344 25.461449,21.571576 29.896635,17.13639 32.820309,10.20342 27.308412,4.6915227 21.796514,-0.82037476 14.863545,2.1032992 10.428357,6.5384856 Z"
      id="path2-7" />
   <path
-     style="fill:#000000;fill-opacity:1;filter:url(#filter861);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter60173)"
      fill="#ce903c"
      d="m 7.5095623,17.419587 c -0.706272,1.750923 -0.221678,4.020962 1.414214,5.656854 1.6358907,1.635891 3.9059167,2.120471 5.6568547,1.414213 z"
      id="path4-2" />

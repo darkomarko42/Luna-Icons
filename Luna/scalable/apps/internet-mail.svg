@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="internet-mail.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg8"
    version="1.1"
    viewBox="0 0 8.4666665 8.4666669"
@@ -17,17 +17,17 @@
   <defs
      id="defs2">
     <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter1022"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter61618"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
-         id="feGaussianBlur1024"
-         stdDeviation="0.33337499"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.23151041"
+         id="feGaussianBlur61620" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -36,7 +36,7 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
@@ -44,7 +44,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="6.7042405"
-     inkscape:cx="11.500355"
+     inkscape:cx="9.2906464"
      inkscape:zoom="11.313709"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -70,7 +70,7 @@
      inkscape:label="Capa 1">
     <path
        id="rect833-3"
-       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.0937;filter:url(#filter1022)"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.0937;filter:url(#filter61618)"
        d="M 4.2333332,0.52916678 0.5291668,2.6458334 V 7.9374999 H 7.9374999 V 2.6458334 Z" />
     <path
        d="M 4.2333333,0.52916666 0.52916673,2.6458333 V 7.9374999 H 7.9375 V 2.6458333 Z"

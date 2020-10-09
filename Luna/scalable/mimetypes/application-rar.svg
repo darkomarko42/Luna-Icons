@@ -9,7 +9,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="application-rar.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg8"
    version="1.1"
    viewBox="0 0 8.4666665 8.4666669"
@@ -52,29 +52,29 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter857"
-       x="-0.108"
-       width="1.216"
-       y="-0.108"
-       height="1.216">
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.333375"
+         stdDeviation="0.23151042"
          id="feGaussianBlur859" />
     </filter>
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
-     inkscape:window-y="24"
-     inkscape:window-x="65"
-     inkscape:window-height="1056"
-     inkscape:window-width="1855"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1000"
+     inkscape:window-width="1920"
      units="px"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="20.064245"
-     inkscape:cx="14.134969"
+     inkscape:cx="13.153374"
      inkscape:zoom="25.46875"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"

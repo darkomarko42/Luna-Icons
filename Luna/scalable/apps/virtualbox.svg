@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="virtualbox.svg"
    id="svg16"
    version="1"
@@ -39,19 +39,6 @@
          offset="1"
          style="stop-color:#0099ff;stop-opacity:1" />
     </linearGradient>
-    <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter847"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur849"
-         stdDeviation="1.26"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="30"
@@ -61,6 +48,19 @@
        id="linearGradient877"
        xlink:href="#linearGradient875"
        inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter40300"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur40302" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:current-layer="svg16"
@@ -68,11 +68,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.974359"
      inkscape:zoom="24.375"
      showgrid="false"
      id="namedview18"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -81,7 +81,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <rect
      id="rect2"
      ry="1.4"
@@ -90,7 +91,7 @@
      x="2"
      height="28"
      width="28"
-     style="opacity:0.5;filter:url(#filter847)" />
+     style="opacity:0.5;filter:url(#filter40300)" />
   <rect
      id="rect4"
      ry="1.4"

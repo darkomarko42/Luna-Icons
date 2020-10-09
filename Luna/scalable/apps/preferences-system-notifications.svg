@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="preferences-system-notifications.svg"
    id="svg14"
    version="1"
@@ -27,17 +27,17 @@
   <defs
      id="defs18">
     <filter
-       height="1.2307233"
-       y="-0.11536167"
-       width="1.203043"
-       x="-0.10152152"
-       id="filter860"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60101"
+       x="-0.070501056"
+       width="1.1410021"
+       y="-0.080112272"
+       height="1.1602245">
       <feGaussianBlur
-         id="feGaussianBlur862"
-         stdDeviation="1.057482"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.7343625"
+         id="feGaussianBlur60103" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -46,12 +46,12 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.950131"
      inkscape:zoom="23.8125"
      showgrid="false"
      id="namedview16"
-     inkscape:window-height="1005"
-     inkscape:window-width="1918"
+     inkscape:window-height="1000"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -59,12 +59,13 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <path
      fill="#4f4f4f"
      d="m 6.3889001,6.9999999 c -0.7695,0 -1.3889,0.6133 -1.3889,1.375 V 24.875 c 0,0.76175 0.61944,1.375 1.3889,1.375 H 18.8889 l 2.7778,2.75 2.7778,-2.75 h 4.1667 c 0.769,0 1.388,-0.613 1.388,-1.375 V 8.3749999 c -10e-4,-0.7617 -0.62,-1.375 -1.39,-1.375 z"
      id="path2-4"
-     style="fill:#000000;fill-opacity:1;filter:url(#filter860);opacity:0.5" />
+     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter60101)" />
   <path
      style="fill:#e5e5e5;fill-opacity:1"
      id="path2"

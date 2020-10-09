@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="skype.svg"
    id="svg53"
    version="1.1"
@@ -21,21 +21,21 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
      inkscape:current-layer="svg53"
      inkscape:window-maximized="1"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="19.592715"
-     inkscape:cx="18.571825"
+     inkscape:cx="17.378148"
      inkscape:zoom="20.943683"
      showgrid="false"
      id="namedview55"
-     inkscape:window-height="1021"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -44,7 +44,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <defs
      id="defs29">
     <linearGradient
@@ -192,21 +193,21 @@
          id="stop26-3" />
     </linearGradient>
     <filter
-       height="1.21501"
-       y="-0.107505"
-       width="1.2169992"
-       x="-0.10849958"
-       id="filter976"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter41521"
+       x="-0.075346931"
+       width="1.1506939"
+       y="-0.074656249"
+       height="1.1493125">
       <feGaussianBlur
-         id="feGaussianBlur978"
-         stdDeviation="44.793749"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="31.10677"
+         id="feGaussianBlur41523" />
     </filter>
   </defs>
   <g
-     style="fill:#000000;fill-opacity:1;filter:url(#filter976);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter41521)"
      transform="matrix(0.02825904,0,0,0.02825904,-8.7872148,-7.6568532)"
      id="g51-6">
     <path

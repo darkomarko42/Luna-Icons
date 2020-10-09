@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="gmail-offline.svg"
    id="svg29"
    preserveAspectRatio="xMidYMid"
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -33,11 +33,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="18.284437"
-     inkscape:cx="12.904634"
+     inkscape:cx="11.911161"
      inkscape:zoom="25.164254"
      showgrid="false"
      id="namedview31"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -46,7 +46,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <defs
      id="defs7">
     <linearGradient
@@ -69,24 +70,24 @@
          stop-color="#000000" />
     </linearGradient>
     <filter
-       height="1.2501094"
-       y="-0.12505468"
-       width="1.1893685"
-       x="-0.094684256"
-       id="filter924"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter59470"
+       x="-0.065752955"
+       width="1.1315059"
+       y="-0.086843529"
+       height="1.1736871">
       <feGaussianBlur
-         id="feGaussianBlur926"
-         stdDeviation="10.040125"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="6.9723091"
+         id="feGaussianBlur59472" />
     </filter>
   </defs>
   <g
      transform="matrix(0.10985993,0,0,0.11350607,1.9763536,5.0000002)"
      id="g27">
     <path
-       style="fill:#000000;fill-opacity:1;stroke-width:0.999999;filter:url(#filter924);opacity:0.5"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.999999;opacity:0.5;filter:url(#filter59470)"
        d="M 238.99009,193.25417 H 16.310382 c -8.6345202,0 -15.90569017,-7.04395 -15.90569017,-15.9057 V 16.473753 c 0,-8.634519 7.04394997,-15.90569303 15.90569017,-15.90569303 H 238.99009 c 8.63451,0 15.9057,7.04394903 15.9057,15.90569303 V 177.34847 c 0,8.86175 -7.04395,15.9057 -15.9057,15.9057 z"
        fill="#e3e3e3"
        id="path9-9" />

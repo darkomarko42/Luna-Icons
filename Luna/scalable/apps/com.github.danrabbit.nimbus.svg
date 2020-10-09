@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="com.github.danrabbit.nimbus.svg"
    id="svg12"
    version="1.1"
@@ -27,30 +27,30 @@
   <defs
      id="defs16">
     <filter
-       height="1.2468571"
-       y="-0.12342857"
-       width="1.192"
-       x="-0.096"
-       id="filter847"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60748"
+       x="-0.066666667"
+       width="1.1333333"
+       y="-0.085714284"
+       height="1.1714286">
       <feGaussianBlur
-         id="feGaussianBlur849"
-         stdDeviation="0.72"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.50000001"
+         id="feGaussianBlur60750" />
     </filter>
     <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter866"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60752"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
-         id="feGaussianBlur868"
-         stdDeviation="1.26"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur60754" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -59,11 +59,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.974359"
      inkscape:zoom="24.375"
      showgrid="false"
      id="namedview14"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -72,9 +72,10 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <path
-     style="fill:#000000;fill-opacity:1;filter:url(#filter866);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter60752)"
      d="M 16,2.0000002 A 14,14 0 0 0 2,16 14,14 0 0 0 16,30 14,14 0 0 0 30,16 14,14 0 0 0 16,2.0000002 Z"
      id="path2-3" />
   <path
@@ -83,8 +84,8 @@
      style="fill:#2baee1" />
   <path
      id="path8"
-     d="m17.531918 10.000001c-1.705029 0-3.181649 0.964698-3.913566 2.36487-0.474384-0.297813-1.035953-0.472965-1.63963-0.472965-1.692101 0-3.063823 1.355219-3.063823 3.027025 0 0.265791 0.04257 0.522938 0.107708 0.768562-1.222088 0.814371-2.022607 2.199805-2.022607 3.771949 0 2.515456 2.049702 4.540558 4.595744 4.540558h8.808517c2.546042 0 4.595739-2.025102 4.595739-4.540558 0-2.008694-1.312522-3.702213-3.135642-4.304051 0.04945-0.261061 0.07182-0.528775 0.07182-0.804025 0-2.403211-1.971848-4.351366-4.404252-4.351366z"
-     style="opacity:0.5;filter:url(#filter847)" />
+     d="m 17.531918,9.0000016 c -1.705029,0 -3.181649,0.964698 -3.913566,2.3648704 -0.474384,-0.297813 -1.035953,-0.472965 -1.63963,-0.472965 -1.692101,0 -3.063823,1.355219 -3.063823,3.027025 0,0.265791 0.04257,0.522938 0.107708,0.768562 C 7.800519,15.501865 7,16.887299 7,18.459443 c 0,2.515456 2.049702,4.540558 4.595744,4.540558 h 8.808517 C 22.950303,23.000001 25,20.974899 25,18.459443 c 0,-2.008694 -1.312522,-3.702213 -3.135642,-4.304051 0.04945,-0.261061 0.07182,-0.528775 0.07182,-0.804025 0,-2.403211 -1.971848,-4.3513664 -4.404252,-4.3513664 z"
+     style="opacity:0.5;filter:url(#filter60748)" />
   <path
      id="path10"
      d="m17.531918 9.000001c-1.705029 0-3.181649 0.964698-3.913566 2.36487-0.474384-0.297813-1.035953-0.472965-1.63963-0.472965-1.692101 0-3.063823 1.355219-3.063823 3.027025 0 0.265791 0.04257 0.522938 0.107708 0.768562-1.222088 0.814371-2.022607 2.199805-2.022607 3.771949 0 2.515456 2.049702 4.540558 4.595744 4.540558h8.808517c2.546042 0 4.595739-2.025102 4.595739-4.540558 0-2.008694-1.312522-3.702213-3.135642-4.304051 0.04945-0.261061 0.07182-0.528775 0.07182-0.804025 0-2.403211-1.971848-4.351366-4.404252-4.351366z"

@@ -12,7 +12,7 @@
    version="1.1"
    id="svg14"
    sodipodi:docname="accessories-ebook-reader.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -27,19 +27,6 @@
   <defs
      id="defs18">
     <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter853"
-       x="-0.12272727"
-       width="1.2454545"
-       y="-0.096428571"
-       height="1.1928571">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.125"
-         id="feGaussianBlur855" />
-    </filter>
-    <filter
        height="1.1388571"
        y="-0.069428571"
        width="1.486"
@@ -51,6 +38,19 @@
          id="feGaussianBlur838"
          stdDeviation="0.405"
          inkscape:collect="always" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter17642"
+       x="-0.085227273"
+       width="1.1704545"
+       y="-0.066964286"
+       height="1.1339286">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.78125"
+         id="feGaussianBlur17644" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -64,18 +64,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      id="namedview16"
      showgrid="false"
      inkscape:zoom="23.8125"
-     inkscape:cx="14.950131"
+     inkscape:cx="13.900262"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14" />
   <rect
-     style="opacity:0.5;filter:url(#filter853)"
+     style="opacity:0.5;filter:url(#filter17642)"
      width="22"
      height="28"
      x="5"

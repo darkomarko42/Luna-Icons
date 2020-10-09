@@ -12,35 +12,35 @@
    viewBox="0 0 8.4666665 8.4666669"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="accessories-text-editor.svg">
   <defs
      id="defs2">
     <filter
-       height="1.2005714"
-       y="-0.10028572"
-       width="1.234"
-       x="-0.117"
-       id="filter978"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter17622"
+       x="-0.081249999"
+       width="1.1625"
+       y="-0.069642858"
+       height="1.1392857">
       <feGaussianBlur
-         id="feGaussianBlur980"
-         stdDeviation="0.30956249"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.21497395"
+         id="feGaussianBlur17624" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter994"
-       x="-0.10892293"
-       width="1.2178459"
-       y="-0.10709258"
-       height="1.2141852">
+       id="filter17626"
+       x="-0.075641251"
+       width="1.1512825"
+       y="-0.07436953"
+       height="1.1487391">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.15866923"
-         id="feGaussianBlur996" />
+         stdDeviation="0.11018649"
+         id="feGaussianBlur17628" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -51,7 +51,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="12.734375"
-     inkscape:cx="35.950409"
+     inkscape:cx="33.987219"
      inkscape:cy="28.031635"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -59,7 +59,7 @@
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -71,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,7 +83,7 @@
        inkscape:connector-curvature="0"
        id="path926-2"
        d="M 1.0583334,0.5291668 V 7.9374999 H 7.4083333 V 2.1166666 l -1.5875,-1.5874998 z"
-       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29352999;filter:url(#filter978)" />
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29352999;filter:url(#filter17622)" />
     <path
        inkscape:connector-curvature="0"
        id="path926"
@@ -102,7 +102,7 @@
        inkscape:connector-curvature="0" />
     <path
        id="path18-6-2"
-       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:0.0367048;filter:url(#filter994)"
+       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:0.0367048;filter:url(#filter17626)"
        d="m 7.5903562,3.8213405 c -0.052959,0 -0.1056311,0.021158 -0.1467611,0.063045 L 7.0374185,4.3008977 6.7578489,4.5851182 4.793628,6.5855128 v 0.4687051 l -0.0041,-0.00413 0.0041,0.3271118 H 5.106787 5.571358 L 7.5355793,5.376801 7.8151486,5.0925806 8.2239092,4.6786524 c 0.08226,-0.083774 0.08226,-0.2154283 0,-0.2992066 L 7.7376339,3.8843857 c -0.04113,-0.041887 -0.094319,-0.063045 -0.1472777,-0.063045 z" />
     <path
        style="fill:#f3d86a;fill-opacity:1;stroke-width:0.0367048"

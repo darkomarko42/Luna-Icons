@@ -9,7 +9,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="calligrawords.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg8"
    version="1.1"
    viewBox="0 0 8.4666665 8.4666669"
@@ -17,32 +17,6 @@
    width="32">
   <defs
      id="defs2">
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter978"
-       x="-0.117"
-       width="1.234"
-       y="-0.10028572"
-       height="1.2005714">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.30956249"
-         id="feGaussianBlur980" />
-    </filter>
-    <filter
-       height="1.2141852"
-       y="-0.10709258"
-       width="1.2178459"
-       x="-0.10892293"
-       id="filter994"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur996"
-         stdDeviation="0.15866923"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        y2="-0.77768874"
        x2="-24.629177"
@@ -65,12 +39,38 @@
          offset="1"
          style="stop-color:#77b753;stop-opacity:1" />
     </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter60804"
+       x="-0.081249999"
+       width="1.1625"
+       y="-0.069642858"
+       height="1.1392857">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.21497395"
+         id="feGaussianBlur60806" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter60808"
+       x="-0.075641251"
+       width="1.1512825"
+       y="-0.07436953"
+       height="1.1487391">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.11018649"
+         id="feGaussianBlur60810" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1021"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
@@ -78,7 +78,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="28.031635"
-     inkscape:cx="33.987219"
+     inkscape:cx="32.024029"
      inkscape:zoom="12.734375"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -94,7 +94,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -103,7 +103,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Capa 1">
     <path
-       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29352999;filter:url(#filter978)"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29352999;filter:url(#filter60804)"
        d="M 1.0583334,0.5291668 V 7.9374999 H 7.4083333 V 2.1166666 l -1.5875,-1.5874998 z"
        id="path926-2"
        inkscape:connector-curvature="0" />
@@ -119,7 +119,7 @@
        id="path926-1" />
     <path
        d="m 7.5903562,3.8213405 c -0.052959,0 -0.1056311,0.021158 -0.1467611,0.063045 L 7.0374185,4.3008977 6.7578489,4.5851182 4.793628,6.5855128 v 0.4687051 l -0.0041,-0.00413 0.0041,0.3271118 H 5.106787 5.571358 L 7.5355793,5.376801 7.8151486,5.0925806 8.2239092,4.6786524 c 0.08226,-0.083774 0.08226,-0.2154283 0,-0.2992066 L 7.7376339,3.8843857 c -0.04113,-0.041887 -0.094319,-0.063045 -0.1472777,-0.063045 z"
-       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:0.0367048;filter:url(#filter994)"
+       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke-width:0.0367048;filter:url(#filter60808)"
        id="path18-6-2" />
     <path
        d="m 4.793608,6.2822045 v 0.7920667 h 0.77775 L 7.5355789,5.0738948 6.7578282,4.2818278 Z M 8.2236321,4.3757446 c 0.08226,-0.083774 0.08226,-0.2158775 0,-0.2996557 L 7.7374361,3.5811016 c -0.08226,-0.083774 -0.2118357,-0.083774 -0.2940957,0 l -0.4063533,0.416401 0.7777508,0.7921852 z"

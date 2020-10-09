@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    height="32"
    width="32"
    sodipodi:docname="libreoffice-math.svg"
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,17 +46,17 @@
          id="stop9-2" />
     </linearGradient>
     <filter
-       height="1.1928571"
-       y="-0.096428571"
-       width="1.2454545"
-       x="-0.12272727"
-       id="filter871"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter61526"
+       x="-0.085227273"
+       width="1.1704545"
+       y="-0.066964286"
+       height="1.1339286">
       <feGaussianBlur
-         id="feGaussianBlur873"
-         stdDeviation="1.125"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.78125"
+         id="feGaussianBlur61528" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -65,7 +65,7 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="22.18762"
-     inkscape:cx="8.3295181"
+     inkscape:cx="6.2297806"
      inkscape:zoom="11.90625"
      showgrid="false"
      id="namedview18"
@@ -78,7 +78,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <linearGradient
      gradientTransform="matrix(0.19565214,0,0,0.20689655,4.4779966,2.7586207)"
      y2="6"
@@ -117,7 +118,7 @@
      d="M 7.11126,2 C 7.0583,2 7.005339,2.00244 6.952608,2.0076901 6.176889,2.1607712 5.986786,2.5034316 6.000697,3.3197627 V 28.687927 C 6.000782,29.603942 6.383892,29.999912 7.269911,30 h 19.460872 c 0.886017,-8.8e-5 1.268714,-0.396058 1.268799,-1.312073 V 12.977661 c 0.01015,-0.461978 -0.165006,-0.925366 -0.475956,-1.257385 L 18.605252,2.499878 C 18.284101,2.1784905 17.835772,1.9969937 17.388921,2.0076905 H 7.269911 C 7.217201,2.0024405 7.164223,2.0000005 7.11126,2 Z m 14.809566,0.00299 c -0.04442,0 -0.08873,0.00368 -0.132622,0.010681 -0.563208,0.18655 -0.752735,1.0728696 -0.318543,1.4898071 L 26.56676,8.801757 c 0.470863,0.4641219 1.408425,0.066983 1.433234,-0.6071168 V 2.8963623 c -5e-5,-0.4623719 -0.404663,-0.8826248 -0.849444,-0.8826904 h -5.096689 c -0.04391,-0.007 -0.08862,-0.010681 -0.133035,-0.010682 z"
      fill="url(#b)"
      id="path12-3"
-     style="fill:#000000;fill-opacity:1;stroke-width:0.215113;filter:url(#filter871);opacity:0.5" />
+     style="fill:#000000;fill-opacity:1;stroke-width:0.215113;opacity:0.5;filter:url(#filter61526)" />
   <path
      style="fill:#030001;stroke-width:0.215113;fill-opacity:1"
      id="path12"

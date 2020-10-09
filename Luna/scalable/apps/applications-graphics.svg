@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="applications-graphics.svg"
    id="svg16"
    version="1"
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,19 +40,6 @@
          offset="1"
          style="stop-color:#f2f2f2;stop-opacity:1" />
     </linearGradient>
-    <filter
-       height="1.2159985"
-       y="-0.10799925"
-       width="1.2160015"
-       x="-0.10800075"
-       id="filter862"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur864"
-         stdDeviation="1.1700009"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="3.2027557"
@@ -62,6 +49,19 @@
        id="linearGradient872"
        xlink:href="#linearGradient870"
        inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter17558"
+       x="-0.075000519"
+       width="1.150001"
+       y="-0.074999481"
+       height="1.149999">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.81250062"
+         id="feGaussianBlur17560" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:current-layer="svg16"
@@ -69,11 +69,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.950131"
      inkscape:zoom="23.8125"
      showgrid="false"
      id="namedview18"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -82,12 +82,13 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <path
      fill="#f3c72f"
      d="m 16.00008,3.0001002 c -7.2222,0 -13,5.7778 -13,12.9999998 0,7.2222 5.7778,13 13,13 1.1556,0 2.1667,-1.0111 2.1667,-2.1667 0,-0.57778 -0.14444,-1.0111 -0.57778,-1.4444 -0.28889,-0.43333 -0.57778,-0.86667 -0.57778,-1.4444 0,-1.1556 1.0112,-2.1667 2.1667,-2.1667 h 2.6 c 4.044,0 7.222,-3.178 7.222,-7.222 0,-6.3559998 -5.778,-11.5559998 -13,-11.5559998 z"
      id="path2-5"
-     style="fill:#000000;fill-opacity:1;filter:url(#filter862);opacity:0.5" />
+     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter17558)" />
   <path
      style="fill:url(#linearGradient872);fill-opacity:1"
      id="path2"

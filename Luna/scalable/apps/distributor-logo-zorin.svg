@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="distributor-logo-zorin.svg"
    id="svg240"
    version="1.1"
@@ -27,16 +27,16 @@
   <defs
      id="defs244">
     <filter
-       height="1.2275714"
-       y="-0.11378571"
-       width="1.2055484"
-       x="-0.1027742"
+       height="1.1580357"
+       y="-0.079017855"
+       width="1.1427419"
+       x="-0.07137097"
        id="filter7823"
        style="color-interpolation-filters:sRGB"
        inkscape:collect="always">
       <feGaussianBlur
          id="feGaussianBlur7825"
-         stdDeviation="1.1990323"
+         stdDeviation="0.8326613"
          inkscape:collect="always" />
     </filter>
   </defs>
@@ -46,11 +46,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.950131"
      inkscape:zoom="23.8125"
      showgrid="false"
      id="namedview242"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -59,7 +59,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <path
      id="path230"
      d="m 10.19866,28.645162 c -0.7726127,0 -1.7204263,-0.553945 -2.1062275,-1.230985 L 2.2893503,17.230985 c -0.3858002,-0.677042 -0.3858002,-1.784929 0,-2.461969 L 8.0924325,4.5858234 C 8.4782337,3.9087816 9.4260473,3.3548383 10.19866,3.3548383 h 11.60268 c 0.772613,0 1.720427,0.5539434 2.106172,1.2309851 l 5.803137,10.1831926 c 0.385801,0.67704 0.385801,1.784927 0,2.461969 l -5.803081,10.183192 c -0.385745,0.67704 -1.333559,1.230985 -2.106172,1.230985 z"

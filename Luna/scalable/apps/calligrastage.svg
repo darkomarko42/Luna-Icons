@@ -12,22 +12,22 @@
    viewBox="0 0 8.4666665 8.4666669"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="calligrastage.svg">
   <defs
      id="defs2">
     <filter
-       height="1.2592"
-       y="-0.1296"
-       width="1.1851429"
-       x="-0.092571428"
-       id="filter880"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60812"
+       x="-0.064285714"
+       width="1.1285714"
+       y="-0.090000001"
+       height="1.18">
       <feGaussianBlur
-         id="feGaussianBlur882"
-         stdDeviation="0.28575"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.1984375"
+         id="feGaussianBlur60814" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -38,7 +38,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="25.46875"
-     inkscape:cx="16.043728"
+     inkscape:cx="15.062133"
      inkscape:cy="17.079462"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -46,9 +46,9 @@
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1021"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,7 +67,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.18178;filter:url(#filter880)"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.18178;filter:url(#filter60812)"
        id="rect848-6"
        width="7.4083333"
        height="5.2916665"

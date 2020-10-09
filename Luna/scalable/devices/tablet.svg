@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="tablet.svg"
    id="svg12"
    version="1"
@@ -21,24 +21,24 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs16">
     <filter
-       height="1.2592"
-       y="-0.1296"
-       width="1.1851429"
-       x="-0.092571429"
-       id="filter875"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter15174"
+       x="-0.064285714"
+       width="1.1285714"
+       y="-0.09"
+       height="1.18">
       <feGaussianBlur
-         id="feGaussianBlur877"
-         stdDeviation="1.08"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.75"
+         id="feGaussianBlur15176" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -47,11 +47,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="15.038462"
      inkscape:zoom="26"
      showgrid="false"
      id="namedview14"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -60,9 +60,10 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <rect
-     style="fill:#000000;fill-opacity:1;stroke-width:0.864103;filter:url(#filter875);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.864103;opacity:0.5;filter:url(#filter15174)"
      width="28"
      height="20"
      x="2"

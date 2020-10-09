@@ -8,14 +8,14 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="com.github.bitseater.weather.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="weather.svg"
    id="svg34"
    version="1"
    height="32"
    width="32">
   <rect
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.650841;filter:url(#filter878)"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.650841;filter:url(#filter40252)"
      id="rect842-2"
      width="28"
      height="28"
@@ -31,7 +31,7 @@
      height="28"
      width="28"
      id="rect842"
-     style="opacity:1;fill:url(#linearGradient852);fill-opacity:1;stroke-width:0.650841" />
+     style="opacity:1;fill:#27a9ff;fill-opacity:1;stroke-width:0.650841" />
   <circle
      r="11"
      style="opacity:1;fill:url(#linearGradient855-7);fill-opacity:1;stroke:none;stroke-width:1.43111;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;filter:url(#filter1009)"
@@ -53,18 +53,6 @@
   <defs
      id="defs38">
     <linearGradient
-       id="linearGradient850"
-       inkscape:collect="always">
-      <stop
-         id="stop846"
-         offset="0"
-         style="stop-color:#27a9ff;stop-opacity:1" />
-      <stop
-         id="stop848"
-         offset="1"
-         style="stop-color:#0083d7;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient853"
        inkscape:collect="always">
       <stop
@@ -76,28 +64,6 @@
          offset="1"
          style="stop-color:#ffff00;stop-opacity:1" />
     </linearGradient>
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="30"
-       x2="16"
-       y1="2"
-       x1="16"
-       id="linearGradient852"
-       xlink:href="#linearGradient850"
-       inkscape:collect="always" />
-    <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter878"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur880"
-         stdDeviation="1.26"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient853"
@@ -121,6 +87,19 @@
          stdDeviation="0.99"
          inkscape:collect="always" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter40252"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur40254" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -129,11 +108,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="15.019955"
-     inkscape:cx="15.747656"
+     inkscape:cx="14.052741"
      inkscape:zoom="14.75"
      showgrid="false"
      id="namedview36"
-     inkscape:window-height="999"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"

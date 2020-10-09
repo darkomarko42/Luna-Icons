@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="qemu.svg"
    id="svg16"
    version="1.1"
@@ -27,17 +27,17 @@
   <defs
      id="defs20">
     <filter
-       height="1.2198596"
-       y="-0.10992978"
-       width="1.2122736"
-       x="-0.1061368"
-       id="filter847"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter41541"
+       x="-0.073706113"
+       width="1.1474122"
+       y="-0.076340126"
+       height="1.1526803">
       <feGaussianBlur
-         id="feGaussianBlur849"
-         stdDeviation="1.2825141"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.89063482"
+         id="feGaussianBlur41543" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -46,11 +46,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.950131"
      inkscape:zoom="23.8125"
      showgrid="false"
      id="namedview18"
-     inkscape:window-height="1015"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -59,11 +59,12 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <path
      id="path2"
      d="M 16,1.9999997 A 14,14 0 0 0 2,16 14,14 0 0 0 16,30 14,14 0 0 0 22.847656,28.191406 l 0.472656,1.15625 A 1.050105,1.050105 0 0 0 24.292969,30 h 5.658203 a 1.050105,1.050105 0 0 0 0.974609,-1.439453 L 28.453125,22.367188 A 14,14 0 0 0 30,16 14,14 0 0 0 16,1.9999997 Z"
-     style="opacity:0.5;filter:url(#filter847)" />
+     style="opacity:0.5;filter:url(#filter41541)" />
   <circle
      id="circle4"
      r="14"

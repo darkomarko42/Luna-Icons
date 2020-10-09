@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="computer-fail.svg"
    version="1.0"
    width="32"
@@ -20,12 +20,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="12.782887"
-     inkscape:cx="36.44746"
+     inkscape:cy="22.75143"
+     inkscape:cx="8.3589099"
      inkscape:zoom="17.812499"
      showgrid="false"
      id="namedview45"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -271,22 +271,22 @@
          width="384" />
     </clipPath>
     <filter
-       height="1.2318135"
-       y="-0.11590676"
-       width="1.2022062"
-       x="-0.1011031"
-       id="filter911"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter6674"
+       x="-0.070210484"
+       width="1.140421"
+       y="-0.080490804"
+       height="1.1609816">
       <feGaussianBlur
-         id="feGaussianBlur913"
-         stdDeviation="1.1795361"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.81912231"
+         id="feGaussianBlur6676" />
     </filter>
   </defs>
   <path
      d="m 2,3.788086 v 20 h 10.332032 c 0.01055,0.396767 0.04853,2.214192 -0.332032,2.720703 -0.422918,0.562891 -1.265624,0.921875 -1.265624,0.921875 -0.540006,0.05914 -0.544473,0.78125 0,0.78125 h 10.550781 c 0.544475,0 0.540121,-0.722871 0,-0.78125 0,0 -0.84076,-0.358986 -1.263672,-0.921875 -0.380556,-0.50651 -0.344531,-2.323936 -0.333985,-2.720703 H 30 v -20 z"
-     style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.222425;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.5;stroke-opacity:1;marker:none;enable-background:new;filter:url(#filter911);opacity:0.5"
+     style="display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.222425;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.5;stroke-opacity:1;marker:none;enable-background:new;opacity:0.5;filter:url(#filter6674)"
      id="rect1789-8" />
   <path
      inkscape:connector-curvature="0"

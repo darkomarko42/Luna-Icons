@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="document-viewer.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg8"
    version="1.1"
    viewBox="0 0 8.4666665 8.4666669"
@@ -17,24 +17,24 @@
   <defs
      id="defs2">
     <filter
-       height="1.2005714"
-       y="-0.10028571"
-       width="1.234"
-       x="-0.117"
-       id="filter998"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter59614"
+       x="-0.08125"
+       width="1.1625"
+       y="-0.069642857"
+       height="1.1392857">
       <feGaussianBlur
-         id="feGaussianBlur1000"
-         stdDeviation="0.3095625"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.21497396"
+         id="feGaussianBlur59616" />
     </filter>
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
@@ -42,7 +42,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="19.634346"
-     inkscape:cx="17.156199"
+     inkscape:cx="15.193009"
      inkscape:zoom="12.734375"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,7 +67,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Capa 1">
     <g
-       style="fill:#000000;fill-opacity:1;filter:url(#filter998);opacity:0.5"
+       style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter59614)"
        id="g849-2">
       <rect
          y="0.5291667"

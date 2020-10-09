@@ -12,7 +12,7 @@
    version="1.1"
    id="svg26"
    sodipodi:docname="ms-onenote.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata32">
     <rdf:RDF>
@@ -29,28 +29,28 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter857"
-       x="-0.117"
-       width="1.234"
-       y="-0.10028571"
-       height="1.2005714">
+       id="filter60485"
+       x="-0.08125"
+       width="1.1625"
+       y="-0.069642857"
+       height="1.1392857">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="1.17"
-         id="feGaussianBlur859" />
+         stdDeviation="0.81250001"
+         id="feGaussianBlur60487" />
     </filter>
     <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter853"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60489"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
-         id="feGaussianBlur855"
-         stdDeviation="0.72"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.5"
+         id="feGaussianBlur60491" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -64,18 +64,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1021"
+     inkscape:window-height="1000"
      id="namedview28"
      showgrid="false"
      inkscape:zoom="23.8125"
-     inkscape:cx="14.950131"
+     inkscape:cx="13.900262"
      inkscape:cy="16"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg26" />
   <path
-     style="opacity:0.5;filter:url(#filter857)"
+     style="opacity:0.5;filter:url(#filter60485)"
      d="M 8.3339844,1.9999998 C 7.5976214,1.9999996 7,2.5976173 7,3.3339842 V 28.666016 C 6.9999838,29.402427 7.5975769,30 8.3339844,30 H 24 24.203125 29.666016 A 1.3333232,1.33333 0 0 0 31,28.666016 V 23 H 29.769531 L 31,9.199219 V 3.3339842 C 31,2.5976176 30.402379,2 29.666016,1.9999998 Z"
      id="path2" />
   <path
@@ -97,7 +97,7 @@
   <path
      id="path14-3"
      d="M 2.3333302,8.0000001 H 15.666689 A 1.33334,1.33334 0 0 1 17,9.3333398 V 22.666661 A 1.33333,1.33333 0 0 1 15.6667,24 H 2.3333404 A 1.33334,1.33334 0 0 1 0.99999998,22.666661 V 9.3333311 A 1.33333,1.33333 0 0 1 2.3333302,8.0000001 Z"
-     style="fill:#000000;fill-opacity:1;filter:url(#filter853);opacity:0.5" />
+     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter60489)" />
   <path
      style="fill:#7719aa"
      d="M 2.3333302,8.0000001 H 15.666689 A 1.33334,1.33334 0 0 1 17,9.3333398 V 22.666661 A 1.33333,1.33333 0 0 1 15.6667,24 H 2.3333404 A 1.33334,1.33334 0 0 1 1,22.666661 V 9.3333311 a 1.33333,1.33333 0 0 1 1.3333302,-1.333331 z"

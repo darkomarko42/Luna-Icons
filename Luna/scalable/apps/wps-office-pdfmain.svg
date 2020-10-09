@@ -12,7 +12,7 @@
    version="1"
    id="svg48"
    sodipodi:docname="wps-office-pdfmain.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata54">
     <rdf:RDF>
@@ -27,16 +27,16 @@
   <defs
      id="defs52">
     <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
+       height="1.15"
+       y="-0.075"
+       width="1.15"
+       x="-0.075"
        id="filter850"
        style="color-interpolation-filters:sRGB"
        inkscape:collect="always">
       <feGaussianBlur
          id="feGaussianBlur852"
-         stdDeviation="1.26"
+         stdDeviation="0.875"
          inkscape:collect="always" />
     </filter>
   </defs>
@@ -51,11 +51,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      id="namedview50"
      showgrid="false"
      inkscape:zoom="24.375"
-     inkscape:cx="16"
+     inkscape:cx="14.974359"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"

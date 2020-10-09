@@ -5,9 +5,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="audio-recorder.svg"
    id="svg16"
    version="1"
@@ -27,45 +28,67 @@
   </metadata>
   <defs
      id="defs20">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient846">
+      <stop
+         style="stop-color:#ff8043;stop-opacity:1"
+         offset="0"
+         id="stop842" />
+      <stop
+         style="stop-color:#ff1d1d;stop-opacity:1"
+         offset="1"
+         id="stop844" />
+    </linearGradient>
     <filter
-       height="1.1890001"
-       y="-0.094500025"
-       width="1.2519999"
-       x="-0.12599996"
-       id="filter847"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60884"
+       x="-0.087499969"
+       width="1.1749999"
+       y="-0.065625018"
+       height="1.13125">
       <feGaussianBlur
-         id="feGaussianBlur849"
-         stdDeviation="0.62999978"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.43749984"
+         id="feGaussianBlur60886" />
     </filter>
     <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter906"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60888"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
-         id="feGaussianBlur908"
-         stdDeviation="1.26"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur60890" />
     </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient846"
+       id="radialGradient848"
+       cx="16"
+       cy="16"
+       fx="16"
+       fy="16"
+       r="14"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      inkscape:current-layer="svg16"
      inkscape:window-maximized="1"
-     inkscape:window-y="27"
-     inkscape:window-x="53"
-     inkscape:cy="16"
-     inkscape:cx="14.950131"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="15.986391"
+     inkscape:cx="12.828834"
      inkscape:zoom="23.8125"
      showgrid="false"
      id="namedview18"
-     inkscape:window-height="1019"
-     inkscape:window-width="1867"
+     inkscape:window-height="1000"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -84,9 +107,9 @@
      rx="14"
      ry="14"
      id="rect2-0"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;filter:url(#filter906)" />
+     style="opacity:0.5;fill:#000000;fill-opacity:1;filter:url(#filter60888)" />
   <rect
-     style="fill:#ff1d1d;fill-opacity:1"
+     style="fill:url(#radialGradient848);fill-opacity:1"
      id="rect2"
      ry="14"
      rx="14"
@@ -98,21 +121,22 @@
      transform="matrix(0,1,1,0,0,0)" />
   <g
      id="g6"
-     transform="translate(-337 424)"
-     style="enable-background:new;filter:url(#filter847);opacity:0.5"
+     transform="translate(-337,423)"
+     style="opacity:0.5;enable-background:new;filter:url(#filter60884)"
      opacity=".2">
     <path
        id="path4"
-       d="m353-415c-1.6621 0-3 1.3379-3 3v5c0 1.6621 1.3379 3 3 3s3-1.3379 3-3v-5c0-1.6621-1.3379-3-3-3zm-6 7v0.99999c0 2.9695 2.1624 5.4322 5 5.9062v2.0938h2v-2.0938c2.8376-0.47409 5-2.9368 5-5.9062v-0.99999h-2v0.99999c0 2.2334-1.7666 4-4 4s-4-1.7666-4-4v-1z" />
+       d="m 353,-415 c -1.6621,0 -3,1.3379 -3,3 v 5 c 0,1.6621 1.3379,3 3,3 1.6621,0 3,-1.3379 3,-3 v -5 c 0,-1.6621 -1.3379,-3 -3,-3 z m -6,7 v 0.99999 c 0,2.9695 2.1624,5.4322 5,5.9062 v 2.0938 h 2 v -2.0938 c 2.8376,-0.47409 5,-2.9368 5,-5.9062 V -408 h -2 v 0.99999 c 0,2.2334 -1.7666,4 -4,4 -2.2334,0 -4,-1.7666 -4,-4 v -1 z" />
   </g>
   <g
      id="g10"
      transform="translate(-337 423)"
-     style="enable-background:new"
+     style="enable-background:new;fill:#ffffff;fill-opacity:1"
      fill="#fff">
     <path
        id="path8"
-       d="m353-415c-1.6621 0-3 1.3379-3 3v5c0 1.6621 1.3379 3 3 3s3-1.3379 3-3v-5c0-1.6621-1.3379-3-3-3zm-6 7v0.99999c0 2.9695 2.1624 5.4322 5 5.9062v2.0938h2v-2.0938c2.8376-0.47409 5-2.9368 5-5.9062v-0.99999h-2v0.99999c0 2.2334-1.7666 4-4 4s-4-1.7666-4-4v-0.99999z" />
+       d="m353-415c-1.6621 0-3 1.3379-3 3v5c0 1.6621 1.3379 3 3 3s3-1.3379 3-3v-5c0-1.6621-1.3379-3-3-3zm-6 7v0.99999c0 2.9695 2.1624 5.4322 5 5.9062v2.0938h2v-2.0938c2.8376-0.47409 5-2.9368 5-5.9062v-0.99999h-2v0.99999c0 2.2334-1.7666 4-4 4s-4-1.7666-4-4v-0.99999z"
+       style="fill:#ffffff;fill-opacity:1" />
   </g>
   <ellipse
      ry="11.469595"
@@ -120,15 +144,15 @@
      cy="16"
      cx="16"
      id="path859"
-     style="opacity:0.5;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.06081;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="opacity:0.5;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <circle
      r="8.6021967"
-     style="opacity:0.5;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.795608;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:0.5;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path859-5"
      cx="16"
      cy="16" />
   <ellipse
-     style="opacity:0.5;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.530405;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:0.5;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path859-7"
      cx="16"
      cy="16"

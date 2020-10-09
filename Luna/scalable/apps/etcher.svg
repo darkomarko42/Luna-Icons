@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="etcher.svg"
    id="svg18"
    version="1"
@@ -27,17 +27,17 @@
   <defs
      id="defs22">
     <filter
-       height="1.2044296"
-       y="-0.10221482"
-       width="1.2289587"
-       x="-0.11447933"
-       id="filter849"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter59602"
+       x="-0.079499532"
+       width="1.1589991"
+       y="-0.070982516"
+       height="1.141965">
       <feGaussianBlur
-         id="feGaussianBlur851"
-         stdDeviation="1.192493"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.82812013"
+         id="feGaussianBlur59604" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -46,11 +46,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.974359"
      inkscape:zoom="24.375"
      showgrid="false"
      id="namedview20"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -59,11 +59,12 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <path
      id="path2"
      d="M 15.57521,2.001087 A 3.1706084,3.183468 0 0 0 13.914765,2.4257687 L 4.585443,7.8338633 A 3.1706084,3.183468 0 0 0 3,10.59111 v 10.816889 a 3.1706084,3.183468 0 0 0 1.5853041,2.756966 l 9.3293219,5.408375 a 3.1706084,3.183468 0 0 0 3.170609,0 l 9.329322,-5.408375 A 3.1706084,3.183468 0 0 0 28,21.407719 V 10.59083 A 3.1706084,3.183468 0 0 0 26.414557,7.8335833 L 17.085235,2.4254887 A 3.1706084,3.183468 0 0 0 15.574793,2.000807 Z"
-     style="opacity:0.5;filter:url(#filter849)" />
+     style="opacity:0.5;filter:url(#filter59602)" />
   <path
      id="path4"
      d="M 15.57521,2.000931 A 3.1706084,3.183468 0 0 0 13.914765,2.4256127 L 4.585443,7.8337073 A 3.1706084,3.183468 0 0 0 3,10.590954 v 10.816889 a 3.1706084,3.183468 0 0 0 1.5853041,2.756966 l 9.3293219,5.408375 a 3.1706084,3.183468 0 0 0 3.170609,0 l 9.329322,-5.408375 A 3.1706084,3.183468 0 0 0 28,21.407563 V 10.590674 A 3.1706084,3.183468 0 0 0 26.414557,7.8334273 L 17.085235,2.4253327 A 3.1706084,3.183468 0 0 0 15.574793,2.000651 Z"

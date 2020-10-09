@@ -11,8 +11,8 @@
    height="32"
    version="1"
    id="svg16"
-   sodipodi:docname="gnome-system-monitor.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   sodipodi:docname="applications-utilities.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -28,19 +28,6 @@
   <defs
      id="defs20">
     <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter888"
-       x="-0.108"
-       width="1.216"
-       y="-0.108"
-       height="1.216">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.26"
-         id="feGaussianBlur890" />
-    </filter>
-    <filter
        height="1.244421"
        y="-0.12221052"
        width="1.1935"
@@ -52,6 +39,19 @@
          id="feGaussianBlur862"
          stdDeviation="0.96750002"
          inkscape:collect="always" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter60920"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur60922" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -65,18 +65,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="998"
+     inkscape:window-height="1000"
      id="namedview18"
      showgrid="false"
      inkscape:zoom="23.8125"
-     inkscape:cx="12.766404"
+     inkscape:cx="11.716535"
      inkscape:cy="14.32021"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg16" />
   <rect
-     style="opacity:0.5;filter:url(#filter888)"
+     style="opacity:0.5;filter:url(#filter60920)"
      width="28"
      height="28"
      x="2"

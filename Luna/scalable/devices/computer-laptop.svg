@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="computer-laptop.svg"
    version="1.0"
    width="32"
@@ -18,14 +18,14 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="svg4569"
      inkscape:window-maximized="1"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="-13.10604"
-     inkscape:cx="-7.1151897"
+     inkscape:cy="13.706615"
+     inkscape:cx="5.2859401"
      inkscape:zoom="10.82698"
      showgrid="false"
      id="namedview45"
-     inkscape:window-height="1020"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -293,22 +293,22 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,0.8,0,2.7286339)" />
     <filter
-       height="1.234"
-       y="-0.117"
-       width="1.2005714"
-       x="-0.10028571"
-       id="filter950"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter16389"
+       x="-0.069642857"
+       width="1.1392857"
+       y="-0.08125"
+       height="1.1625">
       <feGaussianBlur
-         id="feGaussianBlur952"
-         stdDeviation="1.17"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.8125"
+         id="feGaussianBlur16391" />
     </filter>
   </defs>
   <path
      d="M 2.0000001,3.9999999 V 24 28 H 30 V 24 3.9999999 Z"
-     style="opacity:0.5;fill:#030303;fill-opacity:1;stroke:none;stroke-width:0.440769;filter:url(#filter950)"
+     style="opacity:0.5;fill:#030303;fill-opacity:1;stroke:none;stroke-width:0.440769;filter:url(#filter16389)"
      id="rect1015-0-2" />
   <rect
      y="24"

@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="diodon.svg"
    id="svg30"
    version="1.1"
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,17 +41,17 @@
          inkscape:collect="always" />
     </filter>
     <filter
-       height="1.2005714"
-       y="-0.10028571"
-       width="1.234"
-       x="-0.117"
-       id="filter982"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60668"
+       x="-0.08125"
+       width="1.1625"
+       y="-0.069642857"
+       height="1.1392857">
       <feGaussianBlur
-         id="feGaussianBlur984"
-         stdDeviation="1.17"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.8125"
+         id="feGaussianBlur60670" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -60,11 +60,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="17.733297"
-     inkscape:cx="17.299507"
+     inkscape:cx="16.097711"
      inkscape:zoom="20.802202"
      showgrid="false"
      id="namedview32"
-     inkscape:window-height="1015"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -73,11 +73,12 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <rect
      ry="1.8867359"
      rx="1.8867359"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:1.26012;filter:url(#filter982)"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:1.26012;filter:url(#filter60668)"
      id="rect916-4"
      width="24"
      height="28"

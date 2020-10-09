@@ -9,7 +9,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="accessories-calculator.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg8"
    version="1.1"
    viewBox="0 0 8.4666665 8.4666669"
@@ -166,24 +166,24 @@
          inkscape:collect="always" />
     </filter>
     <filter
-       height="1.1851429"
-       y="-0.092571428"
-       width="1.2592"
-       x="-0.1296"
-       id="filter1751"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter17654"
+       x="-0.090000001"
+       width="1.18"
+       y="-0.064285714"
+       height="1.1285714">
       <feGaussianBlur
-         id="feGaussianBlur1753"
-         stdDeviation="0.28575"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.1984375"
+         id="feGaussianBlur17656" />
     </filter>
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
@@ -191,7 +191,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="17.24507"
-     inkscape:cx="7.8959327"
+     inkscape:cx="6.5077476"
      inkscape:zoom="18.009126"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -207,7 +207,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -216,7 +216,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Capa 1">
     <rect
-       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.0937;filter:url(#filter1751)"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.0937;filter:url(#filter17654)"
        id="rect833-6"
        width="5.2916665"
        height="7.4083333"

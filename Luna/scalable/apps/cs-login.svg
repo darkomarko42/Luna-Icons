@@ -13,7 +13,7 @@
    version="1"
    id="svg66"
    sodipodi:docname="cs-login.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata72">
     <rdf:RDF>
@@ -39,32 +39,6 @@
          offset="1"
          style="stop-color:#696969;stop-opacity:1" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter1508"
-       x="-0.098357143"
-       width="1.1967143"
-       y="-0.11973913"
-       height="1.2394783">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.1475"
-         id="feGaussianBlur1510" />
-    </filter>
-    <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter908"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur910"
-         stdDeviation="0.45"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="-16"
@@ -74,6 +48,32 @@
        id="linearGradient918"
        xlink:href="#linearGradient916"
        inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter60720"
+       x="-0.068303571"
+       width="1.1366071"
+       y="-0.083152174"
+       height="1.1663043">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.796875"
+         id="feGaussianBlur60722" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter60724"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.3125"
+         id="feGaussianBlur60726" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -86,12 +86,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
+     inkscape:window-height="1000"
      id="namedview68"
      showgrid="false"
      inkscape:zoom="11.90625"
-     inkscape:cx="19.635102"
-     inkscape:cy="22.221855"
+     inkscape:cx="11.352395"
+     inkscape:cy="18.127285"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -106,7 +106,7 @@
      height="28"
      width="23"
      fill="#4f4f4f"
-     style="filter:url(#filter1508);opacity:0.5" />
+     style="opacity:0.5;filter:url(#filter60720)" />
   <rect
      style="fill-opacity:1;fill:url(#linearGradient918)"
      fill="#4f4f4f"
@@ -119,10 +119,10 @@
      transform="matrix(0,-1,-1,0,0,0)"
      id="rect38" />
   <circle
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.470177;filter:url(#filter908)"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.470177;filter:url(#filter60724)"
      id="path891-3"
      cx="16"
-     cy="12.58"
+     cy="12.28"
      r="5" />
   <circle
      r="5"

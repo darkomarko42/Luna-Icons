@@ -8,8 +8,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="disk-usage-analyer.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="disk-usage-analyzer.svg"
    id="svg66"
    viewBox="0 0 24 24"
    version="1.1"
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -33,11 +33,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="23.792148"
-     inkscape:cx="30.096349"
+     inkscape:cx="27.912235"
      inkscape:zoom="11.446291"
      showgrid="false"
      id="namedview68"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -1248,15 +1248,15 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter1071"
-       x="-0.108"
-       width="1.216"
-       y="-0.108"
-       height="1.216">
+       id="filter59682"
+       x="-0.075000001"
+       width="1.15"
+       y="-0.074999999"
+       height="1.15">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="2.5199999"
-         id="feGaussianBlur1073" />
+         stdDeviation="1.75"
+         id="feGaussianBlur59684" />
     </filter>
   </defs>
   <g
@@ -1265,7 +1265,7 @@
     <g
        id="g871-8"
        transform="matrix(0.37500001,0,0,0.37500001,4.3568335e-7,360)"
-       style="opacity:0.5;fill:#000000;fill-opacity:1;filter:url(#filter1071)">
+       style="opacity:0.5;fill:#000000;fill-opacity:1;filter:url(#filter59682)">
       <circle
          id="circle2-2"
          r="27"

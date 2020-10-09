@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="media-flash-memory-stick.svg"
    id="svg28"
    version="1"
@@ -50,17 +50,17 @@
        xlink:href="#linearGradient822"
        inkscape:collect="always" />
     <filter
-       height="1.172"
-       y="-0.086"
-       width="1.29025"
-       x="-0.145125"
-       id="filter1504"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter16289"
+       x="-0.10078125"
+       width="1.2015625"
+       y="-0.059722222"
+       height="1.1194444">
       <feGaussianBlur
-         id="feGaussianBlur1506"
-         stdDeviation="0.9675"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.671875"
+         id="feGaussianBlur16291" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -70,11 +70,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16.983738"
-     inkscape:cx="-14.322491"
+     inkscape:cx="-17.712322"
      inkscape:zoom="7.375"
      showgrid="false"
      id="namedview30"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -86,7 +86,7 @@
      pagecolor="#ffffff" />
   <path
      d="M 9.478516,4 C 8.659065,4 8,4.659064 8,5.478515 V 24.521484 C 8,25.340935 8.659065,26 9.478516,26 H 11 v 4 1 h 10 v -1 -4 h 1.519532 C 23.338983,26 24,25.340935 24,24.521484 V 5.478515 C 24,4.659064 23.338983,4 22.519532,4 Z"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.5;filter:url(#filter1504)"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.5;filter:url(#filter16289)"
      id="path2-1-1" />
   <path
      style="opacity:1;fill:#5b5b5b;fill-opacity:1;stroke-width:0.5"

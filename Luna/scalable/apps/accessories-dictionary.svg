@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="accessories-dictionary.svg"
    id="svg14"
    version="1.1"
@@ -21,24 +21,24 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs18">
     <filter
-       height="1.1928571"
-       y="-0.096428571"
-       width="1.2454545"
-       x="-0.12272727"
-       id="filter853"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter17646"
+       x="-0.085227273"
+       width="1.1704545"
+       y="-0.066964286"
+       height="1.1339286">
       <feGaussianBlur
-         id="feGaussianBlur855"
-         stdDeviation="1.125"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.78125"
+         id="feGaussianBlur17648" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -47,11 +47,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="13.900262"
+     inkscape:cx="12.850393"
      inkscape:zoom="23.8125"
      showgrid="false"
      id="namedview16"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -70,7 +70,7 @@
      x="5"
      height="28"
      width="22"
-     style="opacity:0.5;filter:url(#filter853)" />
+     style="opacity:0.5;filter:url(#filter17646)" />
   <rect
      id="rect4"
      ry="1.5"

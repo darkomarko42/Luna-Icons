@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="ms-outlook.svg"
    id="svg42"
    version="1.1"
@@ -27,43 +27,43 @@
   <defs
      id="defs46">
     <filter
-       height="1.2931429"
-       y="-0.14657143"
-       width="1.171"
-       x="-0.0855"
-       id="filter873"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60477"
+       x="-0.075000352"
+       width="1.1500007"
+       y="-0.074999648"
+       height="1.1499993">
       <feGaussianBlur
-         id="feGaussianBlur875"
-         stdDeviation="0.85500009"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.50000234"
+         id="feGaussianBlur60479" />
     </filter>
     <filter
-       height="1.215999"
-       y="-0.10799949"
-       width="1.216001"
-       x="-0.10800051"
-       id="filter881"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60481"
+       x="-0.059375"
+       width="1.11875"
+       y="-0.10178572"
+       height="1.2035714">
       <feGaussianBlur
-         id="feGaussianBlur883"
-         stdDeviation="0.72000338"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.59375006"
+         id="feGaussianBlur60483" />
     </filter>
   </defs>
   <sodipodi:namedview
      inkscape:current-layer="svg42"
      inkscape:window-maximized="1"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.950131"
      inkscape:zoom="23.8125"
      showgrid="false"
      id="namedview44"
-     inkscape:window-height="1021"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -72,11 +72,12 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <path
      id="path2"
      d="m 32,16 a 0.6659995,0.66600001 0 0 1 -0.333984,0.576172 v 0.002 l -0.01172,0.0059 -0.0039,0.002 -10.837891,6.175781 a 1.4967189,1.49672 0 0 1 -1.460938,0.08984 l 0.0078,0.01172 -11.0097656,-6.273437 v -0.0098 h -0.00977 l -0.029297,-0.01953 A 0.65067951,0.65068002 0 0 1 8,16.017578 V 28.5 A 1.497999,1.4980001 0 0 0 9.5,30 h 21 a 1.5026388,1.50264 0 0 0 0.369141,-0.05078 0.63692952,0.63693001 0 0 0 0.18164,-0.05859 0.14176989,0.14177001 0 0 0 0.05859,-0.02148 1.0475192,1.04752 0 0 0 0.230469,-0.128907 c 0.02,-0.01 0.03102,-0.0093 0.04102,-0.0293 v 0.0039 A 1.4975589,1.49756 0 0 0 32,28.5 Z"
-     style="opacity:0.5;filter:url(#filter873)" />
+     style="opacity:0.5;filter:url(#filter60481)" />
   <path
      id="path4"
      d="M 28.595539,1.9999999 H 11.404 c -0.775436,4e-7 -1.404038,0.6286351 -1.404,1.40407 V 5 l 0.714286,13.800001 H 20 l 9.285714,-0.7 L 29.999608,5 V 3.4039999 c -2.7e-5,-0.7754234 -0.628644,-1.4040106 -1.404069,-1.404 z"
@@ -132,7 +133,7 @@
   <path
      id="path32"
      d="M 2.3333426,8 H 15.666667 A 1.3333324,1.3333324 0 0 1 17,9.333333 V 22.666797 A 1.3333425,1.3333425 0 0 1 15.666657,24.00015 H 2.3333324 A 1.3333324,1.3333324 0 0 1 1,22.666807 V 9.333343 A 1.3333425,1.3333425 0 0 1 2.3333426,8 Z"
-     style="opacity:0.5;filter:url(#filter881)" />
+     style="opacity:0.5;filter:url(#filter60477)" />
   <path
      id="path36"
      d="M 2.3333426,7.9999252 H 15.666667 A 1.3333324,1.3333324 0 0 1 17,9.3332584 V 22.666722 a 1.3333425,1.3333425 0 0 1 -1.333343,1.333353 H 2.3333324 A 1.3333324,1.3333324 0 0 1 1,22.666732 V 9.3332678 A 1.3333425,1.3333425 0 0 1 2.3333426,7.9999252 Z"

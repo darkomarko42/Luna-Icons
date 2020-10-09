@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="youtube.svg"
    id="svg12"
    version="1"
@@ -27,17 +27,17 @@
   <defs
      id="defs16">
     <filter
-       height="1.2592"
-       y="-0.1296"
-       width="1.1851429"
-       x="-0.092571428"
-       id="filter858"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter40180"
+       x="-0.064285714"
+       width="1.1285714"
+       y="-0.090000001"
+       height="1.18">
       <feGaussianBlur
-         id="feGaussianBlur860"
-         stdDeviation="1.08"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.75000002"
+         id="feGaussianBlur40182" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -46,11 +46,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="15.073001"
      inkscape:zoom="26.96875"
      showgrid="false"
      id="namedview14"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -59,9 +59,10 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <path
-     style="fill:#000000;fill-opacity:1;filter:url(#filter858);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter40180)"
      d="M 13.69767,25.982025 C 9.0697113,25.892268 7.1912893,25.813016 6.0426455,25.659053 5.2003006,25.546141 4.7866286,25.436065 4.3200716,25.200682 3.5494977,24.811925 3.0702637,24.269824 2.7244148,23.395704 2.4082108,22.596535 2.2794598,21.961792 2.1612998,20.6195 2.0279568,19.104715 2.0175338,18.830485 2.0036878,16.470335 1.9873778,13.694792 2.0202078,12.785271 2.2028728,10.943016 2.2986608,9.9772122 2.4382688,9.3353544 2.7005938,8.6547058 2.9394967,8.0348522 3.1576097,7.6927622 3.5542787,7.3157822 4.0528187,6.8419886 4.6003376,6.5539693 5.2915316,6.401925 6.3232196,6.1749786 10.98629,6 16.002406,6 c 5.016116,0 9.679187,0.1749786 10.710874,0.401925 0.746109,0.1641264 1.293705,0.4672843 1.827987,1.0120007 0.418166,0.4263315 0.633542,0.8137236 0.889847,1.6005965 0.264096,0.8107807 0.365379,1.5283158 0.515445,3.6516608 0.07126,1.008346 0.07125,5.650096 0,6.657946 -0.08338,1.179026 -0.185696,2.228978 -0.253827,2.604671 -0.175154,0.96589 -0.519162,1.87023 -0.907011,2.384407 -0.266098,0.352765 -0.791392,0.773091 -1.230649,0.984729 -0.444787,0.214304 -0.86856,0.320549 -1.551724,0.389055 -2.116947,0.212278 -8.58142,0.367272 -12.30565,0.295034 z"
      id="path4-3" />
   <path

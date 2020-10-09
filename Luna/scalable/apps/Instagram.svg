@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="Instagram.svg"
    id="svg28"
    version="1.1"
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -32,11 +32,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="25.486638"
-     inkscape:cx="26.663773"
+     inkscape:cx="24.751838"
      inkscape:zoom="13.075758"
      showgrid="false"
      id="namedview30"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -45,7 +45,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <defs
      id="defs20">
     <linearGradient
@@ -114,24 +115,24 @@
        fx="147.694"
        fy="473.45499" />
     <filter
-       height="1.2160296"
-       y="-0.10801478"
-       width="1.2159704"
-       x="-0.10798522"
-       id="filter883"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter61630"
+       x="-0.074989738"
+       width="1.1499795"
+       y="-0.075010264"
+       height="1.1500205">
       <feGaussianBlur
-         id="feGaussianBlur885"
-         stdDeviation="1.2598289"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.87488115"
+         id="feGaussianBlur61632" />
     </filter>
   </defs>
   <path
      fill="url(#d)"
      d="m 16.004577,2.0038171 c -5.84487,0 -7.5542721,0.00603 -7.8865481,0.033594 -1.199467,0.099704 -1.94585,0.2885608 -2.758989,0.6934078 -0.626651,0.3111722 -1.120866,0.6718736 -1.608621,1.1775016 -0.888294,0.9221036 -1.426654,2.0565364 -1.621541,3.4050213 -0.094751,0.6546461 -0.122315,0.7881595 -0.127914,4.1320232 -0.0022,1.114621 0,2.581545 0,4.549144 0,5.840133 0.0065,7.547812 0.03446,7.879442 0.0969,1.167165 0.279947,1.901488 0.667567,2.704722 0.740783,1.537557 2.155594,2.691802 3.822358,3.12249 0.577122,0.148587 1.214541,0.230418 2.032848,0.26918 0.346704,0.01507 3.8805011,0.02584 7.4164521,0.02584 3.53595,0 7.071901,-0.0043 7.409991,-0.02153 0.947514,-0.04458 1.497718,-0.118439 2.106066,-0.275641 1.67753,-0.432841 3.0665,-1.569858 3.822358,-3.12895 0.380082,-0.783852 0.572815,-1.546171 0.66003,-2.652393 0.01895,-0.241186 0.02692,-4.086586 0.02692,-7.926818 0,-3.840877 -0.0086,-7.6791708 -0.02756,-7.9203563 C 29.884151,6.9463954 29.691418,6.1905375 29.299061,5.3916108 28.977122,4.7376107 28.619651,4.2492103 28.100671,3.7498273 27.174476,2.8651936 26.041766,2.3268333 24.691989,2.1321622 24.037989,2.0376261 23.907706,2.0096314 20.561258,2.0038171 Z"
      id="path24-3"
-     style="fill:#000000;fill-opacity:1;stroke-width:0.215344;filter:url(#filter883);opacity:0.5" />
+     style="fill:#000000;fill-opacity:1;stroke-width:0.215344;opacity:0.5;filter:url(#filter61630)" />
   <path
      style="fill:url(#c);stroke-width:0.215344"
      id="path22"

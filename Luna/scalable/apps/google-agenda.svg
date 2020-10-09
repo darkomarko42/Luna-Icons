@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:ns="&amp;ns_sfw;"
+   xmlns:ns="&amp;#38;ns_sfw;"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -9,7 +9,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    height="32"
    width="32"
    sodipodi:docname="google-agenda.svg"
@@ -230,16 +230,6 @@
    inkscape:collect="always"><feGaussianBlur
      id="feGaussianBlur1623"
      stdDeviation="30.941411"
-     inkscape:collect="always" /></filter><filter
-   height="1.2598791"
-   y="-0.12993957"
-   width="1.2132309"
-   x="-0.10661544"
-   id="filter1625"
-   style="color-interpolation-filters:sRGB"
-   inkscape:collect="always"><feGaussianBlur
-     id="feGaussianBlur1627"
-     stdDeviation="1.2765547"
      inkscape:collect="always" /></filter>
 			<defs
    id="defs15">
@@ -262,17 +252,27 @@
 		
 				
 				
-			</defs><sodipodi:namedview
+			<filter
+   inkscape:collect="always"
+   style="color-interpolation-filters:sRGB"
+   id="filter61682"
+   x="-0.068268758"
+   width="1.1365375"
+   y="-0.083203828"
+   height="1.1664077"><feGaussianBlur
+     inkscape:collect="always"
+     stdDeviation="0.81741261"
+     id="feGaussianBlur61684" /></filter></defs><sodipodi:namedview
    inkscape:current-layer="g202"
    inkscape:window-maximized="1"
    inkscape:window-y="0"
    inkscape:window-x="0"
    inkscape:cy="21.707415"
-   inkscape:cx="-1.7962785"
+   inkscape:cx="-3.7239893"
    inkscape:zoom="12.96875"
    showgrid="false"
    id="namedview205"
-   inkscape:window-height="1002"
+   inkscape:window-height="1000"
    inkscape:window-width="1920"
    inkscape:pageshadow="2"
    inkscape:pageopacity="0"
@@ -281,7 +281,8 @@
    objecttolerance="10"
    borderopacity="1"
    bordercolor="#666666"
-   pagecolor="#ffffff" />
+   pagecolor="#ffffff"
+   inkscape:document-rotation="0" />
 <metadata
    id="metadata2">
 	<ns:sfw>
@@ -295,7 +296,7 @@
 	</ns:sfw>
 <rdf:RDF><cc:Work
      rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-       rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata>
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata>
 <g
    id="g202">
 	<path
@@ -306,7 +307,7 @@
    d="M 607.231,0 H 89.299 C 59.696,0 35.719,23.977 35.719,53.579 l 1.027,339.335 H 660.81 V 53.579 C 660.811,23.977 636.834,0 607.231,0 Z"
    id="path10-6" /><path
    d="m 3.842771,6.4216167 c -1.221293,0 -2.210933,0.989602 -2.210933,2.210938 0,0.103143 0.00623,0.203166 0.01953,0.300781 l 1.45312,9.2773443 -0.73047,9.425781 c -0.00367,0.05157 -0.00586,0.100772 -0.00586,0.152344 0,1.221336 0.98965,2.210937 2.210941,2.210937 h 22.841797 c 1.221336,0 2.210938,-0.989643 2.210938,-2.210937 0,-0.05157 -0.0021,-0.100772 -0.0059,-0.152344 L 28.895466,18.21068 30.34859,8.9333357 c 0.01291,-0.09947 0.01953,-0.199495 0.01953,-0.300781 4.2e-5,-1.221336 -0.989643,-2.210938 -2.210938,-2.210938 z"
-   style="opacity:0.5;stroke-width:0.0412572;filter:url(#filter1625)"
+   style="opacity:0.5;stroke-width:0.0412572;filter:url(#filter61682)"
    id="path22-2" /><g
    transform="matrix(0.04125716,0,0,0.04125716,1.6315752,2.0000016)"
    id="g12">

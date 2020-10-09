@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="popcorn-time.svg"
    id="svg84"
    version="1.1"
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,17 +80,17 @@
          id="stop44-7" />
     </linearGradient>
     <filter
-       height="1.1851424"
-       y="-0.092571209"
-       width="1.2592009"
-       x="-0.12960043"
-       id="filter1645"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter60381"
+       x="-0.090000299"
+       width="1.1800006"
+       y="-0.064285562"
+       height="1.1285711">
       <feGaussianBlur
-         id="feGaussianBlur1647"
-         stdDeviation="1.080018"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.75001251"
+         id="feGaussianBlur60383" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -99,11 +99,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="17.930195"
-     inkscape:cx="-2.8495316"
+     inkscape:cx="-5.015359"
      inkscape:zoom="11.542933"
      showgrid="false"
      id="namedview86"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -112,7 +112,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <linearGradient
      id="a">
     <stop
@@ -314,7 +315,7 @@
   </linearGradient>
   <path
      d="M 18.300047,2.0002662 C 15.636485,2.0331622 12.993006,3.5924067 11.89575,7.3147194 10.176848,4.2130662 3.6844388,7.2856874 7.7414528,11.34011 c -2.008169,0.312129 -2.588636,3.291733 -0.072265,4.109375 0.455577,0.413713 0.975713,0.757866 1.525391,1.0625 -0.113911,0.1899 -0.195313,0.409391 -0.195313,0.660157 0,-0.324435 -0.112219,-0.616426 -0.292969,-0.828126 -0.18075,-0.211702 -0.430028,-0.34375 -0.707031,-0.34375 -0.276999,0 -0.526281,0.132048 -0.707031,0.34375 -0.18075,0.2117 -0.292969,0.503691 -0.292969,0.828126 v 12.828125 h 2 2.0000002 2 2 2 2 2 2 2 V 17.172142 c 0,-0.324435 -0.112219,-0.616426 -0.292969,-0.828126 -0.110223,-0.129098 -0.250406,-0.213687 -0.402344,-0.271484 0.279133,-0.155234 0.536984,-0.317794 0.767579,-0.484375 1.530584,-1.433567 1.003838,-3.498179 -0.382813,-3.996094 2.541823,-5.4641147 -1.949401,-9.6466241 -6.388672,-9.5917968 z m 4.832032,14.6249998 c -0.07626,0.165127 -0.132813,0.34516 -0.132813,0.546876 0,-0.163866 -0.02845,-0.319796 -0.08008,-0.460938 0.07178,-0.02836 0.142758,-0.05687 0.212891,-0.08594 z"
-     style="fill:#000000;fill-opacity:1;stroke-width:0.227216;filter:url(#filter1645);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.227216;opacity:0.5;filter:url(#filter60381)"
      id="path56-4" />
   <path
      d="M 7.6696186,15.450088 C 12.106256,19.479037 21.56918,18.118906 25.071632,15.588743 26.602216,14.155176 26.074866,12.090327 24.688215,11.592412 28.755132,2.8498282 14.820693,-2.6120586 11.894678,7.3141086 10.175776,4.2124555 3.6842051,7.2851384 7.7412184,11.339561 c -2.0081685,0.312129 -2.5879703,3.292885 -0.0716,4.110527 z"

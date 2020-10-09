@@ -12,7 +12,7 @@
    version="1"
    id="svg16"
    sodipodi:docname="virtualbox-hdd.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -30,15 +30,15 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter847"
-       x="-0.108"
-       width="1.216"
-       y="-0.108"
-       height="1.216">
+       id="filter33089"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="1.26"
-         id="feGaussianBlur849" />
+         stdDeviation="0.875"
+         id="feGaussianBlur33091" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -52,18 +52,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      id="namedview18"
      showgrid="false"
      inkscape:zoom="24.375"
-     inkscape:cx="14.974359"
+     inkscape:cx="13.948718"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg16" />
   <rect
-     style="opacity:0.5;filter:url(#filter847)"
+     style="opacity:0.5;filter:url(#filter33089)"
      width="28"
      height="28"
      x="2"

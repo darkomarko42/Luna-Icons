@@ -8,8 +8,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="aptdaemon-working.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="system-software-install.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg8"
    version="1.1"
    viewBox="0 0 8.4666665 8.4666669"
@@ -121,19 +121,6 @@
        id="linearGradient969-3"
        xlink:href="#handleGrad"
        inkscape:collect="always" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter2026"
-       x="-0.10799768"
-       width="1.2159954"
-       y="-0.10800232"
-       height="1.2160046">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.33336783"
-         id="feGaussianBlur2028" />
-    </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="7.383431"
@@ -152,12 +139,25 @@
        id="linearGradient928"
        xlink:href="#linearGradient867"
        inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter40503"
+       x="-0.074998388"
+       width="1.1499968"
+       y="-0.075001612"
+       height="1.1500032">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.23150544"
+         id="feGaussianBlur40505" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1020"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
@@ -165,7 +165,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="4.0822042"
-     inkscape:cx="6.5010376"
+     inkscape:cx="4.3364593"
      inkscape:zoom="11.549594"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -191,7 +191,7 @@
      inkscape:label="Capa 1">
     <path
        id="rect850-2-3"
-       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.523708;filter:url(#filter2026)"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.523708;filter:url(#filter40503)"
        d="m 4.1863076,0.53159172 c -0.091957,0.007 -0.184558,0.030162 -0.273885,0.07028 C 3.7337685,0.68210672 3.5663214,0.82360342 3.4008259,1.0256183 3.2793083,1.1739514 3.1577963,1.3687043 3.0359903,1.5873411 H 0.53433431 c -0.0015,0.017342 -0.005168,0.034472 -0.005168,0.052193 v 5.6689045 c 0,0.348406 0.30022667,0.6289022 0.67282719,0.6289022 h 6.0626789 c 0.3726008,0 0.6728272,-0.2804962 0.6728272,-0.6289022 V 1.6395341 c 0,-0.017722 -0.00416,-0.034851 -0.00568,-0.052193 H 5.4751179 C 5.4385983,1.5247854 5.402557,1.4588417 5.365564,1.4007893 5.0928984,0.97290012 4.8086746,0.65956572 4.457609,0.55898012 4.3698427,0.53383382 4.2782649,0.52459222 4.1863076,0.53159172 Z m 0.023771,0.322461 c 0.052617,-0.00413 0.1040468,0.00222 0.157613,0.01757 0.2142657,0.06139 0.4705729,0.30482668 0.7245038,0.70331618 0.00242,0.0038 0.00481,0.00857 0.00723,0.012402 H 3.4065104 C 3.4900161,1.448817 3.5721364,1.3269668 3.6509399,1.2307738 3.7948505,1.0551066 3.9287712,0.95131432 4.045231,0.89901122 c 0.05823,-0.026152 0.1122307,-0.040824 0.1648476,-0.0449585 z" />
     <path
        d="m 0.53459418,1.5875003 c -0.00152,0.017342 -0.00543,0.034143 -0.00543,0.051864 v 5.6689984 c 0,0.348406 0.3002264,0.6291371 0.67282712,0.6291371 h 6.0626786 c 0.3726009,0 0.6728274,-0.2807311 0.6728274,-0.6291371 v -5.668998 c 0,-0.017722 -0.00391,-0.034522 -0.00543,-0.051864 z"

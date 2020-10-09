@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
@@ -13,7 +12,7 @@
    version="1"
    id="svg10"
    sodipodi:docname="preferences-system-parental-controls.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -27,40 +26,18 @@
   </metadata>
   <defs
      id="defs14">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient845">
-      <stop
-         style="stop-color:#fecd38;stop-opacity:1;"
-         offset="0"
-         id="stop841" />
-      <stop
-         style="stop-color:#e6ad00;stop-opacity:1"
-         offset="1"
-         id="stop843" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient845"
-       id="linearGradient847"
-       x1="2"
-       y1="16"
-       x2="30"
-       y2="16"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,-32)" />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter873"
-       x="-0.108"
-       width="1.216"
-       y="-0.108"
-       height="1.216">
+       id="filter60097"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="1.26"
-         id="feGaussianBlur875" />
+         stdDeviation="0.875"
+         id="feGaussianBlur60099" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -73,12 +50,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1918"
-     inkscape:window-height="1005"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
      id="namedview12"
      showgrid="false"
      inkscape:zoom="23.8125"
-     inkscape:cx="14.950131"
+     inkscape:cx="13.900262"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -86,7 +63,7 @@
      inkscape:current-layer="svg10" />
   <rect
      transform="rotate(90)"
-     style="opacity:0.5;fill:#080600;fill-opacity:1;filter:url(#filter873)"
+     style="opacity:0.5;fill:#080600;fill-opacity:1;filter:url(#filter60097)"
      id="rect2-3"
      ry="3.6819994"
      rx="3.6819994"
@@ -104,7 +81,7 @@
      rx="3.5576992"
      ry="3.5576992"
      id="rect2"
-     style="fill:url(#linearGradient847);fill-opacity:1"
+     style="fill:#fecd38;fill-opacity:1"
      transform="rotate(90)" />
   <path
      fill="#333"

@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="sublime-text.svg"
    id="svg18"
    version="1"
@@ -39,19 +39,6 @@
          offset="1"
          style="stop-color:#2e2e2e;stop-opacity:1" />
     </linearGradient>
-    <filter
-       height="1.291276"
-       y="-0.145638"
-       width="1.1716417"
-       x="-0.08582086"
-       id="filter872"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur874"
-         stdDeviation="0.364095"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="30"
@@ -62,17 +49,17 @@
        xlink:href="#linearGradient880"
        inkscape:collect="always" />
     <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter908"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter41497"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
-         id="feGaussianBlur910"
-         stdDeviation="1.26"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur41499" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -81,11 +68,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.974359"
      inkscape:zoom="24.375"
      showgrid="false"
      id="namedview20"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -94,9 +81,10 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <rect
-     style="fill:#000000;fill-opacity:1;filter:url(#filter908);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter41497)"
      width="28"
      height="28"
      x="2"
@@ -124,7 +112,7 @@
   <path
      id="path14"
      d="m22.545 16.455l-8.727 2.727 8.727 3.273 1.455-0.455v-5l-1.455-0.545z"
-     style="opacity:0.5;filter:url(#filter872)" />
+     style="opacity:0.2" />
   <path
      id="path16"
      d="m8 10 16 6v6l-16-6z"

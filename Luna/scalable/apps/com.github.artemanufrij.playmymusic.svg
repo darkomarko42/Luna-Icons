@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="com.github.artemanufrij.playmymusic.svg"
    id="svg22"
    version="1"
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,28 +53,28 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter841"
-       x="-0.108"
-       width="1.216"
-       y="-0.108"
-       height="1.216">
+       id="filter60764"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="1.26"
-         id="feGaussianBlur843" />
+         stdDeviation="0.875"
+         id="feGaussianBlur60766" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter845"
-       x="-0.11880001"
-       width="1.2376"
-       y="-0.098999995"
-       height="1.198">
+       id="filter60768"
+       x="-0.082500005"
+       width="1.165"
+       y="-0.068749997"
+       height="1.1375">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.49499995"
-         id="feGaussianBlur847" />
+         stdDeviation="0.34374997"
+         id="feGaussianBlur60770" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -84,11 +84,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="12.506212"
-     inkscape:cx="-4.803237"
+     inkscape:cx="-6.4981523"
      inkscape:zoom="14.75"
      showgrid="false"
      id="namedview24"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -107,7 +107,7 @@
      x="2"
      height="28"
      width="28"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.7;filter:url(#filter841)" />
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.7;filter:url(#filter60764)" />
   <rect
      id="rect8"
      transform="matrix(0,1,1,0,0,0)"
@@ -147,9 +147,9 @@
   <path
      inkscape:connector-curvature="0"
      id="path4-7"
-     d="m 19.818714,10 -5.675019,1.429329 c -0.426361,0.111279 -0.770343,0.553727 -0.770343,0.983687 v 6.817258 c -0.432341,-0.220512 -0.987636,-0.309639 -1.563294,-0.163944 -1.038783,0.262912 -1.689069,1.11236 -1.466397,1.89732 0.222673,0.784977 1.246407,1.222761 2.285187,0.959842 0.828734,-0.209737 1.399515,-0.802018 1.490622,-1.427825 l 0.02423,-6.44317 5.387555,-1.405481 v 5.083882 c -0.432347,-0.22052 -0.98764,-0.309649 -1.563295,-0.163944 -1.038784,0.262905 -1.690684,1.112344 -1.468012,1.89732 0.222672,0.784969 1.246409,1.222761 2.285189,0.959848 0.828735,-0.209759 1.399513,-0.802015 1.490621,-1.427839 l 0.02424,-8.386691 C 20.300003,10.28712 20.095146,10.04536 19.81874,10 Z"
+     d="m 19.518714,10.1 -5.675019,1.429329 c -0.426361,0.111279 -0.770343,0.553727 -0.770343,0.983687 v 6.817258 c -0.432341,-0.220512 -0.987636,-0.309639 -1.563294,-0.163944 -1.038783,0.262912 -1.6890681,1.11236 -1.466397,1.89732 0.222673,0.784977 1.246407,1.222761 2.285187,0.959842 0.828734,-0.209737 1.399515,-0.802018 1.490622,-1.427825 l 0.02423,-6.44317 5.387555,-1.405481 v 5.083882 c -0.432347,-0.22052 -0.98764,-0.309649 -1.563295,-0.163944 -1.038784,0.262905 -1.690684,1.112344 -1.468012,1.89732 0.222672,0.784969 1.246409,1.222761 2.285189,0.959848 0.828735,-0.209759 1.399513,-0.802015 1.490621,-1.427839 l 0.02424,-8.386691 C 20.000003,10.38712 19.795146,10.14536 19.51874,10.1 Z"
      class="ColorScheme-Text"
-     style="color:#4d4d4d;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.759554;filter:url(#filter845)" />
+     style="color:#4d4d4d;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.759554;filter:url(#filter60768)" />
   <path
      inkscape:connector-curvature="0"
      id="path4"

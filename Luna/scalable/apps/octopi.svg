@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="octopi.svg"
    id="svg32"
    version="1"
@@ -76,16 +76,16 @@
        xlink:href="#linearGradient879"
        inkscape:collect="always" />
     <filter
-       height="1.2005714"
-       y="-0.10028571"
-       width="1.234"
-       x="-0.117"
+       height="1.1392857"
+       y="-0.069642857"
+       width="1.1625"
+       x="-0.08125"
        id="filter931"
        style="color-interpolation-filters:sRGB"
        inkscape:collect="always">
       <feGaussianBlur
          id="feGaussianBlur933"
-         stdDeviation="1.17"
+         stdDeviation="0.8125"
          inkscape:collect="always" />
     </filter>
   </defs>
@@ -95,11 +95,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="16"
+     inkscape:cx="14.974359"
      inkscape:zoom="24.375"
      showgrid="false"
      id="namedview34"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -108,7 +108,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <path
      fill="#3fc778"
      d="m 14.23088,1.9999999 c -5.6466,0 -10.193,4.4898887 -10.231,10.0799891 h -0.0041 v 16.053317 c 0,1.551198 1.6984,1.849678 3,1.866198 1.2016,0.01525 3,-0.315028 3,-1.866198 0,1.551198 1.7982,1.866198 3,1.866198 1.2018,0 2.9599,-0.566421 3,-1.866198 0,1.551198 1.7982,1.866198 3,1.866198 1.2018,0 2.9599,-0.566421 3,-1.866198 0,1.551198 1.7982,1.866198 3,1.866198 1.2018,0 3,-0.315028 3,-1.866198 V 12.079989 h -0.0041 c -0.038,-5.5901004 -4.585,-10.0799891 -10.231,-10.0799891 z"

@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="dialog-question.svg"
    version="1.1"
    width="32"
@@ -21,11 +21,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="19.600092"
-     inkscape:cx="-6.2217794"
+     inkscape:cx="-8.0195086"
      inkscape:zoom="13.906433"
      showgrid="false"
      id="namedview24"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -103,17 +103,17 @@
          inkscape:collect="always" />
     </filter>
     <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter857"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter6662"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
-         id="feGaussianBlur859"
-         stdDeviation="1.26"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur6664" />
     </filter>
   </defs>
   <rect
@@ -125,7 +125,7 @@
      ry="14"
      transform="matrix(0,-1,-1,0,0,0)"
      id="rect2"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;filter:url(#filter857)" />
+     style="opacity:0.5;fill:#000000;fill-opacity:1;filter:url(#filter6662)" />
   <path
      d="M 2,15.999504 C 2,23.731739 8.2684759,30 15.999824,30 23.73188,30 30,23.731668 30,15.999504 30,8.267623 23.73188,2 15.999824,2 8.2684759,2 2,8.267623 2,15.999504 Z"
      id="path6495"

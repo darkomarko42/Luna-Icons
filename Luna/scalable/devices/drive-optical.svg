@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="drive-optical.svg"
    id="svg10"
    version="1"
@@ -51,17 +51,17 @@
        xlink:href="#linearGradient842"
        inkscape:collect="always" />
     <filter
-       height="1.216"
-       y="-0.108"
-       width="1.216"
-       x="-0.108"
-       id="filter861"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter16381"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
       <feGaussianBlur
-         id="feGaussianBlur863"
-         stdDeviation="1.26"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur16383" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -71,11 +71,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="22.829624"
-     inkscape:cx="14.839167"
+     inkscape:cx="12.442195"
      inkscape:zoom="10.429825"
      showgrid="false"
      id="namedview12"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -86,7 +86,7 @@
      bordercolor="#666666"
      pagecolor="#ffffff" />
   <rect
-     style="fill:#000000;fill-opacity:1;stroke-width:0.5;filter:url(#filter861);opacity:0.5"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.5;opacity:0.5;filter:url(#filter16381)"
      width="28"
      height="28"
      x="-30"

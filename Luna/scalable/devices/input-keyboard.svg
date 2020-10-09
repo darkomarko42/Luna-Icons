@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="input-keyboard.svg"
    id="svg50"
    version="1"
@@ -49,17 +49,17 @@
        xlink:href="#linearGradient870"
        inkscape:collect="always" />
     <filter
-       height="1.2592"
-       y="-0.1296"
-       width="1.1851429"
-       x="-0.092571429"
-       id="filter1543"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter16369"
+       x="-0.064285715"
+       width="1.1285714"
+       y="-0.089999999"
+       height="1.18">
       <feGaussianBlur
-         id="feGaussianBlur1545"
-         stdDeviation="1.08"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.75"
+         id="feGaussianBlur16371" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -69,11 +69,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="14.00158"
-     inkscape:cx="13.195621"
+     inkscape:cx="11.997135"
      inkscape:zoom="20.85965"
      showgrid="false"
      id="namedview52"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -83,17 +83,10 @@
      borderopacity="1"
      bordercolor="#666666"
      pagecolor="#ffffff" />
-  <rect
-     fill="#4f4f4f"
-     width="20"
-     height="28"
-     x="-26"
-     y="-30"
-     rx="1.429"
-     ry="1.4"
-     transform="matrix(0,-1,-1,0,0,0)"
-     id="rect2-0"
-     style="fill:#000000;fill-opacity:1;filter:url(#filter1543);opacity:0.5" />
+  <path
+     id="rect2-9"
+     style="fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter16369);opacity:0.5"
+     d="M 30,24.571 V 7.429 C 30,6.6373339 29.3756,5.9999998 28.6,5.9999998 H 3.4000001 c -0.7756,0 -1.4,0.637334 -1.4,1.4290001 V 24.571 c 0,0.791666 0.6244,1.429 1.4,1.429 H 28.6 c 0.7756,0 1.4,-0.637334 1.4,-1.429 z" />
   <rect
      style="fill-opacity:1;fill:url(#linearGradient872)"
      id="rect2"

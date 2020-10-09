@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="bluetooth.svg"
    id="svg10"
    version="1"
@@ -49,17 +49,17 @@
        xlink:href="#linearGradient827"
        inkscape:collect="always" />
     <filter
-       height="1.1851429"
-       y="-0.092571429"
-       width="1.2592"
-       x="-0.1296"
-       id="filter860"
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
+       id="filter16651"
+       x="-0.09"
+       width="1.18"
+       y="-0.064285714"
+       height="1.1285714">
       <feGaussianBlur
-         id="feGaussianBlur862"
-         stdDeviation="1.08"
-         inkscape:collect="always" />
+         inkscape:collect="always"
+         stdDeviation="0.75"
+         id="feGaussianBlur16653" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -69,11 +69,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="25.713883"
-     inkscape:cx="11.797859"
+     inkscape:cx="10.599373"
      inkscape:zoom="20.85965"
      showgrid="false"
      id="namedview12"
-     inkscape:window-height="1003"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -83,17 +83,11 @@
      borderopacity="1"
      bordercolor="#666666"
      pagecolor="#ffffff" />
-  <rect
-     fill="#324090"
-     width="28"
-     height="20"
-     x="-30"
-     y="-26"
-     rx="11"
-     ry="10"
-     transform="matrix(0,-1,-1,0,0,0)"
+  <path
      id="rect2-7"
-     style="fill:#000000;fill-opacity:0.995987;filter:url(#filter860);opacity:0.5" />
+     style="opacity:0.5;mix-blend-mode:normal;fill:#000000;fill-opacity:0.995987;stroke:none;filter:url(#filter16651)"
+     transform="matrix(0,-1,-1,0,0,0)"
+     d="m -19,-26 h 6 c 6.094,0 11,4.46 11,10 0,5.54 -4.906,10 -11,10 h -6 c -6.094,0 -11,-4.46 -11,-10 0,-5.54 4.906,-10 11,-10 z" />
   <rect
      style="fill-opacity:1;fill:url(#linearGradient829)"
      id="rect2"

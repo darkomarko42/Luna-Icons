@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="x-office-presentation.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="wps-office-dps.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg8"
    version="1.1"
    viewBox="0 0 8.4666665 8.4666669"
@@ -19,30 +19,30 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter978"
-       x="-0.117"
-       width="1.234"
-       y="-0.10028572"
-       height="1.2005714">
+       id="filter33049"
+       x="-0.081249999"
+       width="1.1625"
+       y="-0.069642858"
+       height="1.1392857">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.30956249"
-         id="feGaussianBlur980" />
+         stdDeviation="0.21497395"
+         id="feGaussianBlur33051" />
     </filter>
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
-     inkscape:window-y="24"
-     inkscape:window-x="65"
-     inkscape:window-height="1056"
-     inkscape:window-width="1855"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1000"
+     inkscape:window-width="1920"
      units="px"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="29.418895"
-     inkscape:cx="4.73866"
+     inkscape:cy="11.650126"
+     inkscape:cx="8.8466491"
      inkscape:zoom="18.009126"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,7 +67,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Capa 1">
     <path
-       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29352999;filter:url(#filter978)"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29352999;filter:url(#filter33049)"
        d="M 1.0583334,0.5291668 V 7.9374999 H 7.4083333 V 2.1166666 l -1.5875,-1.5874998 z"
        id="path926-2"
        inkscape:connector-curvature="0" />
@@ -82,13 +82,12 @@
        d="M 5.8208333,0.52916675 V 2.1166669 h 1.5875 z"
        id="path926-1" />
     <path
-       style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.31533667;stroke-opacity:1"
-       d="M 16 10 A 8.0000004 8.0000004 0 0 0 8 18 A 8.0000004 8.0000004 0 0 0 16 26 A 8.0000004 8.0000004 0 0 0 24 18 L 16 18 L 16 10 z "
-       id="path823"
-       transform="scale(0.26458333)" />
+       style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0730037;stroke-opacity:1"
+       d="M 4.1010416,3.1749999 A 1.8520834,1.8520834 0 0 0 2.2489582,5.0270832 1.8520834,1.8520834 0 0 0 4.1010416,6.8791666 1.8520834,1.8520834 0 0 0 5.9531249,5.0270832 H 4.1010416 Z"
+       id="path823" />
     <path
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08343283;stroke-opacity:1"
-       d="M 4.7625,2.1166667 V 4.2333333 H 6.8791667 A 2.1166667,2.1166667 0 0 0 4.7625,2.1166667 Z"
+       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0730037;stroke-opacity:1"
+       d="m 4.3656249,2.9104167 v 1.852083 H 6.2177084 A 1.8520835,1.8520835 0 0 0 4.3656249,2.9104167 Z"
        id="path821"
        inkscape:connector-curvature="0" />
   </g>
