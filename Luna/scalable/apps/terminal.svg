@@ -43,9 +43,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter40376"
-       x="-0.075"
+       x="-0.075000003"
        width="1.15"
-       y="-0.075"
+       y="-0.075000003"
        height="1.15">
       <feGaussianBlur
          inkscape:collect="always"
@@ -65,7 +65,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="14.841847"
-     inkscape:cx="13.035863"
+     inkscape:cx="11.647678"
      inkscape:zoom="18.009126"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -97,8 +97,8 @@
        id="rect833-7-5"
        style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4773;filter:url(#filter40376)"
        transform="scale(1,-1)"
-       rx="0.54353905"
-       ry="0.54353905" />
+       rx="0"
+       ry="0" />
     <rect
        y="-7.9375"
        x="0.5291667"

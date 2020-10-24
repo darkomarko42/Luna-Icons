@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="wps-office-dps.svg"
+   sodipodi:docname="x-office-presentation.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg8"
    version="1.1"
@@ -42,7 +42,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="11.650126"
-     inkscape:cx="8.8466491"
+     inkscape:cx="7.458464"
      inkscape:zoom="18.009126"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -83,11 +83,11 @@
        id="path926-1" />
     <path
        style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0730037;stroke-opacity:1"
-       d="M 4.1010416,3.1749999 A 1.8520834,1.8520834 0 0 0 2.2489582,5.0270832 1.8520834,1.8520834 0 0 0 4.1010416,6.8791666 1.8520834,1.8520834 0 0 0 5.9531249,5.0270832 H 4.1010416 Z"
+       d="M 4.1010416,2.9104165 A 1.8520834,1.8520834 0 0 0 2.2489582,4.7624998 1.8520834,1.8520834 0 0 0 4.1010416,6.6145832 1.8520834,1.8520834 0 0 0 5.9531249,4.7624998 H 4.1010416 Z"
        id="path823" />
     <path
        style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0730037;stroke-opacity:1"
-       d="m 4.3656249,2.9104167 v 1.852083 H 6.2177084 A 1.8520835,1.8520835 0 0 0 4.3656249,2.9104167 Z"
+       d="m 4.3656249,2.6458333 v 1.852083 H 6.2177084 A 1.8520835,1.8520835 0 0 0 4.3656249,2.6458333 Z"
        id="path821"
        inkscape:connector-curvature="0" />
   </g>
