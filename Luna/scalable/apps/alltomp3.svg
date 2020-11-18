@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -26,6 +27,18 @@
   </metadata>
   <defs
      id="defs20">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient854">
+      <stop
+         style="stop-color:#f2f2f2;stop-opacity:1"
+         offset="0"
+         id="stop850" />
+      <stop
+         style="stop-color:#e5e5e5;stop-opacity:1"
+         offset="1"
+         id="stop852" />
+    </linearGradient>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -39,18 +52,27 @@
          stdDeviation="0.875"
          id="feGaussianBlur17616" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient854"
+       id="linearGradient856"
+       x1="8.1456299"
+       y1="3.2959228"
+       x2="23.462063"
+       y2="28.292381"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      inkscape:current-layer="svg16"
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="14.950131"
+     inkscape:cx="13.900262"
      inkscape:zoom="23.8125"
      showgrid="false"
      id="namedview18"
-     inkscape:window-height="1000"
+     inkscape:window-height="1020"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -72,19 +94,18 @@
      style="opacity:0.5;filter:url(#filter17614)" />
   <circle
      r="14"
+     id="circle8-3"
+     cy="16"
+     cx="16"
+     style="fill:url(#linearGradient856);fill-opacity:1;stroke-width:1.27273" />
+  <circle
+     r="12.5"
      id="circle8"
      cy="16"
      cx="16"
-     style="fill:#ff5722;stroke-width:1.27273" />
+     style="fill:#ff5722;stroke-width:1.13636" />
   <path
      id="path12"
      d="M 12.840939,11.000216 A 0.82198326,0.81066576 0 0 0 12,11.811271 v 8.378305 a 0.82198326,0.81066576 0 0 0 1.232833,0.701896 l 3.678254,-2.094021 3.678252,-2.095076 a 0.82198326,0.81066576 0 0 0 0,-1.403737 L 16.911144,13.203229 13.232946,11.10893 a 0.82198326,0.81066576 0 0 0 -0.392063,-0.108881 z"
      style="fill:#ffffff" />
-  <ellipse
-     ry="13.278521"
-     rx="13.278522"
-     cy="16"
-     cx="16"
-     id="path862"
-     style="opacity:1;fill:none;stroke:#d9d9d9;stroke-width:1.44296;stroke-opacity:1" />
 </svg>

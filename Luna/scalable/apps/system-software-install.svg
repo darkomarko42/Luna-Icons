@@ -18,6 +18,18 @@
   <defs
      id="defs2">
     <linearGradient
+       inkscape:collect="always"
+       id="linearGradient886">
+      <stop
+         style="stop-color:#0099ff;stop-opacity:1;"
+         offset="0"
+         id="stop882" />
+      <stop
+         style="stop-color:#0089e5;stop-opacity:1"
+         offset="1"
+         id="stop884" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient934"
        x1="0"
        y1="1"
@@ -152,20 +164,43 @@
          stdDeviation="0.23150544"
          id="feGaussianBlur40505" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter40316"
+       x="-0.075000003"
+       width="1.15"
+       y="-0.075000003"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.46875"
+         id="feGaussianBlur40318" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient886"
+       id="linearGradient888"
+       x1="4.2002606"
+       y1="6.1052604"
+       x2="8.1690106"
+       y2="6.1052604"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.07937527,-12.289896)" />
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-x="0"
-     inkscape:window-height="1000"
+     inkscape:window-height="963"
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="4.0822042"
-     inkscape:cx="4.3364593"
+     inkscape:cy="14.47218"
+     inkscape:cx="2.171881"
      inkscape:zoom="11.549594"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -231,5 +266,23 @@
        style="color:#122036;opacity:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.226785"
        class="ColorScheme-Text"
        id="path4" />
+    <circle
+       style="opacity:0.5;filter:url(#filter40316)"
+       cx="8.625"
+       cy="8.625"
+       r="7.5"
+       id="circle18"
+       transform="matrix(0.26458333,0,0,0.26458333,3.9026044,3.9026044)" />
+    <circle
+       style="fill:url(#linearGradient888);fill-opacity:1;stroke-width:0.264583"
+       cx="6.1052604"
+       cy="-6.1846356"
+       r="1.984375"
+       id="circle20"
+       transform="rotate(90)" />
+    <path
+       style="fill:#ffffff;stroke-width:0.264583"
+       d="M 5.2585939,6.2375523 6.1846355,7.2958857 7.1106771,6.2375523 H 6.5815104 V 4.9146357 H 5.7877605 v 1.3229166 z"
+       id="path22" />
   </g>
 </svg>

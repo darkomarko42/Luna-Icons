@@ -9,7 +9,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="inkscape.svg"
+   sodipodi:docname="inkscape-logo.svg"
    id="svg12"
    version="1"
    height="32"
@@ -28,26 +28,17 @@
   <defs
      id="defs16">
     <linearGradient
-       id="linearGradient870"
-       inkscape:collect="always">
+       inkscape:collect="always"
+       id="linearGradient842">
       <stop
-         id="stop866"
+         style="stop-color:#4d4d4d;stop-opacity:1;"
          offset="0"
-         style="stop-color:#4f4f4f;stop-opacity:1;" />
+         id="stop838" />
       <stop
-         id="stop868"
+         style="stop-color:#262626;stop-opacity:1"
          offset="1"
-         style="stop-color:#737373;stop-opacity:1" />
+         id="stop840" />
     </linearGradient>
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="1.0000122"
-       x2="15.997875"
-       y1="30.855902"
-       x1="16.90085"
-       id="linearGradient872"
-       xlink:href="#linearGradient870"
-       inkscape:collect="always" />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -61,18 +52,27 @@
          stdDeviation="0.93750768"
          id="feGaussianBlur61636" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient842"
+       id="linearGradient844"
+       x1="15.997875"
+       y1="1.0000122"
+       x2="16.669844"
+       y2="30.968525"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      inkscape:current-layer="svg12"
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="14.950131"
+     inkscape:cx="13.900262"
      inkscape:zoom="23.8125"
      showgrid="false"
      id="namedview14"
-     inkscape:window-height="1000"
+     inkscape:window-height="1020"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -90,7 +90,7 @@
   <path
      id="path4"
      d="m 15.997875,1.0000122 c -0.854912,3.487e-4 -1.686603,0.3202854 -2.341797,0.9980469 L 1.9959217,14.041029 C 1.353442,14.7057 1.0126133,15.581792 0.99982791,16.449232 c -1.9218e-4,0.01319 0,0.04613 0,0.06055 -1.2097e-4,2.580774 6.42134519,0.07316 7.04296879,3.228515 0.3363607,1.707702 -3.0429688,0.926343 -3.0429688,2.644531 0,2.015489 6.4349971,0.372166 7.7851561,2.291016 1.033512,1.46883 -2.476242,1.531315 -1.65625,2.9375 0.7034,1.206247 3.018014,0.433495 3.4375,2.054688 0.479149,1.851859 3.362638,1.646053 5.105469,0.177734 1.068368,-0.900089 -1.211054,-1.4645 -0.240234,-2.46875 0.970756,-1.00432 4.826744,-0.814347 4.568359,-2.994141 -0.171003,-1.442614 -1.843453,-1.602896 -1.871094,-3.232421 -0.09653,-1.380014 1.848681,-0.97623 6.820313,-2.34961 1.987938,-0.93399 2.058352,-1.430851 2.050781,-2.291016 -1.57e-4,-0.01705 0,-0.0404 0,-0.05859 -0.01132,-0.867369 -0.412272,-1.743553 -1.054688,-2.408203 L 18.341625,1.9980591 C 17.686288,1.3202265 16.854311,1.000361 15.999828,1.0000122 Z M 28.831859,22.001966 c -0.212024,-0.0077 -0.42531,0.012 -0.576172,0.06055 -0.284365,0.09439 -1.632506,0.148666 -1.521484,1.328125 1.220485,0.589455 3.080943,1.058226 3.302734,-0.121094 0.166515,-0.884372 -0.568911,-1.240509 -1.205078,-1.267578 z M 6.4138904,25.039075 c -0.1188698,0.01628 -0.2002314,0.07384 -0.3164063,0.126954 -0.9290001,0.42449 -1.5515202,1.318819 -0.6835937,1.708984 0.8680546,0.390072 1.4500184,-0.02409 2.2109375,-0.507812 0.7610479,-0.483962 0.7386375,-0.571123 0.6835938,-0.757813 -0.1054935,0.02534 -0.7968046,-0.493363 -1.5253907,-0.570313 -0.1214103,-0.01221 -0.2503032,-0.01628 -0.3691406,0 z"
-     style="fill:url(#linearGradient872);fill-rule:evenodd;fill-opacity:1" />
+     style="fill:url(#linearGradient844);fill-rule:evenodd;fill-opacity:1" />
   <path
      id="path8"
      d="m 16.053483,4.0713697 c 0.879785,0.00748 3.2905,2.9907858 5.441357,5.2250001 0.605,0.8117862 -0.234015,1.6437862 -0.234015,1.6437862 l -4.505,-2.4657148 -1.989285,2.7007148 -1.755,-2.641429 -1.053572,4.109286 L 8.857254,10.764442 9.6765397,9.7072982 14.532254,4.7175125 C 14.904718,4.3378268 15.18994,4.0650054 16.053468,4.0717268 Z"

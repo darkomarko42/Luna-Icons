@@ -33,18 +33,18 @@
       <stop
          id="stop870"
          offset="0"
-         style="stop-color:#4da9ff;stop-opacity:1" />
+         style="stop-color:#80c2ff;stop-opacity:1" />
       <stop
          id="stop872"
          offset="1"
-         style="stop-color:#0680f4;stop-opacity:1" />
+         style="stop-color:#0076e6;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        gradientTransform="translate(0,-32)"
        gradientUnits="userSpaceOnUse"
-       y2="16"
+       y2="3"
        x2="29"
-       y1="16"
+       y1="29"
        x1="3"
        id="linearGradient876"
        xlink:href="#linearGradient874"
@@ -52,7 +52,7 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter60393"
+       id="filter862"
        x="-0.075"
        width="1.15"
        y="-0.075"
@@ -60,20 +60,20 @@
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.8125"
-         id="feGaussianBlur60395" />
+         id="feGaussianBlur864" />
     </filter>
   </defs>
   <sodipodi:namedview
      inkscape:current-layer="svg20"
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-x="0"
      inkscape:cy="14.225731"
-     inkscape:cx="7.1746577"
+     inkscape:cx="4.2051803"
      inkscape:zoom="16.83798"
      showgrid="false"
      id="namedview22"
-     inkscape:window-height="1000"
+     inkscape:window-height="963"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -85,19 +85,20 @@
      pagecolor="#ffffff"
      inkscape:document-rotation="0" />
   <rect
-     style="fill:#000000;fill-opacity:1;opacity:0.5;filter:url(#filter60393)"
-     width="26"
-     height="26"
+     transform="rotate(90)"
+     id="rect4-5"
+     ry="3.5271788"
+     rx="3.5271788"
+     y="-29"
      x="3"
-     y="3"
-     rx="13"
-     ry="13"
-     id="rect4-2" />
+     height="26"
+     width="26"
+     style="fill:#000000;fill-opacity:1;filter:url(#filter862);opacity:0.5" />
   <rect
      transform="rotate(90)"
      id="rect4"
-     ry="13"
-     rx="13"
+     ry="3.5271788"
+     rx="3.5271788"
      y="-29"
      x="3"
      height="26"
