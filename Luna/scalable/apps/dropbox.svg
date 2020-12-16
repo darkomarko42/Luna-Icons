@@ -5,11 +5,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="dropbox.svg"
+   sodipodi:docname="com.dropbox.Client.svg"
    id="svg16"
    version="1"
    height="32"
@@ -27,27 +26,6 @@
   </metadata>
   <defs
      id="defs20">
-    <linearGradient
-       id="linearGradient864"
-       inkscape:collect="always">
-      <stop
-         id="stop860"
-         offset="0"
-         style="stop-color:#e5e5e5;stop-opacity:1;" />
-      <stop
-         id="stop862"
-         offset="1"
-         style="stop-color:#d9d9d9;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="30"
-       x2="16"
-       y1="2"
-       x1="16"
-       id="linearGradient866"
-       xlink:href="#linearGradient864"
-       inkscape:collect="always" />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -68,7 +46,7 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="15.370404"
+     inkscape:cx="14.344763"
      inkscape:zoom="24.375"
      showgrid="false"
      id="namedview18"
@@ -94,7 +72,7 @@
      cy="16"
      cx="16"
      id="path858"
-     style="opacity:1;fill:url(#linearGradient866);fill-opacity:1;stroke:none;stroke-width:3.36813" />
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.36813" />
   <path
      id="path4"
      d="M 15.943081,17.429839 A 1.1429714,1.0476477 0 0 0 15.4375,17.563851 l -2.955357,1.530396 -0.893973,-0.115599 a 1.1429714,1.0476477 0 0 0 -1.302456,1.037313 v 1.629625 a 1.1429714,1.0476477 0 0 0 0.541295,0.890002 l 4.571429,2.593283 a 1.1429714,1.0476477 0 0 0 1.203125,0 l 4.571428,-2.593283 a 1.1429714,1.0476477 0 0 0 0.541295,-0.890002 v -1.786143 a 1.1429714,1.0476477 0 0 0 -1.581474,-0.967749 l -0.719865,0.274161 -2.815849,-1.582567 a 1.1429714,1.0476477 0 0 0 -0.654017,-0.153449 z"

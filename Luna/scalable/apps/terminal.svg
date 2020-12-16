@@ -18,27 +18,17 @@
   <defs
      id="defs2">
     <linearGradient
-       id="linearGradient842"
-       inkscape:collect="always">
+       inkscape:collect="always"
+       id="linearGradient846">
       <stop
-         id="stop838"
+         style="stop-color:#333333;stop-opacity:1;"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1" />
+         id="stop842" />
       <stop
-         id="stop840"
+         style="stop-color:#1a1a1a;stop-opacity:1"
          offset="1"
-         style="stop-color:#262626;stop-opacity:1" />
+         id="stop844" />
     </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(0.85714286,0,0,1,0.60476194,8.4666671)"
-       gradientUnits="userSpaceOnUse"
-       y2="-1.0583334"
-       x2="4.2333333"
-       y1="-7.4083333"
-       x1="4.2333333"
-       id="linearGradient844"
-       xlink:href="#linearGradient842"
-       inkscape:collect="always" />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -52,6 +42,16 @@
          stdDeviation="0.23151042"
          id="feGaussianBlur40378" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient846"
+       id="linearGradient848"
+       x1="4.2799425"
+       y1="7.6985159"
+       x2="4.3635888"
+       y2="0.82558352"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.92307694,0,0,0.92307694,0.32564104,0.32564104)" />
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
@@ -65,7 +65,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="14.841847"
-     inkscape:cx="11.647678"
+     inkscape:cx="10.259493"
      inkscape:zoom="18.009126"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -105,14 +105,14 @@
        height="7.4083333"
        width="7.4083333"
        id="rect833-7-3"
-       style="opacity:1;fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:2.4773"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.4773"
        rx="0"
        ry="0"
        transform="scale(1,-1)" />
     <rect
        ry="0"
        rx="0"
-       style="opacity:1;fill:url(#linearGradient844);fill-opacity:1;stroke:none;stroke-width:2.1234"
+       style="opacity:1;fill:url(#linearGradient848);fill-opacity:1;stroke:none;stroke-width:2.1234"
        id="rect833-7"
        width="6.3499999"
        height="6.3499999"

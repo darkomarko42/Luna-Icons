@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
@@ -17,27 +16,6 @@
    sodipodi:docname="gnome-contacts.svg">
   <defs
      id="defs2">
-    <linearGradient
-       id="linearGradient845"
-       inkscape:collect="always">
-      <stop
-         id="stop841"
-         offset="0"
-         style="stop-color:#d98e4b;stop-opacity:1" />
-      <stop
-         id="stop843"
-         offset="1"
-         style="stop-color:#c77d3e;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="7.9375"
-       x2="4.2333333"
-       y1="0.5291667"
-       x1="4.2333333"
-       id="linearGradient847"
-       xlink:href="#linearGradient845"
-       inkscape:collect="always" />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -60,7 +38,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="18.009126"
-     inkscape:cx="4.6137946"
+     inkscape:cx="3.2256095"
      inkscape:cy="16.237985"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -105,13 +83,13 @@
        height="7.4083333"
        width="6.3499999"
        id="rect833-9"
-       style="opacity:1;fill:url(#linearGradient847);fill-opacity:1;stroke:none;stroke-width:2.29353" />
+       style="opacity:1;fill:#ca864b;fill-opacity:1;stroke:none;stroke-width:2.29353" />
     <path
        id="rect833-8"
        style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29353"
        d="m 1.4541748,0.52916659 c -0.219297,2.6e-7 -0.3958415,0.17654428 -0.3958415,0.39584153 V 7.5416586 c 0,0.2192973 0.1765445,0.3958415 0.3958415,0.3958415 H 2.1166666 V 0.52916659 Z" />
     <circle
-       style="opacity:0.3;fill:#ffffff;stroke:none;stroke-width:0.158178;fill-opacity:1"
+       style="opacity:0.3;fill:#000000;stroke:none;stroke-width:0.158178;fill-opacity:1"
        id="path840"
        cx="4.6302085"
        cy="4.2333336"
