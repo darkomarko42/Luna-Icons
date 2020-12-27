@@ -9,7 +9,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="midori.svg"
+   sodipodi:docname="otter-browser.svg"
    id="svg7"
    version="1.1"
    viewBox="0 0 32 32"
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,7 +40,7 @@
      inkscape:zoom="8"
      showgrid="false"
      id="namedview9"
-     inkscape:window-height="1001"
+     inkscape:window-height="918"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -137,7 +137,7 @@
      r="14"
      transform="scale(-1)" />
   <circle
-     style="opacity:1;fill:#00ffa9;fill-opacity:1;stroke:none;stroke-width:0.468019"
+     style="opacity:1;fill:#bb803c;fill-opacity:1;stroke:none;stroke-width:0.468019"
      id="path2108"
      cx="-16"
      cy="-16"

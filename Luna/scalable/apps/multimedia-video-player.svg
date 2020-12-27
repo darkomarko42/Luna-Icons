@@ -42,19 +42,6 @@
          stdDeviation="0.23151042"
          id="feGaussianBlur1160" />
     </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter1185"
-       x="-0.093749991"
-       width="1.1875"
-       y="-0.062500004"
-       height="1.125">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.082682297"
-         id="feGaussianBlur1187" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient858"
@@ -67,17 +54,17 @@
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1020"
+     inkscape:window-height="1001"
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="14.781724"
-     inkscape:cx="13.996077"
+     inkscape:cy="14.771022"
+     inkscape:cx="14.27287"
      inkscape:zoom="17.919228"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -128,12 +115,15 @@
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.129564"
        d="m 1.0942485,0.56120605 0.7611938,0.76171055 -0.79375,0.79375 H 1.8099671 L 2.2295797,1.697054 2.6042339,1.3229166 2.2295797,0.94826245 1.8104838,0.52916665 H 1.2544454 c -0.056884,0 -0.1063331,0.021923 -0.1601969,0.0320394 z" />
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.305514px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.5;filter:url(#filter1185)"
-       d="m 3.1749998,3.4395833 2.116667,1.5874995 -2.116667,1.5875005 z"
-       id="path996-8" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.305514px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 3.1749999,3.175 5.2916668,4.7624995 3.1749999,6.35 Z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.222771px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 3.7041667,3.8695313 5.2475695,5.027083 3.7041667,6.1846353 Z"
        id="path996" />
+    <circle
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.151214;stroke-opacity:1"
+       id="path846"
+       cx="5.0270834"
+       cy="-4.2333336"
+       r="1.8520833"
+       transform="rotate(90)" />
   </g>
 </svg>

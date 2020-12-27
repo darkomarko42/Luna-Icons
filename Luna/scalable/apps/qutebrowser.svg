@@ -9,7 +9,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="midori.svg"
+   sodipodi:docname="qutebrowser.svg"
    id="svg7"
    version="1.1"
    viewBox="0 0 32 32"
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,12 +35,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="10.173808"
-     inkscape:cx="1.1347666"
-     inkscape:zoom="8"
+     inkscape:cy="14.104142"
+     inkscape:cx="18.055928"
+     inkscape:zoom="11.313708"
      showgrid="false"
      id="namedview9"
-     inkscape:window-height="1001"
+     inkscape:window-height="918"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -137,7 +137,7 @@
      r="14"
      transform="scale(-1)" />
   <circle
-     style="opacity:1;fill:#00ffa9;fill-opacity:1;stroke:none;stroke-width:0.468019"
+     style="opacity:1;fill:#7ebaff;fill-opacity:1;stroke:none;stroke-width:0.468019"
      id="path2108"
      cx="-16"
      cy="-16"
@@ -163,4 +163,14 @@
      id="path2239"
      style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.468019"
      d="M 2.169,13.82916 13.82916,2.169 A 14,14 0 0 0 2.169,13.82916 Z" />
+  <path
+     inkscape:label="qutebrowser-letterform-classical"
+     sodipodi:nodetypes="cccccssccsccccssccsccccsccccc"
+     inkscape:connector-curvature="0"
+     id="qutebrowser-letterform-classical-clone"
+     d="M 19.450465,7 16.31364,8.8709083 v 4.7850747 l 3.136825,-1.870897 z M 13.9975,7.4185675 c -2.87622,-0.01575 -8.3248535,0.8148712 -8.3489848,6.9827855 -0.02925,7.482205 5.5778628,5.773972 6.8486848,5.018883 2.4435,-1.442925 4.960935,-2.969505 7.266983,-4.32063 1.255827,-0.734591 3.60729,-1.21284 3.60729,2.237647 0,3.450499 -2.553198,4.520374 -3.921008,4.446439 v -5.827297 l -3.136825,1.851323 v 6.650055 c 0.168952,0.03465 0.80838,0.118822 1.68885,0.123659 2.87623,0.01575 8.324853,-0.814871 8.348995,-6.982784 0.02925,-7.482207 -5.577862,-5.773973 -6.848695,-5.018885 -2.44349,1.442937 -4.960925,2.969517 -7.266972,4.32063 -1.255826,0.734592 -3.6072905,1.21284 -3.6072905,-2.237647 0,-3.450498 2.5531995,-4.520374 3.9209975,-4.446439 v 5.827298 l 3.136837,-1.851322 V 7.5422275 C 15.51741,7.5075775 14.877982,7.423405 13.9975,7.4185675 Z m 1.688862,10.9254495 -3.136837,1.870896 V 25 l 3.136837,-1.870908 z"
+     style="display:inline;opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0365962">
+    <title
+       id="title4559">qutebrowser-letterform-classical</title>
+  </path>
 </svg>
