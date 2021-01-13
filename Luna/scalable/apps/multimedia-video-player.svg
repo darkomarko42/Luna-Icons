@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="multimedia-video-player.svg"
+   sodipodi:docname="applications-multimedia.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg8"
    version="1.1"
@@ -64,7 +64,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="14.771022"
-     inkscape:cx="14.27287"
+     inkscape:cx="12.877721"
      inkscape:zoom="17.919228"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -114,16 +114,5 @@
        id="path931"
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.129564"
        d="m 1.0942485,0.56120605 0.7611938,0.76171055 -0.79375,0.79375 H 1.8099671 L 2.2295797,1.697054 2.6042339,1.3229166 2.2295797,0.94826245 1.8104838,0.52916665 H 1.2544454 c -0.056884,0 -0.1063331,0.021923 -0.1601969,0.0320394 z" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.222771px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 3.7041667,3.8695313 5.2475695,5.027083 3.7041667,6.1846353 Z"
-       id="path996" />
-    <circle
-       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.151214;stroke-opacity:1"
-       id="path846"
-       cx="5.0270834"
-       cy="-4.2333336"
-       r="1.8520833"
-       transform="rotate(90)" />
   </g>
 </svg>

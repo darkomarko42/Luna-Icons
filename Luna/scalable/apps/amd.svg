@@ -27,19 +27,6 @@
   <defs
      id="defs16">
     <filter
-       height="1.2163769"
-       y="-0.10818846"
-       width="1.2156244"
-       x="-0.1078122"
-       id="filter843"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur845"
-         stdDeviation="0.8085915"
-         inkscape:collect="always" />
-    </filter>
-    <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter17598"
@@ -59,11 +46,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="14.974359"
+     inkscape:cx="13.948718"
      inkscape:zoom="24.375"
      showgrid="false"
      id="namedview14"
-     inkscape:window-height="1000"
+     inkscape:window-height="1001"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -94,11 +81,6 @@
      height="28"
      width="28"
      fill="#c2352a" />
-  <path
-     style="filter:url(#filter843);opacity:0.5"
-     id="path6"
-     d="m7.0938 8.0627 4.9062 4.9373h8v7.9688l5 4.9688v-17.875zm4.9062 6.0933-5 4.875v6.969h7.375l4.937-5h-7.312z"
-     opacity=".2" />
   <path
      id="path8"
      d="m7.0938 7.0627 4.9062 4.9373h8v7.9688l5 4.9688v-17.875zm4.9062 6.0933-5 4.875v6.969h7.375l4.937-5h-7.312z"
