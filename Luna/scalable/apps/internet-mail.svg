@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="internet-mail.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="email.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
    id="svg8"
    version="1.1"
    viewBox="0 0 8.4666665 8.4666669"
@@ -29,6 +29,19 @@
          stdDeviation="0.23151041"
          id="feGaussianBlur61620" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter854"
+       x="-0.075"
+       width="1.15"
+       y="-0.075"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.1984375"
+         id="feGaussianBlur856" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:guide-bbox="true"
@@ -36,7 +49,7 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1000"
+     inkscape:window-height="1003"
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
@@ -44,7 +57,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="6.7042405"
-     inkscape:cx="9.2906464"
+     inkscape:cx="7.0809378"
      inkscape:zoom="11.313709"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -76,6 +89,15 @@
        d="M 4.2333333,0.52916666 0.52916673,2.6458333 V 7.9374999 H 7.9375 V 2.6458333 Z"
        style="opacity:1;fill:#e59100;fill-opacity:1;stroke:none;stroke-width:2.0937"
        id="rect833" />
+    <rect
+       ry="0"
+       rx="0"
+       y="1.5875"
+       x="1.0583334"
+       height="6.3499999"
+       width="6.3499999"
+       id="rect974-3"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.191266;filter:url(#filter854)" />
     <path
        id="rect833-36"
        style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.94415"

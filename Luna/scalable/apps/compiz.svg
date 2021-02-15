@@ -8,8 +8,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="compiz.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="ccsm.svg"
    id="svg12"
    version="1"
    height="32"
@@ -39,19 +39,6 @@
          offset="1"
          style="stop-color:#2996ce;stop-opacity:1" />
     </linearGradient>
-    <filter
-       height="1.1754155"
-       y="-0.087707739"
-       width="1.2810166"
-       x="-0.14050832"
-       id="filter843"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur845"
-         stdDeviation="0.8405325"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="30"
@@ -81,11 +68,11 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="16"
-     inkscape:cx="14.974359"
+     inkscape:cx="13.948718"
      inkscape:zoom="24.375"
      showgrid="false"
      id="namedview14"
-     inkscape:window-height="1000"
+     inkscape:window-height="999"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -117,12 +104,6 @@
      height="28"
      width="28"
      fill="#319ed6" />
-  <path
-     style="filter:url(#filter843);opacity:0.5"
-     id="path4"
-     d="m6 7v16.801l4-5.951 5.543 12.15h4.814l-8.357-13h8l-14-10z"
-     opacity=".2"
-     fill-rule="evenodd" />
   <path
      id="path6"
      d="m6 6v16.8l4-5.95 6 13.15h5l-9-14h8z"

@@ -12,7 +12,7 @@
    viewBox="0 0 8.4666665 8.4666669"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
    sodipodi:docname="folder-green.svg">
   <defs
      id="defs2">
@@ -38,7 +38,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="14.459008"
-     inkscape:cx="12.455567"
+     inkscape:cx="10.726541"
      inkscape:cy="26.331525"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -46,7 +46,7 @@
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="1003"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -73,7 +73,7 @@
        id="rect840-0" />
     <path
        id="rect840-7"
-       style="opacity:1;fill:#00e988;fill-opacity:1;stroke-width:0.922756"
+       style="opacity:1;fill:#00d96e;fill-opacity:1;stroke-width:0.922756"
        d="m 0.52916668,1.5896163 v 0.529167 0.529166 5.291667 H 7.9375 V 2.6479493 2.1187833 H 2.6458333 v -0.529167 z" />
     <path
        id="path859"

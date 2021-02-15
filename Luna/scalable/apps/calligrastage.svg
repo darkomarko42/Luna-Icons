@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
@@ -12,10 +13,22 @@
    viewBox="0 0 8.4666665 8.4666669"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="calligrastage.svg">
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient864">
+      <stop
+         style="stop-color:#bfbfbf;stop-opacity:1;"
+         offset="0"
+         id="stop860" />
+      <stop
+         style="stop-color:#d9d9d9;stop-opacity:1"
+         offset="1"
+         id="stop862" />
+    </linearGradient>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -29,6 +42,15 @@
          stdDeviation="0.1984375"
          id="feGaussianBlur60814" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient864"
+       id="linearGradient866"
+       x1="4.0347915"
+       y1="6.7727022"
+       x2="4.3334994"
+       y2="1.6227814"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -38,7 +60,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="25.46875"
-     inkscape:cx="15.062133"
+     inkscape:cx="14.080538"
      inkscape:cy="17.079462"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -46,7 +68,7 @@
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="999"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -79,13 +101,20 @@
        height="5.2916665"
        width="7.4083333"
        id="rect848"
-       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke-width:0.18178" />
+       style="opacity:1;fill:url(#linearGradient866);fill-opacity:1;stroke-width:0.18178" />
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.150529"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.167594"
+       id="rect848-3-3"
+       width="7.4083333"
+       height="4.4979167"
+       x="0.5291667"
+       y="1.984375" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.16259"
        id="rect848-3"
-       width="6.3499999"
+       width="7.4083333"
        height="4.2333336"
-       x="1.0583334"
+       x="0.5291667"
        y="2.1166666" />
     <rect
        style="opacity:1;fill:#006600;fill-opacity:1;stroke-width:0.0266099"
